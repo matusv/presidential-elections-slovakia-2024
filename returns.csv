@@ -1,49 +1,53 @@
 index,index,date,amount,account_name,message,vs,name
-0,1993,2023-10-10,-10.0,PETROVSKY ANDREJ,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-1,2233,2023-09-06,10.0,PETROVSKY ANDREJ,26550505,,Ivan Korčok
-2,1994,2023-10-10,-25.0,Veronika Peniazkova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-3,2558,2023-08-31,25.0,Veronika Peniazkova,8312AIP-00KUM3BHV2KA,,Ivan Korčok
-4,1989,2023-10-10,-20.0,STEPANEK SAMO,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-5,2396,2023-09-04,20.0,STEPANEK SAMO,drzime palce z Brna,,Ivan Korčok
-6,1995,2023-10-10,-100.0,Robert Sramo,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-7,2431,2023-09-04,100.0,Robert Sramo,Dakujem,,Ivan Korčok
-8,1996,2023-10-10,-50.0,Peter Papp,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-9,2901,2023-08-30,50.0,Peter Papp,Ivan Korcok 2024,,Ivan Korčok
-10,1992,2023-10-10,-50.0,ANDREJ PETROVSKY,"Vrátenie daru podľa paragrafu 5 zák ona 181/2014 z.z. Ďakujeme za podpo ru, pre viac info, prosím, kontaktu jte info@ivankorcok.sk",,Ivan Korčok
-11,2158,2023-09-11,50.0,ANDREJ PETROVSKY,FRA ANDREJ,,Ivan Korčok
-12,1998,2023-10-10,-20.0,Frantisek Vasko,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-13,2645,2023-08-31,20.0,Frantisek Vasko,Drzim palce,,Ivan Korčok
-14,1997,2023-10-10,-30.0,Monika Jakubekova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-15,2540,2023-09-01,30.0,Monika Jakubekova,Podpora k prezidentskej kandidature,,Ivan Korčok
-16,2000,2023-10-10,-0.01,Igor Budinsky,Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z.,,Ivan Korčok
-17,2688,2023-08-31,0.01,Igor Budinsky,pre americku svinu,,Ivan Korčok
-18,1999,2023-10-10,-20.0,V. Kasperova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-19,2511,2023-09-01,20.0,V. Kasperova,96fe279b94e849beab.1,,Ivan Korčok
-20,1937,2023-10-26,-100.0,Kristian Feldsam,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-21,2753,2023-08-31,100.0,Kristian Feldsam,"Tesim sa a verim, ze volby vyhrate.",,Ivan Korčok
-22,1936,2023-10-26,-10.0,J KOJNOK,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-23,2827,2023-08-30,10.0,J KOJNOK,3242V3047875942S0WP,,Ivan Korčok
-24,1892,2023-11-03,-10.0,Dominik Velicky,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-25,2752,2023-08-31,10.0,Dominik Velicky,26502628,,Ivan Korčok
-26,1891,2023-11-03,-50.0,Henrieta Dubecka,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-27,2669,2023-08-31,50.0,Henrieta Dubecka,Kampa,,Ivan Korčok
-28,1890,2023-11-03,-25.0,Anna Janickova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-29,2436,2023-09-04,25.0,Anna Janickova,26527017,,Ivan Korčok
-30,1889,2023-11-03,-10.0,Andrea Kubini MSc,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-31,2399,2023-09-04,10.0,Andrea Kubini MSc,drzim palce,,Ivan Korčok
-32,1888,2023-11-03,-50.0,Ing.Rudolf Klein,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-33,2370,2023-09-04,50.0,Ing.Rudolf Klein,Good luck ??,,Ivan Korčok
-34,1887,2023-11-03,-100.0,Ing.Rudolf Ficek,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-35,2086,2023-09-19,100.0,Ing.Rudolf Ficek,Vela stastia,,Ivan Korčok
-36,1886,2023-11-03,-20.0,Jan Hvilla,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-37,2309,2023-09-04,20.0,Jan Hvilla,26534241,,Ivan Korčok
-38,1130,2023-12-07,-5.0,Julian Nazarovyc Suchostavskyj,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-39,1392,2023-11-23,5.0,Julian Nazarovyc Suchostavskyj,Dar,,Ivan Korčok
-40,305,2024-01-18,-0.01,Adam Husár,"Ďakujeme za podporu, prosíme o vyplnenie formuláru na www.ivankorcok.sk/podporte-ma. Pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-41,286,2024-01-19,0.01,Adam Husár,"Každý jeden cent, pomôže na Vašu prezidentskú kampaň",,Ivan Korčok
-42,304,2024-01-18,-0.01,Golianová Marta,"Ďakujeme za podporu, prosíme o vyplnenie formuláru na www.ivankorcok.sk/podporte-ma. Pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-43,93,2024-01-22,0.01,Golianová Marta,Formulár ivankorcok.sk/podporte-ma sme vyplnili,14012023.0,Ivan Korčok
-44,294,2024-01-19,-20.0,Kristina Kozarikova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
-45,549,2024-01-12,20.0,Kristina Kozarikova,27713453,,Ivan Korčok
-46,13,2023-11-07,-50.0,Šuba Marek,"Vrátenie platby z transparentného účtu, žiadosť Marek Šuba, Nitra, zo dňa 6.11.2023",1.0,Ján Kubiš
-47,15,2023-11-04,50.0,Šuba Marek,F001041120233751375,,Ján Kubiš
+0,2131,2023-10-10,-20.0,STEPANEK SAMO,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+1,2538,2023-09-04,20.0,STEPANEK SAMO,drzime palce z Brna,,Ivan Korčok
+2,2134,2023-10-10,-50.0,ANDREJ PETROVSKY,"Vrátenie daru podľa paragrafu 5 zák ona 181/2014 z.z. Ďakujeme za podpo ru, pre viac info, prosím, kontaktu jte info@ivankorcok.sk",,Ivan Korčok
+3,2300,2023-09-11,50.0,ANDREJ PETROVSKY,FRA ANDREJ,,Ivan Korčok
+4,2135,2023-10-10,-10.0,PETROVSKY ANDREJ,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+5,2375,2023-09-06,10.0,PETROVSKY ANDREJ,26550505,,Ivan Korčok
+6,2136,2023-10-10,-25.0,Veronika Peniazkova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+7,2700,2023-08-31,25.0,Veronika Peniazkova,8312AIP-00KUM3BHV2KA,,Ivan Korčok
+8,2137,2023-10-10,-100.0,Robert Sramo,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+9,2573,2023-09-04,100.0,Robert Sramo,Dakujem,,Ivan Korčok
+10,2138,2023-10-10,-50.0,Peter Papp,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+11,3043,2023-08-30,50.0,Peter Papp,Ivan Korcok 2024,,Ivan Korčok
+12,2142,2023-10-10,-0.01,Igor Budinsky,Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z.,,Ivan Korčok
+13,2830,2023-08-31,0.01,Igor Budinsky,pre americku svinu,,Ivan Korčok
+14,2140,2023-10-10,-20.0,Frantisek Vasko,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+15,2787,2023-08-31,20.0,Frantisek Vasko,Drzim palce,,Ivan Korčok
+16,2139,2023-10-10,-30.0,Monika Jakubekova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+17,2682,2023-09-01,30.0,Monika Jakubekova,Podpora k prezidentskej kandidature,,Ivan Korčok
+18,2141,2023-10-10,-20.0,V. Kasperova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+19,2653,2023-09-01,20.0,V. Kasperova,96fe279b94e849beab.1,,Ivan Korčok
+20,2079,2023-10-26,-100.0,Kristian Feldsam,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+21,2895,2023-08-31,100.0,Kristian Feldsam,"Tesim sa a verim, ze volby vyhrate.",,Ivan Korčok
+22,2078,2023-10-26,-10.0,J KOJNOK,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+23,2969,2023-08-30,10.0,J KOJNOK,3242V3047875942S0WP,,Ivan Korčok
+24,2028,2023-11-03,-20.0,Jan Hvilla,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+25,2451,2023-09-04,20.0,Jan Hvilla,26534241,,Ivan Korčok
+26,2029,2023-11-03,-100.0,Ing.Rudolf Ficek,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+27,2228,2023-09-19,100.0,Ing.Rudolf Ficek,Vela stastia,,Ivan Korčok
+28,2031,2023-11-03,-10.0,Andrea Kubini MSc,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+29,2541,2023-09-04,10.0,Andrea Kubini MSc,drzim palce,,Ivan Korčok
+30,2030,2023-11-03,-50.0,Ing.Rudolf Klein,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+31,2512,2023-09-04,50.0,Ing.Rudolf Klein,Good luck ??,,Ivan Korčok
+32,2033,2023-11-03,-50.0,Henrieta Dubecka,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+33,2811,2023-08-31,50.0,Henrieta Dubecka,Kampa,,Ivan Korčok
+34,2034,2023-11-03,-10.0,Dominik Velicky,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+35,2894,2023-08-31,10.0,Dominik Velicky,26502628,,Ivan Korčok
+36,2032,2023-11-03,-25.0,Anna Janickova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+37,2578,2023-09-04,25.0,Anna Janickova,26527017,,Ivan Korčok
+38,1272,2023-12-07,-5.0,Julian Nazarovyc Suchostavskyj,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+39,1534,2023-11-23,5.0,Julian Nazarovyc Suchostavskyj,Dar,,Ivan Korčok
+40,447,2024-01-18,-0.01,Adam Husár,"Ďakujeme za podporu, prosíme o vyplnenie formuláru na www.ivankorcok.sk/podporte-ma. Pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+41,428,2024-01-19,0.01,Adam Husár,"Každý jeden cent, pomôže na Vašu prezidentskú kampaň",,Ivan Korčok
+42,446,2024-01-18,-0.01,Golianová Marta,"Ďakujeme za podporu, prosíme o vyplnenie formuláru na www.ivankorcok.sk/podporte-ma. Pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+43,235,2024-01-22,0.01,Golianová Marta,Formulár ivankorcok.sk/podporte-ma sme vyplnili,14012023.0,Ivan Korčok
+44,436,2024-01-19,-20.0,Kristina Kozarikova,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte info@ivankorcok.sk",,Ivan Korčok
+45,691,2024-01-12,20.0,Kristina Kozarikova,27713453,,Ivan Korčok
+46,41,2024-01-26,-10.0,Remigius Klacansky,"Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z. Ďakujeme za podporu, pre viac info, prosím, kontaktujte darcovia@ivankorcok.sk",,Ivan Korčok
+47,410,2024-01-19,10.0,Remigius Klacansky,dar,7770817869.0,Ivan Korčok
+48,1,2024-01-26,-0.01,Fuják Ľudovít,Vrátenie daru podľa paragrafu 5 zákona 181/2014 z.z.,,Ivan Korčok
+49,2,2024-01-26,0.01,Fuják Ľudovít,Ľudovít Fuják- na jednosmernú letenku do USA,,Ivan Korčok
+50,13,2023-11-07,-50.0,Šuba Marek,"Vrátenie platby z transparentného účtu, žiadosť Marek Šuba, Nitra, zo dňa 6.11.2023",1.0,Ján Kubiš
+51,15,2023-11-04,50.0,Šuba Marek,F001041120233751375,,Ján Kubiš

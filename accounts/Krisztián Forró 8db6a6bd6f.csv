@@ -1,5 +1,6 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-01-24,-10848,EUR,H and K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 2/2024 - Prezidentske volby 2024",VS: 30240001
-1,2024-01-23,-3237.6,EUR,Kobalt s.r.o.,"Odoslaná platba elektronicky, Prenajom auta pocas kampane Prezidenske volby 2024",VS: 20240008
-2,2024-01-22,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
-3,2024-01-19,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
+0,2024-01-29,-2845,EUR,"EGM, s.r.o.","Odoslaná platba elektronicky, Vyroba bannerov - Prezidentske volby 2024",VS: 202400012
+1,2024-01-24,-10848,EUR,H and K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 2/2024 - Prezidentske volby 2024",VS: 30240001
+2,2024-01-23,-3237.6,EUR,Kobalt s.r.o.,"Odoslaná platba elektronicky, Prenajom auta pocas kampane Prezidenske volby 2024",VS: 20240008
+3,2024-01-22,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
+4,2024-01-19,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
