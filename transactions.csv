@@ -3156,290 +3156,1412 @@ index,date,account_name,amount,message,vs,name
 3154,2023-08-30,Pardubská Katarína,20.0,"Ďakujem, že ste sa na to dali a prajem Vám pevné nervy!",,Ivan Korčok
 3155,2023-08-30,Csóková Denisa,50.0,podpora p. Korcokovi na prezidentske volby,745530.0,Ivan Korčok
 3156,2023-08-30,Tokár Jozef,10.0,IvanKorcok2024,,Ivan Korčok
-3157,2024-01-26,Peter Hudak,69.0,Drzim prsty,,Štefan Harabin
-3158,2024-01-26,Ilavský Martin,0.01,Aby ste VY-HRA-LI,,Štefan Harabin
-3159,2024-01-26,Lubomir Dedera,0.01,Od So ro sa na le ten ku do Mosk vy,,Štefan Harabin
-3160,2024-01-26,"Klema Milan, Ing.",0.01,Kup si poriadny matros.,,Štefan Harabin
-3161,2024-01-25,"NOLIS s.r.o. Opletalova 70/A, 841 07 Bratislava",-1000.0,Tlačová beseda 24.1.2024 - občerstvenie a prenájom priestorov,1124007.0,Štefan Harabin
-3162,2024-01-25,Monika Papayova,20.0,DAR pre prezidenta,,Štefan Harabin
-3163,2024-01-25,Boško Peter,40.0,OO24012500012501,,Štefan Harabin
-3164,2024-01-25,HADIDA MIROSLAV,200.0,27840919,,Štefan Harabin
-3165,2024-01-25,Matej Koncok,20.0,dar,,Štefan Harabin
-3166,2024-01-24,"Sepia tlač s.r.o. Lamačská cesta 8, 811 04 Bratisl",-204.0,propagačný materiál,20240016.0,Štefan Harabin
-3167,2024-01-24,Dana Nemcova,35.0,2402450000047396,,Štefan Harabin
-3168,2024-01-20,Kalafut Jozef,100.0,OO24012000014327,,Štefan Harabin
-3169,2024-01-18,Cukerová Jana,20.0,"Jana Cukerová, bezhotovostný vklad. Veľa šťastia a pevné nervy.",,Štefan Harabin
-3170,2024-01-18,Dufinec Kornel,10.0,Kornel Dufinec - Príspevok k voľbe Štefana Harabina za prezidenta SR.,18012024.0,Štefan Harabin
-3171,2024-01-17,"REGIONPRESS, s.r.o. Trnava",-459.0,inzercia Martin a Lučenec,434240007.0,Štefan Harabin
-3172,2024-01-16,"Hassan Daniel, MUDr.",20.0,Daniel Hassan,,Štefan Harabin
-3173,2024-01-13,Vlček Vladimír,30.0,OO24011300014958,,Štefan Harabin
-3174,2024-01-13,Sűčová Iveta,20.0,dar,13012024.0,Štefan Harabin
-3175,2024-01-10,VRLIK JOZEF,50.0,Dar na kampan,,Štefan Harabin
-3176,2024-01-09,Lukas Kohout,80.0,Dar na kampan,,Štefan Harabin
-3177,2024-01-04,MURKOVA MARIA,20.0,Dar,,Štefan Harabin
-3178,2023-12-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
-3179,2023-12-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3180,2023-12-22,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3181,2023-12-19,GERTHOFER s.r.o. Zohor,-3420.0,tlačoviny,2300204.0,Štefan Harabin
-3182,2023-12-18,Miroslav Cibula - QUADRIX Topoľčany,-1974.0,reklamné predmety,2023047.0,Štefan Harabin
-3183,2023-12-12,Róbert Majoroš,1000.0,dar,,Štefan Harabin
-3184,2023-12-11,CVENGROSCH OSKAR,100.0,Prajem vela sil,2.0,Štefan Harabin
-3185,2023-12-11,JOZEF VARGA,100.0,JOZEF VARGA,,Štefan Harabin
-3186,2023-12-10,Marian Kosuth,1.0,2334450000012431,,Štefan Harabin
-3187,2023-12-09,Mgr.Ružena Hornáčeková NOVAPRESS,-185.0,inzercia k verejnej diskusii,214023.0,Štefan Harabin
-3188,2023-12-09,Kvasnicová Silvia,10.0,F001091220233490037,,Štefan Harabin
-3189,2023-12-08,Ličko Cyril,0.01,OO23120800053447,,Štefan Harabin
-3190,2023-12-07,PM Gastro Sova s.r.o.,-159.3,prenájom priestoru na verejnú diskusiu,20230091.0,Štefan Harabin
-3191,2023-12-05,Milan Hladký,20.0,dar,55092023.0,Štefan Harabin
-3192,2023-12-05,BELUS HYNEK,10.0,Dar na podporu obcianskeho prezidenta SR.,,Štefan Harabin
-3193,2023-12-04,SPACE účet X,-15.0,vrátenie podpory od Zbynek Zykes,,Štefan Harabin
-3194,2023-12-04,Žatková Anna,15.0,podpora od Zdeněk Zikeš,,Štefan Harabin
-3195,2023-12-04,Horňák Vladimír,10.0,F001041220239233592,,Štefan Harabin
-3196,2023-12-04,"Pipiš Rastislav, Ing.",100.0,OO23120400019350,,Štefan Harabin
-3197,2023-12-04,MURKOVA MARIA,20.0,Dar,,Štefan Harabin
-3198,2023-11-30,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3199,2023-11-30,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
-3200,2023-11-28,DANIELA VIRGOVICOVA,101.0,27302141,,Štefan Harabin
-3201,2023-11-27,Jozef Fila,100.0,27292222,25112023.0,Štefan Harabin
-3202,2023-11-21,Žatková Anna,15.0,podpora od Zbyneka Zykeša,,Štefan Harabin
-3203,2023-11-16,Andrea Dadova,5000.0,Dar,16112023.0,Štefan Harabin
-3204,2023-11-15,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3205,2023-11-12,Blaščáková Mária,100.0,F001121120230087341,,Štefan Harabin
-3206,2023-11-09,Janesworld s.r.o. Bratislava-Rusovce,-726.0,reklamné predmety,2023053.0,Štefan Harabin
-3207,2023-11-09,Kvasnicová Silvia,10.0,F001091120237051073,,Štefan Harabin
-3208,2023-11-08,"Isteníková Dana, Ing.",10.0,Dar na kand.prezid.,,Štefan Harabin
-3209,2023-11-03,"REGIONPRESS, s.r.o. Trnava",-564.0,inzercia,134230334.0,Štefan Harabin
-3210,2023-11-01,Jan Gondek,1000.0,Gorali su s Tebou - prezident,1112023.0,Štefan Harabin
-3211,2023-10-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3212,2023-10-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
-3213,2023-10-30,Hudák Maroš,1000.0,Dar,,Štefan Harabin
-3214,2023-10-27,HASAN VLADIMIR,20.0,VH,,Štefan Harabin
-3215,2023-10-27,Elena Galikova,20.0,DAR,,Štefan Harabin
-3216,2023-10-27,"Radovan Bries, Banská Bystrica",-1100.0,fotografické služby,,Štefan Harabin
-3217,2023-10-27,Matusik Milan,4.0,Milan z Terne,,Štefan Harabin
-3218,2023-10-26,Múčková Erika,20.0,Dar na kampan pre JUDr. Harabina Prezidenta Republiky 2024,,Štefan Harabin
-3219,2023-10-26,Róbert Majoroš,1000.0,dar,2510.0,Štefan Harabin
-3220,2023-10-25,Jana Staffenova,10.0,Podpora v kampani za prezidenta pana Harabina,,Štefan Harabin
-3221,2023-10-20,"Mayer media,s.r.o. Bratislava",-4200.0,mediálny priestor Harabin,,Štefan Harabin
-3222,2023-10-20,JURENA MIROSLAV,1000.0,Dar,540617.0,Štefan Harabin
-3223,2023-10-14,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3224,2023-10-14,Matys Ján,10.0,DAR,,Štefan Harabin
-3225,2023-10-13,PAVOL SKULAVIK,100.0,DAR NA KAMPAN,,Štefan Harabin
-3226,2023-10-12,Ďurovcová Anna,20.0,Ďurovec,,Štefan Harabin
-3227,2023-10-12,Michajlová Miroslava,20.0,Dar,,Štefan Harabin
-3228,2023-10-11,ALENA VYCHOPENOVA,10.0,DAR,,Štefan Harabin
-3229,2023-10-10,Lukas Kohout,80.0,Dar na kampan,,Štefan Harabin
-3230,2023-10-09,Ľubica Slivošová,20.0,DAR,,Štefan Harabin
-3231,2023-10-09,Kvasnicová Silvia,10.0,F001091020231127405,,Štefan Harabin
-3232,2023-10-08,Viera Kramarekova,20.0,DAR,,Štefan Harabin
-3233,2023-10-06,Miroslav Jureňa,1000.0,26826278,565528.0,Štefan Harabin
-3234,2023-10-06,Ing.Jozef Tabak,20.0,dar,,Štefan Harabin
-3235,2023-10-05,Mgr.Alena Priecinska,100.0,26815516,,Štefan Harabin
-3236,2023-10-04,Milan Hladký,20.0,Prezident,20245509.0,Štefan Harabin
-3237,2023-10-04,Ing.Ivan Bracok,44.62,Ivan Bracok,,Štefan Harabin
-3238,2023-10-04,"Majlingová Eva, Ing.",20.0,Dar,,Štefan Harabin
-3239,2023-10-04,Ivan Cernansky,0.01,Na psychiatra,,Štefan Harabin
-3240,2023-10-03,BELUS HYNEK,10.0,26794550,,Štefan Harabin
-3241,2023-10-03,PAZDERA IGOR,5.0,26794614,,Štefan Harabin
-3242,2023-10-03,DUSAN KOSTIAL,20.0,PLATBA,,Štefan Harabin
-3243,2023-10-03,DIDICOVA JANA,10.0,26794752,21023.0,Štefan Harabin
-3244,2023-10-03,MICHALCAK STEFAN,10.0,"Michalcak Stefan, Zvolen",,Štefan Harabin
-3245,2023-10-03,MIROSLAV KUBACAK,20.0,PRISPEVOK NA KANDIDATURU,,Štefan Harabin
-3246,2023-10-03,PETER TRENCAN,5.0,PLATBA,,Štefan Harabin
-3247,2023-10-03,STEFAN SVRCEK,50.0,PLATBA,,Štefan Harabin
-3248,2023-10-03,Mader Štefan,20.0,Volebná kampaň,,Štefan Harabin
-3249,2023-10-03,Eva Strnadlová,10.0,26794912,,Štefan Harabin
-3250,2023-10-03,Nikola Luu Thanhova,100.0,"Dufam, ze vyhrate. Mate moj a mamin hlas. Pozdravujem z vychodu.",,Štefan Harabin
-3251,2023-10-03,Margita Kankova,20.0,"dar, prezidentska kandiatura",,Štefan Harabin
-3252,2023-10-03,Dusan Skridlovsky,20.0,26795094,,Štefan Harabin
-3253,2023-10-03,Marek Gajdos,1.0,Prispevok volby,,Štefan Harabin
-3254,2023-10-03,Urbanová Vladimíra,10.0,F001031020237900713,,Štefan Harabin
-3255,2023-10-03,Bodnar Jozef,10.0,dar,,Štefan Harabin
-3256,2023-10-02,Tomková Ľudmila,10.0,Dar - Ľudmila Tomková,,Štefan Harabin
-3257,2023-10-02,Kostolná Viera,50.0,dar prezident SR,2102023.0,Štefan Harabin
-3258,2023-10-02,Zuzana Kosturiakova,50.0,Odoslane z Revolutu,,Štefan Harabin
-3259,2023-10-02,Miroslav Tomcany,20.0,2327550000030919,,Štefan Harabin
-3260,2023-10-02,"Jančovičová Mária,Jančovič Milan",10.0,Dar,10062023.0,Štefan Harabin
-3261,2023-10-02,Kvasnicová Silvia,10.0,F001021020237211961,,Štefan Harabin
-3262,2023-10-02,Kolajová Helena,100.0,OO23100200031553,2102023.0,Štefan Harabin
-3263,2023-10-02,Ambrúzová Daniela,20.0,F001021020237130328,,Štefan Harabin
-3264,2023-10-02,Ofertáler Miroslav,5.0,F001021020237218894,,Štefan Harabin
-3265,2023-10-02,Andrej Tomasov,10.0,Odoslane z Revolutu,,Štefan Harabin
-3266,2023-10-01,Martin Chmara,10.0,2327450000030700,,Štefan Harabin
-3267,2023-09-30,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
-3268,2023-09-30,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3269,2023-09-10,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3270,2023-08-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3271,2023-08-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
-3272,2023-08-21,Jarmila Vargová,50.0,Dar,,Štefan Harabin
-3273,2023-08-17,HERDITZKY ATTILA,5.0,Dar,10062023.0,Štefan Harabin
-3274,2023-08-14,DURAN JAROSLAV,10.0,26351532,,Štefan Harabin
-3275,2023-08-13,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3276,2023-07-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3277,2023-07-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
-3278,2023-07-19,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3279,2023-07-13,GALUS SAMUEL,15.0,26067597,,Štefan Harabin
-3280,2023-06-30,,-5.0,Zverejňovanie účtu,,Štefan Harabin
-3281,2023-06-30,,-2.5,Poplatok za vedenie účtu,,Štefan Harabin
-3282,2023-06-27,DURAN DOMINIK,10.0,25918900,,Štefan Harabin
-3283,2023-06-23,"Ladáni Štefan, Ing.",10.0,Dar,1961.0,Štefan Harabin
-3284,2023-06-20,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
-3285,2023-06-20,Ghillány Tibor Mgr.,50.0,F001200620237522728,,Štefan Harabin
-3286,2023-06-20,"Drobný Igor, Ing.",100.0,Drobny Igor,,Štefan Harabin
-3287,2023-06-20,Andrea Lencova,20.0,Dar pre pana sudcu za jeho odhodlanie,,Štefan Harabin
-3288,2023-06-19,RADOSLAV HORVATH,10.0,Radoslav a Katarina,,Štefan Harabin
-3289,2023-06-14,Jaroslava Polcova,10.0,prispevok,,Štefan Harabin
-3290,2023-06-13,REMIS PETER,500.0,PREZIDENT. DAR.,,Štefan Harabin
-3291,2023-06-13,UHRIK DALIBOR,10.0,25791218,,Štefan Harabin
-3292,2023-06-13,MIROSLAV KUBALA,10.0,25791218,,Štefan Harabin
-3293,2023-06-12,Vnutorny ucet banky,5.0,"CZ0901000000003679330287,HODULAK ROMAN,",,Štefan Harabin
-3294,2023-06-12,DANIELA BLASKOVA,20.0,PREZIDENT,7101.0,Štefan Harabin
-3295,2023-06-12,PAVEL NAD,5.55,PRISPEVOK K VOLBAM 2024,,Štefan Harabin
-3296,2023-06-12,Gabor Lelkes,20.0,25780662,,Štefan Harabin
-3297,2023-06-12,SLUSNY MIROSLAV,5.0,Prispevok od Miroslav Slusny,,Štefan Harabin
-3298,2023-06-12,HERDITZKY ATTILA,5.0,Dar,10062023.0,Štefan Harabin
-3299,2023-06-12,DURAN JAROSLAV,20.0,25780496,,Štefan Harabin
-3300,2023-06-12,Kubovic Lubomir,5.0,Dar,,Štefan Harabin
-3301,2023-06-12,Fafrak Milan,5.0,Fafrak Milan,,Štefan Harabin
-3302,2023-06-11,Klenko Milan,10.0,F001110620237199496,,Štefan Harabin
-3303,2023-06-11,Vaško Marián,5.0,F001110620237161866,,Štefan Harabin
-3304,2023-06-11,Petríková Ružena,10.0,OO23061100006406,,Štefan Harabin
-3305,2023-06-11,Tuchyňová Iveta,10.0,OO23061100000385,,Štefan Harabin
-3306,2023-06-11,Šimkuľák  Martin,15.0,F001110620237204021,,Štefan Harabin
-3307,2023-06-11,Orbanová Eleońora Ing.,5.0,Orbanova Eleonora príspevok,20111957.0,Štefan Harabin
-3308,2023-06-11,Šabík Stanislav,20.0,F001110620237204386,,Štefan Harabin
-3309,2023-06-10,MIHALKA VLADIMIR,5.0,F001100620236770810,,Štefan Harabin
-3310,2023-06-10,Robert Haburaj,5.0,2316150000001456,,Štefan Harabin
-3311,2023-06-10,Lubomir Murarik,10.0,2316150000001755,,Štefan Harabin
-3312,2023-06-10,"Michalidesová Iveta, Ing.",50.0,OO23061000001943,,Štefan Harabin
-3313,2023-06-10,Branislav Hric,50.0,2316150000003009,,Štefan Harabin
-3314,2023-06-10,"Tkáč Milan,Tkáčová Antonia",50.0,"Tkáč Milan, Tkáčová Antónia príspevok na kampaň",,Štefan Harabin
-3315,2023-06-10,Gašparik Jozef,100.0,F001100620236765233,,Štefan Harabin
-3316,2023-06-10,NAŠTICKÝ VLADIMÍR,20.0,Vladimír Naštický,,Štefan Harabin
-3317,2023-06-10,Peter Lulek,10.0,2316150000006106,,Štefan Harabin
-3318,2023-06-10,Tobiašová Ľudmila,10.0,F001100620236778002,,Štefan Harabin
-3319,2023-06-10,Štrbová Blanka,10.0,F001100620236784116,,Štefan Harabin
-3320,2023-06-10,Daniš Martin,10.0,OO23061000007971,,Štefan Harabin
-3321,2023-06-10,Soloninka Patrik,10.0,Prajem veľa úspechov,,Štefan Harabin
-3322,2023-06-10,Cifra Peter,10.0,F001100620236867702,,Štefan Harabin
-3323,2023-06-10,Monika Papayova,20.0,2316150000017898,100623.0,Štefan Harabin
-3324,2023-06-10,Hojnošová Elena,20.0,DAR,1062023.0,Štefan Harabin
-3325,2023-06-10,Birkus Radoslav,20.0,F001100620236914169,,Štefan Harabin
-3326,2023-06-10,Šimek Dávid,30.0,F001100620236742666,,Štefan Harabin
-3327,2024-01-12,Adam Husár,7.0,Za lepšie Slovensko! DAR 2024,,Ján Kubiš
-3328,2024-01-12,Adam Husár,0.3,Za lepšie Slovensko! DAR 2024,,Ján Kubiš
-3329,2024-01-09,Karol Vegso,30.0,prispevok na kandidata na prezidenta SR,,Ján Kubiš
-3330,2024-01-09,Žaludek Stanislav,100.0,DRŽIM PALCE A VERÍM ŽE NÁS NESKLAMETE...,,Ján Kubiš
-3331,2023-12-31,,-5.0,Zverejňovanie účtu,,Ján Kubiš
-3332,2023-12-31,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
-3333,2023-12-31,,-2.5,Poplatok za SMS služby Extra,,Ján Kubiš
-3334,2023-12-28,Dusan Ficor,30.0,Financna podpora na kandidaturu za prezidenta Slovenskej republiky,,Ján Kubiš
-3335,2023-12-11,MAYERMcCANN,-9840.12,Poskytnuté služby,230171.0,Ján Kubiš
-3336,2023-11-30,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
-3337,2023-11-30,,-5.0,Zverejňovanie účtu,,Ján Kubiš
-3338,2023-11-18,Michael Augustín,30.0,F001181120237482955,,Ján Kubiš
-3339,2023-11-15,PROMOTION,-339.68,"nájom kancelárskych priestorov, 11/2023, podľa zmluvy o nájme č.1/2023",23154.0,Ján Kubiš
-3340,2023-11-07,Šuba Marek,-50.0,"Vrátenie platby z transparentného účtu, žiadosť Marek Šuba, Nitra, zo dňa 6.11.2023",1.0,Ján Kubiš
-3341,2023-11-06,,-4.0,Poplatok za zmenu nakladania,,Ján Kubiš
-3342,2023-11-04,Šuba Marek,50.0,F001041120233751375,,Ján Kubiš
-3343,2023-10-31,,-5.0,Zverejňovanie účtu,,Ján Kubiš
-3344,2023-10-31,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
-3345,2023-10-23,Stefan Jassinger,250.0,Stefan Jassinger - podpora kandidatury na prezidenta SR,,Ján Kubiš
-3346,2023-09-30,,-5.0,Zverejňovanie účtu,,Ján Kubiš
-3347,2023-09-30,,-0.69,"Vedenie Platobnej karty elektronickej,2313,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
-3348,2023-09-29,ROMAN LUKAC,20.0,26763021,,Ján Kubiš
-3349,2023-09-29,BLAHO PETER,25.0,Prispevok na kampan,,Ján Kubiš
-3350,2023-09-28,Katarína Blazseková,20.0,Blazsekova,92023.0,Ján Kubiš
-3351,2023-09-28,Michaela Mihalikova,20.0,Jan Kubis,,Ján Kubiš
-3352,2023-09-28,"Kornucik Pavol, Mgr.art.",20.0,kubis,,Ján Kubiš
-3353,2023-09-28,Meszárošová Barbora,20.0,F001280920234457421,,Ján Kubiš
-3354,2023-09-21,"CULTUS Ružinov,a.s.",-50.0,Nájomná zmluva,,Ján Kubiš
-3355,2023-09-19,Hala Martin,10.0,prispwvok prezident,,Ján Kubiš
-3356,2023-09-19,GROHOL RADOVAN,100.0,26669663,,Ján Kubiš
-3357,2023-09-16,Alexander Hauskrecht,25.0,2325950000013541,16092023.0,Ján Kubiš
-3358,2023-09-16,Aleš Kohút,25.0,F001160920234639853,,Ján Kubiš
-3359,2023-09-16,Kozár Martin,20.0,F001160920234598659,,Ján Kubiš
-3360,2023-09-14,Michal Vlček,-80.0,Najomná zmluva,,Ján Kubiš
-3361,2023-09-12,KUBIS JAN,25000.0,Jan Kubis,,Ján Kubiš
-3362,2023-09-11,IVAN SIMKOVIC,20.0,PRE SLOVENSKO SLOVENSKY PREZIDENT A NIE AMERICKY.DRZIM PALCE,,Ján Kubiš
-3363,2023-09-07,"Jana Galbova, Juraj Galba",100.0,2325050000036399,,Ján Kubiš
-3364,2024-01-26,,-4.29,"B1720168872-44544 12** **** 8440;SLOVNAFT-SK10751 ,Nove Mesto na ,SK ;25.01.2024 17:41:52 ;CashBack:0 EUR",,Marta Čurajová
-3365,2024-01-26,,-10.93,"B1720027948-44544 12** **** 8440;Potraviny ROTO II ,Skalica ,SK ;25.01.2024 11:15:22 ;CashBack:0 EUR",,Marta Čurajová
-3366,2024-01-26,,-1150.0,"B3916846681-214544 12** **** 8440;Policajné prezídium ,Bratislava ,SK ;25.01.2024 22:26:35 ",,Marta Čurajová
-3367,2024-01-26,,-40.0,"B1720168863-44544 12** **** 8440;SLOVNAFT-SK10751 ,Nove Mesto na ,SK ;25.01.2024 17:41:08 ;CashBack:0 EUR",,Marta Čurajová
-3368,2024-01-25,,-2.21,"B1719665780-44544 12** **** 8440;1039 TERNO Zaluzick ,Bratislava ,SK ;24.01.2024 19:47:47 ;CashBack:0 EUR",,Marta Čurajová
-3369,2024-01-25,,-11.38,"B1719417089-44544 12** **** 8440;SLOVNAFT-SK10724 ,Leopoldov ,SK ;24.01.2024 18:36:52 ;CashBack:0 EUR",,Marta Čurajová
-3370,2024-01-25,,-72.0,"B1719204485-44544 12** **** 8440;PENZION BYRON ,ZLATE MORAVCE ,SK ;24.01.2024 09:38:01 ;CashBack:0 EUR",,Marta Čurajová
-3371,2024-01-25,,-50.0,"B3915689433-214544 12** **** 8440;Profis ,Holíč ,SK ;25.01.2024 00:36:40 ",,Marta Čurajová
-3372,2024-01-24,,-14.29,"B1718672706-44544 12** **** 8440;SLOVNAFT-SK11410 ,Puchov ,SK ;23.01.2024 15:55:34 ;CashBack:0 EUR",,Marta Čurajová
-3373,2024-01-24,,-70.0,"B1718701763-44544 12** **** 8440;STARA FARA, MAKOV ,MAKOV ,SK ;23.01.2024 09:32:44 ;CashBack:0 EUR",,Marta Čurajová
-3374,2024-01-24,,-39.99,"B1718675252-44544 12** **** 8440;SLOVNAFT-SK10706 ,Ilava ,SK ;23.01.2024 17:43:01 ;CashBack:0 EUR",,Marta Čurajová
-3375,2024-01-24,,-5.98,"B1718842990-44544 12** **** 8440;OMV 2385 ,Trencin ,SK ;23.01.2024 20:57:26 ;CashBack:0 EUR",,Marta Čurajová
-3376,2024-01-24,,-7.34,"B1718842993-44544 12** **** 8440;OMV 2385 ,Trencin ,SK ;23.01.2024 20:55:37 ;CashBack:0 EUR",,Marta Čurajová
-3377,2024-01-23,,-7.38,"B1717927780-44544 12** **** 8440;SLOVNAFT-SK20215 ,Nizna nad Ora ,SK ;22.01.2024 08:53:44 ;CashBack:0 EUR",,Marta Čurajová
-3378,2024-01-23,,-6.38,"B1717932788-44544 12** **** 8440;SLOVNAFT-SK11705 ,Martin ,SK ;22.01.2024 13:14:26 ;CashBack:0 EUR",,Marta Čurajová
-3379,2024-01-23,,-10.28,"B1717937856-44544 12** **** 8440;SLOVNAFT-SK11409 ,Prievidza ,SK ;22.01.2024 16:39:57 ;CashBack:0 EUR",,Marta Čurajová
-3380,2024-01-22,,-19.36,"B1717320601-44544 12** **** 8440;SLOVNAFT-SK20210 ,Ruzomberok ,SK ;21.01.2024 20:10:12 ;CashBack:0 EUR",,Marta Čurajová
-3381,2024-01-22,,-24.0,"B1717084617-44544 12** **** 8440;SALAS U FRANKA ,STARA LUBOVNA ,SK ;20.01.2024 18:20:39 ;CashBack:0 EUR",,Marta Čurajová
-3382,2024-01-22,,-16.0,"B1717222698-44544 12** **** 8440;Penzion ADAK** ,Parnica ,SK ;21.01.2024 22:34:17 ;CashBack:0 EUR",,Marta Čurajová
-3383,2024-01-22,,-71.6,"B1717222312-44544 12** **** 8440;Penzion ADAK** ,Parnica ,SK ;21.01.2024 22:18:57 ;CashBack:0 EUR",,Marta Čurajová
-3384,2024-01-22,,-39.99,"B1717318940-44544 12** **** 8440;SLOVNAFT-SK20210 ,Ruzomberok ,SK ;21.01.2024 18:33:58 ;CashBack:0 EUR",,Marta Čurajová
-3385,2024-01-22,,-3.19,"B1717320630-44544 12** **** 8440;SLOVNAFT-SK20210 ,Ruzomberok ,SK ;21.01.2024 20:13:44 ;CashBack:0 EUR",,Marta Čurajová
-3386,2024-01-22,,-69.7,"B1717326187-44544 12** **** 8440;BKG*HOTEL AT BOOKING.C ,(888)850-3958 ,NL ;20.01.2024 19:41:23 ;CashBack:0 EUR",,Marta Čurajová
-3387,2024-01-22,,-16.66,"B1717494284-44544 12** **** 8440;OMV 2418 ,Liptovsky M ,SK ;21.01.2024 10:49:32 ;CashBack:0 EUR",,Marta Čurajová
-3388,2024-01-21,,-6.39,"B1716585776-44544 12** **** 8440;SLOVNAFT-SK30121 ,Gelnica ,SK ;20.01.2024 09:11:21 ;CashBack:0 EUR",,Marta Čurajová
-3389,2024-01-21,,-1.8,"B1716538798-44544 12** **** 8440;CERPACIA STANICA PODL ,PODLINEC ,SK ;20.01.2024 15:57:29 ;CashBack:0 EUR",,Marta Čurajová
-3390,2024-01-20,,-11.5,"B1716312690-44544 12** **** 8440;Restauracia Emporio, GL ,Gelnica ,SK ;19.01.2024 22:01:41 ;CashBack:0 EUR",,Marta Čurajová
-3391,2024-01-20,,-3.49,"B1715789840-44544 12** **** 8440;SLOVNAFT-SK11901 ,Bardejov ,SK ;19.01.2024 15:03:10 ;CashBack:0 EUR",,Marta Čurajová
-3392,2024-01-20,,-0.6,"B1715789360-44544 12** **** 8440;SLOVNAFT-SK11901 ,Bardejov ,SK ;19.01.2024 14:50:52 ;CashBack:0 EUR",,Marta Čurajová
-3393,2024-01-20,,-29.99,"B1715793890-44544 12** **** 8440;SLOVNAFT-SK11909 ,Sabinov ,SK ;19.01.2024 17:14:24 ;CashBack:0 EUR",,Marta Čurajová
-3394,2024-01-20,,-6.88,"B1715797628-44544 12** **** 8440;SLOVNAFT-SK30121 ,Gelnica ,SK ;19.01.2024 20:13:08 ;CashBack:0 EUR",,Marta Čurajová
-3395,2024-01-20,,-9.4,"B1715789012-44544 12** **** 8440;SLOVNAFT-SK11901 ,Bardejov ,SK ;19.01.2024 14:40:05 ;CashBack:0 EUR",,Marta Čurajová
-3396,2024-01-20,,-9.98,"B1715781210-44544 12** **** 8440;SLOVNAFT-SK11912 ,Medzilaborce ,SK ;19.01.2024 09:15:10 ;CashBack:0 EUR",,Marta Čurajová
-3397,2024-01-20,,-35.4,"B1715648155-44544 12** **** 8440;EUROHOTEL LABOREC ,MEDZILABORCE ,SK ;18.01.2024 22:09:28 ;CashBack:0 EUR",,Marta Čurajová
-3398,2024-01-20,,-35.4,"B1715647639-44544 12** **** 8440;EUROHOTEL LABOREC ,MEDZILABORCE ,SK ;18.01.2024 22:07:55 ;CashBack:0 EUR",,Marta Čurajová
-3399,2024-01-19,,-79.5,"B1714778270-44544 12** **** 8440;HOTEL CENTRUM ,KOSICE ,SK ;16.01.2024 23:55:33 ;CashBack:0 EUR",,Marta Čurajová
-3400,2024-01-19,,-60.0,"B1714954126-44544 12** **** 8440;MOTEL TOSCANA ,VELKE REVISTI ,SK ;17.01.2024 22:28:36 ;CashBack:0 EUR",,Marta Čurajová
-3401,2024-01-19,,-17.6,"B1714954156-44544 12** **** 8440;MOTEL TOSCANA ,VELKE REVISTI ,SK ;17.01.2024 22:32:47 ;CashBack:0 EUR",,Marta Čurajová
-3402,2024-01-19,,-31.98,"B1715041637-44544 12** **** 8440;Tesco Snina ,Snina ,SK ;18.01.2024 11:49:56 ;CashBack:0 EUR",,Marta Čurajová
-3403,2024-01-19,,-100.0,"B3910416362-214544 12** **** 8440;ATM Recycler OM Gelnica ,Gelnica ,SK ;19.01.2024 22:10:43 ",,Marta Čurajová
-3404,2024-01-18,,-9.18,"B1714669966-44544 12** **** 8440;SHELL 8261 ,AMERICKA TRIE ,SK ;17.01.2024 12:54:27 ;CashBack:0 EUR",,Marta Čurajová
-3405,2024-01-18,,-30.0,"B1714669793-44544 12** **** 8440;SHELL 8261 ,AMERICKA TRIE ,SK ;17.01.2024 12:45:08 ;CashBack:0 EUR",,Marta Čurajová
-3406,2024-01-18,,-8.5,"B1714088897-44544 12** **** 8440;SUMUP *STUDENT TAXI ,KOSICE ,SK ;16.01.2024 23:49:06 ;CashBack:0 EUR",,Marta Čurajová
-3407,2024-01-17,,-7.38,"B1713523745-44544 12** **** 8440;SLOVNAFT-SK11618 ,Revuca ,SK ;16.01.2024 13:18:32 ;CashBack:0 EUR",,Marta Čurajová
-3408,2024-01-17,,-17.01,"B1713519260-44544 12** **** 8440;SLOVNAFT-SK11609 ,Poltar ,SK ;16.01.2024 09:40:35 ;CashBack:0 EUR",,Marta Čurajová
-3409,2024-01-17,,-38.0,"B1713383118-44544 12** **** 8440;PENZION ROZALIA ,KOSICE MESTSK ,SK ;16.01.2024 20:36:06 ;CashBack:0 EUR",,Marta Čurajová
-3410,2024-01-17,,-13.7,"B1713409657-44544 12** **** 8440;PLUTO ,KOSICE ,SK ;16.01.2024 17:05:15 ;CashBack:0 EUR",,Marta Čurajová
-3411,2024-01-16,,-5.83,"B1712710475-44544 12** **** 8440;SLOVNAFT-SK20406 ,Detva ,SK ;15.01.2024 13:19:26 ;CashBack:0 EUR",,Marta Čurajová
-3412,2024-01-16,,-9.38,"B1712718465-44544 12** **** 8440;SLOVNAFT-SK11606 ,Lucenec ,SK ;15.01.2024 18:45:12 ;CashBack:0 EUR",,Marta Čurajová
-3413,2024-01-16,,-39.98,"B1712710472-44544 12** **** 8440;SLOVNAFT-SK20406 ,Detva ,SK ;15.01.2024 13:18:06 ;CashBack:0 EUR",,Marta Čurajová
-3414,2024-01-16,,-92.0,"B1712568234-44544 12** **** 8440;Hotel Dumbier ,Brezno ,SK ;15.01.2024 07:15:04 ;CashBack:0 EUR",,Marta Čurajová
-3415,2024-01-15,,-10.79,"B1712060122-44544 12** **** 8440;SLOVNAFT-SK40130 ,Budca ,SK ;14.01.2024 14:42:39 ;CashBack:0 EUR",,Marta Čurajová
-3416,2024-01-15,,-2.34,"B1711853368-44544 12** **** 8440;SHELL 8255 ,LEVICE ,SK ;13.01.2024 18:28:13 ;CashBack:0 EUR",,Marta Čurajová
-3417,2024-01-14,,-9.57,"B1711275843-44544 12** **** 8440;SLOVNAFT-SK20908 ,Nove Zamky ,SK ;13.01.2024 08:54:53 ;CashBack:0 EUR",,Marta Čurajová
-3418,2024-01-14,,-29.99,"B1711275680-44544 12** **** 8440;SLOVNAFT-SK20908 ,Nove Zamky ,SK ;13.01.2024 08:51:48 ;CashBack:0 EUR",,Marta Čurajová
-3419,2024-01-14,,-3.89,"B1711276261-44544 12** **** 8440;SLOVNAFT-SK20908 ,Nove Zamky ,SK ;13.01.2024 09:16:33 ;CashBack:0 EUR",,Marta Čurajová
-3420,2024-01-14,,-10.3,"B1711369000-44544 12** **** 8440;TANTAL,NR,HVIEZD.TRIEDA ,NITRA ,SK ;13.01.2024 13:57:47 ;CashBack:0 EUR",,Marta Čurajová
-3421,2024-01-13,,-8.2,"B1710276442-44544 12** **** 8440;max gourman ,Dunajska Stre ,SK ;12.01.2024 13:54:21 ;CashBack:0 EUR",,Marta Čurajová
-3422,2024-01-13,,2.5,"B1709766465-44544 12** **** 8440;SLOVNAFT-SK40121 ,Senec ,SK ;11.01.2024 00:00:00 ",,Marta Čurajová
-3423,2024-01-13,,-11.76,"B1709766337-44544 12** **** 8440;SLOVNAFT-SK40121 ,Senec ,SK ;11.01.2024 19:24:31 ;CashBack:0 EUR",,Marta Čurajová
-3424,2024-01-13,,-30.0,"B1709766274-44544 12** **** 8440;SLOVNAFT-SK40121 ,Senec ,SK ;11.01.2024 19:20:04 ;CashBack:0 EUR",,Marta Čurajová
-3425,2024-01-13,,-19.45,"B1709509381-44544 12** **** 8440;EDO-KIN BORY MALL ,BRATISLAVA ,SK ;11.01.2024 14:16:04 ;CashBack:0 EUR",,Marta Čurajová
-3426,2024-01-11,AutoRent24 s. r. o,-990.0,Preddavková faktúra č. PF24030001 - úhrada,24030001.0,Marta Čurajová
-3427,2024-01-10,"ISPA, spol. s r.o.",-1285.2,zálohová faktúra č. 24950009 - úhrada,24950009.0,Marta Čurajová
-3428,2024-01-09,ARTON s.r.o.,-4377.6,Faktúra č. 202401241 - úhrada,202401241.0,Marta Čurajová
-3429,2024-01-09,Čurajová Marta,3000.0,F001090120248975197,,Marta Čurajová
-3430,2024-01-09,ARTON s.r.o.,-1494.0,Faktúra č. 202401242 - úhrada,202401242.0,Marta Čurajová
-3431,2024-01-07,,-6.0,"B1705685543-44544 12** **** 8440;SUMUP *MARIO KOHUT ,BRATISLAVA ,SK ;05.01.2024 14:08:32 ;CashBack:0 EUR",,Marta Čurajová
-3432,2024-01-05,"euroAWK, spol. s r.o",-5376.0,Faktúra č. 240307 - úhrada,240307.0,Marta Čurajová
-3433,2024-01-05,2ip Printing Solutions s.r.o.,-1055.0,FAKTÚRA č. 24550001 - úhrada,24550001.0,Marta Čurajová
-3434,2024-01-05,Čurajová Marta,15000.0,F001050120246299364,,Marta Čurajová
-3435,2023-12-31,,-5.0,Zverejňovanie účtu,,Marta Čurajová
-3436,2023-12-21,2ip Printing Solutions s.r.o.,-1000.0,FAKTÚRA č.23551724 - úhrada,,Marta Čurajová
-3437,2023-12-20,Čurajová Marta,1010.0,Marta Čurajová,,Marta Čurajová
-3438,2024-01-29,"EGM, s.r.o.",-2845.0,"Odoslaná platba elektronicky, Vyroba bannerov - Prezidentske volby 2024",VS: 202400012,Krisztián Forró
-3439,2024-01-24,H and K Plus s.r.o. ICO:51471965,-10848.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 2/2024 - Prezidentske volby 2024",VS: 30240001,Krisztián Forró
-3440,2024-01-23,Kobalt s.r.o.,-3237.6,"Odoslaná platba elektronicky, Prenajom auta pocas kampane Prezidenske volby 2024",VS: 20240008,Krisztián Forró
-3441,2024-01-22,Krisztian Forro,25000.0,"Prijatá platba, vklad",,Krisztián Forró
-3442,2024-01-19,Krisztian Forro,25000.0,"Prijatá platba, vklad",,Krisztián Forró
-3443,2024-01-25,HLAS - sociálna demokracia,250000.0,prevod Pellegrini - prezident. volby,,Peter Pellegrini
+3157,2024-01-29,Macho David,10.0,Harabin na hrad,,Štefan Harabin
+3158,2024-01-29,DUSAN MICEK,0.01,ODCHODNE DO DOCHODKU. DUFAM ZE KORCOK VYHRA. OSTATNY KANDIDATI SU DOBRY TAK DO CIRKUSU AKO KOMPARZISTI.,,Štefan Harabin
+3159,2024-01-29,Milan Albert,25.0,27871558,,Štefan Harabin
+3160,2024-01-29,MIROSLAV ZAUJEC,0.01,VITAZ SI ZASLUZI,,Štefan Harabin
+3161,2024-01-29,Roman Entner,0.01,Prispevok na chlast a jednosmernu cestu do Moskvy.,,Štefan Harabin
+3162,2024-01-29,Albertova Maria,10.0,27871614,,Štefan Harabin
+3163,2024-01-29,Alojz Filip,100.0,"Dar, Alojz FILIP, Malacky",,Štefan Harabin
+3164,2024-01-28,Gogoľa František,10.0,,,Štefan Harabin
+3165,2024-01-28,Belica Vladimir,0.01,Po-sie-lam je-de-n cent,,Štefan Harabin
+3166,2024-01-27,Erik Petras,0.01,"smrdi to tu starobou, stuchlinou a demenciou",,Štefan Harabin
+3167,2024-01-27,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3168,2024-01-27,Oršula Bohdan,20.0,OO24012700003805,,Štefan Harabin
+3169,2024-01-26,"Klema Milan, Ing.",0.01,Kup si poriadny matros.,,Štefan Harabin
+3170,2024-01-26,Lubomir Dedera,0.01,Od So ro sa na le ten ku do Mosk vy,,Štefan Harabin
+3171,2024-01-26,Ilavský Martin,0.01,Aby ste VY-HRA-LI,,Štefan Harabin
+3172,2024-01-26,Peter Hudak,69.0,Drzim prsty,,Štefan Harabin
+3173,2024-01-25,"NOLIS s.r.o. Opletalova 70/A, 841 07 Bratislava",-1000.0,Tlačová beseda 24.1.2024 - občerstvenie a prenájom priestorov,1124007.0,Štefan Harabin
+3174,2024-01-25,Monika Papayova,20.0,DAR pre prezidenta,,Štefan Harabin
+3175,2024-01-25,Boško Peter,40.0,OO24012500012501,,Štefan Harabin
+3176,2024-01-25,HADIDA MIROSLAV,200.0,27840919,,Štefan Harabin
+3177,2024-01-25,Matej Koncok,20.0,dar,,Štefan Harabin
+3178,2024-01-24,Dana Nemcova,35.0,2402450000047396,,Štefan Harabin
+3179,2024-01-24,"Sepia tlač s.r.o. Lamačská cesta 8, 811 04 Bratisl",-204.0,propagačný materiál,20240016.0,Štefan Harabin
+3180,2024-01-20,Kalafut Jozef,100.0,OO24012000014327,,Štefan Harabin
+3181,2024-01-18,Cukerová Jana,20.0,"Jana Cukerová, bezhotovostný vklad. Veľa šťastia a pevné nervy.",,Štefan Harabin
+3182,2024-01-18,Dufinec Kornel,10.0,Kornel Dufinec - Príspevok k voľbe Štefana Harabina za prezidenta SR.,18012024.0,Štefan Harabin
+3183,2024-01-17,"REGIONPRESS, s.r.o. Trnava",-459.0,inzercia Martin a Lučenec,434240007.0,Štefan Harabin
+3184,2024-01-16,"Hassan Daniel, MUDr.",20.0,Daniel Hassan,,Štefan Harabin
+3185,2024-01-13,Vlček Vladimír,30.0,OO24011300014958,,Štefan Harabin
+3186,2024-01-13,Sűčová Iveta,20.0,dar,13012024.0,Štefan Harabin
+3187,2024-01-10,VRLIK JOZEF,50.0,Dar na kampan,,Štefan Harabin
+3188,2024-01-09,Lukas Kohout,80.0,Dar na kampan,,Štefan Harabin
+3189,2024-01-04,MURKOVA MARIA,20.0,Dar,,Štefan Harabin
+3190,2023-12-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3191,2023-12-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
+3192,2023-12-22,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3193,2023-12-19,GERTHOFER s.r.o. Zohor,-3420.0,tlačoviny,2300204.0,Štefan Harabin
+3194,2023-12-18,Miroslav Cibula - QUADRIX Topoľčany,-1974.0,reklamné predmety,2023047.0,Štefan Harabin
+3195,2023-12-12,Róbert Majoroš,1000.0,dar,,Štefan Harabin
+3196,2023-12-11,CVENGROSCH OSKAR,100.0,Prajem vela sil,2.0,Štefan Harabin
+3197,2023-12-11,JOZEF VARGA,100.0,JOZEF VARGA,,Štefan Harabin
+3198,2023-12-10,Marian Kosuth,1.0,2334450000012431,,Štefan Harabin
+3199,2023-12-09,Mgr.Ružena Hornáčeková NOVAPRESS,-185.0,inzercia k verejnej diskusii,214023.0,Štefan Harabin
+3200,2023-12-09,Kvasnicová Silvia,10.0,F001091220233490037,,Štefan Harabin
+3201,2023-12-08,Ličko Cyril,0.01,OO23120800053447,,Štefan Harabin
+3202,2023-12-07,PM Gastro Sova s.r.o.,-159.3,prenájom priestoru na verejnú diskusiu,20230091.0,Štefan Harabin
+3203,2023-12-05,BELUS HYNEK,10.0,Dar na podporu obcianskeho prezidenta SR.,,Štefan Harabin
+3204,2023-12-05,Milan Hladký,20.0,dar,55092023.0,Štefan Harabin
+3205,2023-12-04,SPACE účet X,-15.0,vrátenie podpory od Zbynek Zykes,,Štefan Harabin
+3206,2023-12-04,"Pipiš Rastislav, Ing.",100.0,OO23120400019350,,Štefan Harabin
+3207,2023-12-04,MURKOVA MARIA,20.0,Dar,,Štefan Harabin
+3208,2023-12-04,Žatková Anna,15.0,podpora od Zdeněk Zikeš,,Štefan Harabin
+3209,2023-12-04,Horňák Vladimír,10.0,F001041220239233592,,Štefan Harabin
+3210,2023-11-30,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3211,2023-11-30,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
+3212,2023-11-28,DANIELA VIRGOVICOVA,101.0,27302141,,Štefan Harabin
+3213,2023-11-27,Jozef Fila,100.0,27292222,25112023.0,Štefan Harabin
+3214,2023-11-21,Žatková Anna,15.0,podpora od Zbyneka Zykeša,,Štefan Harabin
+3215,2023-11-16,Andrea Dadova,5000.0,Dar,16112023.0,Štefan Harabin
+3216,2023-11-15,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3217,2023-11-12,Blaščáková Mária,100.0,F001121120230087341,,Štefan Harabin
+3218,2023-11-09,Kvasnicová Silvia,10.0,F001091120237051073,,Štefan Harabin
+3219,2023-11-09,Janesworld s.r.o. Bratislava-Rusovce,-726.0,reklamné predmety,2023053.0,Štefan Harabin
+3220,2023-11-08,"Isteníková Dana, Ing.",10.0,Dar na kand.prezid.,,Štefan Harabin
+3221,2023-11-03,"REGIONPRESS, s.r.o. Trnava",-564.0,inzercia,134230334.0,Štefan Harabin
+3222,2023-11-01,Jan Gondek,1000.0,Gorali su s Tebou - prezident,1112023.0,Štefan Harabin
+3223,2023-10-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3224,2023-10-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
+3225,2023-10-30,Hudák Maroš,1000.0,Dar,,Štefan Harabin
+3226,2023-10-27,HASAN VLADIMIR,20.0,VH,,Štefan Harabin
+3227,2023-10-27,Elena Galikova,20.0,DAR,,Štefan Harabin
+3228,2023-10-27,Matusik Milan,4.0,Milan z Terne,,Štefan Harabin
+3229,2023-10-27,"Radovan Bries, Banská Bystrica",-1100.0,fotografické služby,,Štefan Harabin
+3230,2023-10-26,Múčková Erika,20.0,Dar na kampan pre JUDr. Harabina Prezidenta Republiky 2024,,Štefan Harabin
+3231,2023-10-26,Róbert Majoroš,1000.0,dar,2510.0,Štefan Harabin
+3232,2023-10-25,Jana Staffenova,10.0,Podpora v kampani za prezidenta pana Harabina,,Štefan Harabin
+3233,2023-10-20,"Mayer media,s.r.o. Bratislava",-4200.0,mediálny priestor Harabin,,Štefan Harabin
+3234,2023-10-20,JURENA MIROSLAV,1000.0,Dar,540617.0,Štefan Harabin
+3235,2023-10-14,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3236,2023-10-14,Matys Ján,10.0,DAR,,Štefan Harabin
+3237,2023-10-13,PAVOL SKULAVIK,100.0,DAR NA KAMPAN,,Štefan Harabin
+3238,2023-10-12,Michajlová Miroslava,20.0,Dar,,Štefan Harabin
+3239,2023-10-12,Ďurovcová Anna,20.0,Ďurovec,,Štefan Harabin
+3240,2023-10-11,ALENA VYCHOPENOVA,10.0,DAR,,Štefan Harabin
+3241,2023-10-10,Lukas Kohout,80.0,Dar na kampan,,Štefan Harabin
+3242,2023-10-09,Ľubica Slivošová,20.0,DAR,,Štefan Harabin
+3243,2023-10-09,Kvasnicová Silvia,10.0,F001091020231127405,,Štefan Harabin
+3244,2023-10-08,Viera Kramarekova,20.0,DAR,,Štefan Harabin
+3245,2023-10-06,Miroslav Jureňa,1000.0,26826278,565528.0,Štefan Harabin
+3246,2023-10-06,Ing.Jozef Tabak,20.0,dar,,Štefan Harabin
+3247,2023-10-05,Mgr.Alena Priecinska,100.0,26815516,,Štefan Harabin
+3248,2023-10-04,Milan Hladký,20.0,Prezident,20245509.0,Štefan Harabin
+3249,2023-10-04,Ing.Ivan Bracok,44.62,Ivan Bracok,,Štefan Harabin
+3250,2023-10-04,Ivan Cernansky,0.01,Na psychiatra,,Štefan Harabin
+3251,2023-10-04,"Majlingová Eva, Ing.",20.0,Dar,,Štefan Harabin
+3252,2023-10-03,DUSAN KOSTIAL,20.0,PLATBA,,Štefan Harabin
+3253,2023-10-03,BELUS HYNEK,10.0,26794550,,Štefan Harabin
+3254,2023-10-03,PAZDERA IGOR,5.0,26794614,,Štefan Harabin
+3255,2023-10-03,DIDICOVA JANA,10.0,26794752,21023.0,Štefan Harabin
+3256,2023-10-03,MICHALCAK STEFAN,10.0,"Michalcak Stefan, Zvolen",,Štefan Harabin
+3257,2023-10-03,MIROSLAV KUBACAK,20.0,PRISPEVOK NA KANDIDATURU,,Štefan Harabin
+3258,2023-10-03,PETER TRENCAN,5.0,PLATBA,,Štefan Harabin
+3259,2023-10-03,Urbanová Vladimíra,10.0,F001031020237900713,,Štefan Harabin
+3260,2023-10-03,STEFAN SVRCEK,50.0,PLATBA,,Štefan Harabin
+3261,2023-10-03,Eva Strnadlová,10.0,26794912,,Štefan Harabin
+3262,2023-10-03,Bodnar Jozef,10.0,dar,,Štefan Harabin
+3263,2023-10-03,Nikola Luu Thanhova,100.0,"Dufam, ze vyhrate. Mate moj a mamin hlas. Pozdravujem z vychodu.",,Štefan Harabin
+3264,2023-10-03,Margita Kankova,20.0,"dar, prezidentska kandiatura",,Štefan Harabin
+3265,2023-10-03,Dusan Skridlovsky,20.0,26795094,,Štefan Harabin
+3266,2023-10-03,Mader Štefan,20.0,Volebná kampaň,,Štefan Harabin
+3267,2023-10-03,Marek Gajdos,1.0,Prispevok volby,,Štefan Harabin
+3268,2023-10-02,Kostolná Viera,50.0,dar prezident SR,2102023.0,Štefan Harabin
+3269,2023-10-02,Zuzana Kosturiakova,50.0,Odoslane z Revolutu,,Štefan Harabin
+3270,2023-10-02,Miroslav Tomcany,20.0,2327550000030919,,Štefan Harabin
+3271,2023-10-02,"Jančovičová Mária,Jančovič Milan",10.0,Dar,10062023.0,Štefan Harabin
+3272,2023-10-02,Tomková Ľudmila,10.0,Dar - Ľudmila Tomková,,Štefan Harabin
+3273,2023-10-02,Kolajová Helena,100.0,OO23100200031553,2102023.0,Štefan Harabin
+3274,2023-10-02,Ambrúzová Daniela,20.0,F001021020237130328,,Štefan Harabin
+3275,2023-10-02,Kvasnicová Silvia,10.0,F001021020237211961,,Štefan Harabin
+3276,2023-10-02,Ofertáler Miroslav,5.0,F001021020237218894,,Štefan Harabin
+3277,2023-10-02,Andrej Tomasov,10.0,Odoslane z Revolutu,,Štefan Harabin
+3278,2023-10-01,Martin Chmara,10.0,2327450000030700,,Štefan Harabin
+3279,2023-09-30,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3280,2023-09-30,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
+3281,2023-09-10,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3282,2023-08-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3283,2023-08-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
+3284,2023-08-21,Jarmila Vargová,50.0,Dar,,Štefan Harabin
+3285,2023-08-17,HERDITZKY ATTILA,5.0,Dar,10062023.0,Štefan Harabin
+3286,2023-08-14,DURAN JAROSLAV,10.0,26351532,,Štefan Harabin
+3287,2023-08-13,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3288,2023-07-31,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3289,2023-07-31,,-3.0,Poplatok za vedenie účtu,,Štefan Harabin
+3290,2023-07-19,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3291,2023-07-13,GALUS SAMUEL,15.0,26067597,,Štefan Harabin
+3292,2023-06-30,,-5.0,Zverejňovanie účtu,,Štefan Harabin
+3293,2023-06-30,,-2.5,Poplatok za vedenie účtu,,Štefan Harabin
+3294,2023-06-27,DURAN DOMINIK,10.0,25918900,,Štefan Harabin
+3295,2023-06-23,"Ladáni Štefan, Ing.",10.0,Dar,1961.0,Štefan Harabin
+3296,2023-06-20,Žaludko Alexander,10.0,Robert Carnoky,,Štefan Harabin
+3297,2023-06-20,"Drobný Igor, Ing.",100.0,Drobny Igor,,Štefan Harabin
+3298,2023-06-20,Andrea Lencova,20.0,Dar pre pana sudcu za jeho odhodlanie,,Štefan Harabin
+3299,2023-06-20,Ghillány Tibor Mgr.,50.0,F001200620237522728,,Štefan Harabin
+3300,2023-06-19,RADOSLAV HORVATH,10.0,Radoslav a Katarina,,Štefan Harabin
+3301,2023-06-14,Jaroslava Polcova,10.0,prispevok,,Štefan Harabin
+3302,2023-06-13,MIROSLAV KUBALA,10.0,25791218,,Štefan Harabin
+3303,2023-06-13,REMIS PETER,500.0,PREZIDENT. DAR.,,Štefan Harabin
+3304,2023-06-13,UHRIK DALIBOR,10.0,25791218,,Štefan Harabin
+3305,2023-06-12,HERDITZKY ATTILA,5.0,Dar,10062023.0,Štefan Harabin
+3306,2023-06-12,Fafrak Milan,5.0,Fafrak Milan,,Štefan Harabin
+3307,2023-06-12,Kubovic Lubomir,5.0,Dar,,Štefan Harabin
+3308,2023-06-12,DURAN JAROSLAV,20.0,25780496,,Štefan Harabin
+3309,2023-06-12,DANIELA BLASKOVA,20.0,PREZIDENT,7101.0,Štefan Harabin
+3310,2023-06-12,SLUSNY MIROSLAV,5.0,Prispevok od Miroslav Slusny,,Štefan Harabin
+3311,2023-06-12,Gabor Lelkes,20.0,25780662,,Štefan Harabin
+3312,2023-06-12,PAVEL NAD,5.55,PRISPEVOK K VOLBAM 2024,,Štefan Harabin
+3313,2023-06-12,Vnutorny ucet banky,5.0,"CZ0901000000003679330287,HODULAK ROMAN,",,Štefan Harabin
+3314,2023-06-11,Tuchyňová Iveta,10.0,OO23061100000385,,Štefan Harabin
+3315,2023-06-11,Vaško Marián,5.0,F001110620237161866,,Štefan Harabin
+3316,2023-06-11,Petríková Ružena,10.0,OO23061100006406,,Štefan Harabin
+3317,2023-06-11,Klenko Milan,10.0,F001110620237199496,,Štefan Harabin
+3318,2023-06-11,Šimkuľák  Martin,15.0,F001110620237204021,,Štefan Harabin
+3319,2023-06-11,Orbanová Eleońora Ing.,5.0,Orbanova Eleonora príspevok,20111957.0,Štefan Harabin
+3320,2023-06-11,Šabík Stanislav,20.0,F001110620237204386,,Štefan Harabin
+3321,2023-06-10,MIHALKA VLADIMIR,5.0,F001100620236770810,,Štefan Harabin
+3322,2023-06-10,Robert Haburaj,5.0,2316150000001456,,Štefan Harabin
+3323,2023-06-10,Lubomir Murarik,10.0,2316150000001755,,Štefan Harabin
+3324,2023-06-10,"Michalidesová Iveta, Ing.",50.0,OO23061000001943,,Štefan Harabin
+3325,2023-06-10,Branislav Hric,50.0,2316150000003009,,Štefan Harabin
+3326,2023-06-10,"Tkáč Milan,Tkáčová Antonia",50.0,"Tkáč Milan, Tkáčová Antónia príspevok na kampaň",,Štefan Harabin
+3327,2023-06-10,Gašparik Jozef,100.0,F001100620236765233,,Štefan Harabin
+3328,2023-06-10,NAŠTICKÝ VLADIMÍR,20.0,Vladimír Naštický,,Štefan Harabin
+3329,2023-06-10,Peter Lulek,10.0,2316150000006106,,Štefan Harabin
+3330,2023-06-10,Tobiašová Ľudmila,10.0,F001100620236778002,,Štefan Harabin
+3331,2023-06-10,Štrbová Blanka,10.0,F001100620236784116,,Štefan Harabin
+3332,2023-06-10,Daniš Martin,10.0,OO23061000007971,,Štefan Harabin
+3333,2023-06-10,Soloninka Patrik,10.0,Prajem veľa úspechov,,Štefan Harabin
+3334,2023-06-10,Cifra Peter,10.0,F001100620236867702,,Štefan Harabin
+3335,2023-06-10,Monika Papayova,20.0,2316150000017898,100623.0,Štefan Harabin
+3336,2023-06-10,Hojnošová Elena,20.0,DAR,1062023.0,Štefan Harabin
+3337,2023-06-10,Birkus Radoslav,20.0,F001100620236914169,,Štefan Harabin
+3338,2023-06-10,Šimek Dávid,30.0,F001100620236742666,,Štefan Harabin
+3339,2024-01-12,Adam Husár,7.0,Za lepšie Slovensko! DAR 2024,,Ján Kubiš
+3340,2024-01-12,Adam Husár,0.3,Za lepšie Slovensko! DAR 2024,,Ján Kubiš
+3341,2024-01-09,Karol Vegso,30.0,prispevok na kandidata na prezidenta SR,,Ján Kubiš
+3342,2024-01-09,Žaludek Stanislav,100.0,DRŽIM PALCE A VERÍM ŽE NÁS NESKLAMETE...,,Ján Kubiš
+3343,2023-12-31,,-5.0,Zverejňovanie účtu,,Ján Kubiš
+3344,2023-12-31,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
+3345,2023-12-31,,-2.5,Poplatok za SMS služby Extra,,Ján Kubiš
+3346,2023-12-28,Dusan Ficor,30.0,Financna podpora na kandidaturu za prezidenta Slovenskej republiky,,Ján Kubiš
+3347,2023-12-11,MAYERMcCANN,-9840.12,Poskytnuté služby,230171.0,Ján Kubiš
+3348,2023-11-30,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
+3349,2023-11-30,,-5.0,Zverejňovanie účtu,,Ján Kubiš
+3350,2023-11-18,Michael Augustín,30.0,F001181120237482955,,Ján Kubiš
+3351,2023-11-15,PROMOTION,-339.68,"nájom kancelárskych priestorov, 11/2023, podľa zmluvy o nájme č.1/2023",23154.0,Ján Kubiš
+3352,2023-11-07,Šuba Marek,-50.0,"Vrátenie platby z transparentného účtu, žiadosť Marek Šuba, Nitra, zo dňa 6.11.2023",1.0,Ján Kubiš
+3353,2023-11-06,,-4.0,Poplatok za zmenu nakladania,,Ján Kubiš
+3354,2023-11-04,Šuba Marek,50.0,F001041120233751375,,Ján Kubiš
+3355,2023-10-31,,-5.0,Zverejňovanie účtu,,Ján Kubiš
+3356,2023-10-31,,-1.3,"Vedenie Platobnej karty elektronickej,2312,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
+3357,2023-10-23,Stefan Jassinger,250.0,Stefan Jassinger - podpora kandidatury na prezidenta SR,,Ján Kubiš
+3358,2023-09-30,,-5.0,Zverejňovanie účtu,,Ján Kubiš
+3359,2023-09-30,,-0.69,"Vedenie Platobnej karty elektronickej,2313,5,Karta č. 4544 12** **** 7688Poplatok za Platobnú kartu",,Ján Kubiš
+3360,2023-09-29,ROMAN LUKAC,20.0,26763021,,Ján Kubiš
+3361,2023-09-29,BLAHO PETER,25.0,Prispevok na kampan,,Ján Kubiš
+3362,2023-09-28,Katarína Blazseková,20.0,Blazsekova,92023.0,Ján Kubiš
+3363,2023-09-28,Michaela Mihalikova,20.0,Jan Kubis,,Ján Kubiš
+3364,2023-09-28,"Kornucik Pavol, Mgr.art.",20.0,kubis,,Ján Kubiš
+3365,2023-09-28,Meszárošová Barbora,20.0,F001280920234457421,,Ján Kubiš
+3366,2023-09-21,"CULTUS Ružinov,a.s.",-50.0,Nájomná zmluva,,Ján Kubiš
+3367,2023-09-19,Hala Martin,10.0,prispwvok prezident,,Ján Kubiš
+3368,2023-09-19,GROHOL RADOVAN,100.0,26669663,,Ján Kubiš
+3369,2023-09-16,Alexander Hauskrecht,25.0,2325950000013541,16092023.0,Ján Kubiš
+3370,2023-09-16,Aleš Kohút,25.0,F001160920234639853,,Ján Kubiš
+3371,2023-09-16,Kozár Martin,20.0,F001160920234598659,,Ján Kubiš
+3372,2023-09-14,Michal Vlček,-80.0,Najomná zmluva,,Ján Kubiš
+3373,2023-09-12,KUBIS JAN,25000.0,Jan Kubis,,Ján Kubiš
+3374,2023-09-11,IVAN SIMKOVIC,20.0,PRE SLOVENSKO SLOVENSKY PREZIDENT A NIE AMERICKY.DRZIM PALCE,,Ján Kubiš
+3375,2023-09-07,"Jana Galbova, Juraj Galba",100.0,2325050000036399,,Ján Kubiš
+3376,2024-01-28,,-6.69,"B1721588546-44544 12** **** 8440;SLOVNAFT-SK10108 ,Bratislava ,SK ;27.01.2024 16:24:21 ;CashBack:0 EUR",,Marta Čurajová
+3377,2024-01-28,,-40.0,"B1721588153-44544 12** **** 8440;SLOVNAFT-SK10108 ,Bratislava ,SK ;27.01.2024 16:05:32 ;CashBack:0 EUR",,Marta Čurajová
+3378,2024-01-28,,-3.88,"B1721588212-44544 12** **** 8440;SLOVNAFT-SK10108 ,Bratislava ,SK ;27.01.2024 16:13:07 ;CashBack:0 EUR",,Marta Čurajová
+3379,2024-01-26,,-4.29,"B1720168872-44544 12** **** 8440;SLOVNAFT-SK10751 ,Nove Mesto na ,SK ;25.01.2024 17:41:52 ;CashBack:0 EUR",,Marta Čurajová
+3380,2024-01-26,,-40.0,"B1720168863-44544 12** **** 8440;SLOVNAFT-SK10751 ,Nove Mesto na ,SK ;25.01.2024 17:41:08 ;CashBack:0 EUR",,Marta Čurajová
+3381,2024-01-26,,-10.93,"B1720027948-44544 12** **** 8440;Potraviny ROTO II ,Skalica ,SK ;25.01.2024 11:15:22 ;CashBack:0 EUR",,Marta Čurajová
+3382,2024-01-26,,-1150.0,"B3916846681-214544 12** **** 8440;Policajné prezídium ,Bratislava ,SK ;25.01.2024 22:26:35 ",,Marta Čurajová
+3383,2024-01-25,,-2.21,"B1719665780-44544 12** **** 8440;1039 TERNO Zaluzick ,Bratislava ,SK ;24.01.2024 19:47:47 ;CashBack:0 EUR",,Marta Čurajová
+3384,2024-01-25,,-11.38,"B1719417089-44544 12** **** 8440;SLOVNAFT-SK10724 ,Leopoldov ,SK ;24.01.2024 18:36:52 ;CashBack:0 EUR",,Marta Čurajová
+3385,2024-01-25,,-72.0,"B1719204485-44544 12** **** 8440;PENZION BYRON ,ZLATE MORAVCE ,SK ;24.01.2024 09:38:01 ;CashBack:0 EUR",,Marta Čurajová
+3386,2024-01-25,,-50.0,"B3915689433-214544 12** **** 8440;Profis ,Holíč ,SK ;25.01.2024 00:36:40 ",,Marta Čurajová
+3387,2024-01-24,,-14.29,"B1718672706-44544 12** **** 8440;SLOVNAFT-SK11410 ,Puchov ,SK ;23.01.2024 15:55:34 ;CashBack:0 EUR",,Marta Čurajová
+3388,2024-01-24,,-70.0,"B1718701763-44544 12** **** 8440;STARA FARA, MAKOV ,MAKOV ,SK ;23.01.2024 09:32:44 ;CashBack:0 EUR",,Marta Čurajová
+3389,2024-01-24,,-7.34,"B1718842993-44544 12** **** 8440;OMV 2385 ,Trencin ,SK ;23.01.2024 20:55:37 ;CashBack:0 EUR",,Marta Čurajová
+3390,2024-01-24,,-39.99,"B1718675252-44544 12** **** 8440;SLOVNAFT-SK10706 ,Ilava ,SK ;23.01.2024 17:43:01 ;CashBack:0 EUR",,Marta Čurajová
+3391,2024-01-24,,-5.98,"B1718842990-44544 12** **** 8440;OMV 2385 ,Trencin ,SK ;23.01.2024 20:57:26 ;CashBack:0 EUR",,Marta Čurajová
+3392,2024-01-23,,-7.38,"B1717927780-44544 12** **** 8440;SLOVNAFT-SK20215 ,Nizna nad Ora ,SK ;22.01.2024 08:53:44 ;CashBack:0 EUR",,Marta Čurajová
+3393,2024-01-23,,-6.38,"B1717932788-44544 12** **** 8440;SLOVNAFT-SK11705 ,Martin ,SK ;22.01.2024 13:14:26 ;CashBack:0 EUR",,Marta Čurajová
+3394,2024-01-23,,-10.28,"B1717937856-44544 12** **** 8440;SLOVNAFT-SK11409 ,Prievidza ,SK ;22.01.2024 16:39:57 ;CashBack:0 EUR",,Marta Čurajová
+3395,2024-01-22,,-19.36,"B1717320601-44544 12** **** 8440;SLOVNAFT-SK20210 ,Ruzomberok ,SK ;21.01.2024 20:10:12 ;CashBack:0 EUR",,Marta Čurajová
+3396,2024-01-22,,-24.0,"B1717084617-44544 12** **** 8440;SALAS U FRANKA ,STARA LUBOVNA ,SK ;20.01.2024 18:20:39 ;CashBack:0 EUR",,Marta Čurajová
+3397,2024-01-22,,-16.0,"B1717222698-44544 12** **** 8440;Penzion ADAK** ,Parnica ,SK ;21.01.2024 22:34:17 ;CashBack:0 EUR",,Marta Čurajová
+3398,2024-01-22,,-71.6,"B1717222312-44544 12** **** 8440;Penzion ADAK** ,Parnica ,SK ;21.01.2024 22:18:57 ;CashBack:0 EUR",,Marta Čurajová
+3399,2024-01-22,,-69.7,"B1717326187-44544 12** **** 8440;BKG*HOTEL AT BOOKING.C ,(888)850-3958 ,NL ;20.01.2024 19:41:23 ;CashBack:0 EUR",,Marta Čurajová
+3400,2024-01-22,,-3.19,"B1717320630-44544 12** **** 8440;SLOVNAFT-SK20210 ,Ruzomberok ,SK ;21.01.2024 20:13:44 ;CashBack:0 EUR",,Marta Čurajová
+3401,2024-01-22,,-39.99,"B1717318940-44544 12** **** 8440;SLOVNAFT-SK20210 ,Ruzomberok ,SK ;21.01.2024 18:33:58 ;CashBack:0 EUR",,Marta Čurajová
+3402,2024-01-22,,-16.66,"B1717494284-44544 12** **** 8440;OMV 2418 ,Liptovsky M ,SK ;21.01.2024 10:49:32 ;CashBack:0 EUR",,Marta Čurajová
+3403,2024-01-21,,-6.39,"B1716585776-44544 12** **** 8440;SLOVNAFT-SK30121 ,Gelnica ,SK ;20.01.2024 09:11:21 ;CashBack:0 EUR",,Marta Čurajová
+3404,2024-01-21,,-1.8,"B1716538798-44544 12** **** 8440;CERPACIA STANICA PODL ,PODLINEC ,SK ;20.01.2024 15:57:29 ;CashBack:0 EUR",,Marta Čurajová
+3405,2024-01-20,,-11.5,"B1716312690-44544 12** **** 8440;Restauracia Emporio, GL ,Gelnica ,SK ;19.01.2024 22:01:41 ;CashBack:0 EUR",,Marta Čurajová
+3406,2024-01-20,,-3.49,"B1715789840-44544 12** **** 8440;SLOVNAFT-SK11901 ,Bardejov ,SK ;19.01.2024 15:03:10 ;CashBack:0 EUR",,Marta Čurajová
+3407,2024-01-20,,-0.6,"B1715789360-44544 12** **** 8440;SLOVNAFT-SK11901 ,Bardejov ,SK ;19.01.2024 14:50:52 ;CashBack:0 EUR",,Marta Čurajová
+3408,2024-01-20,,-29.99,"B1715793890-44544 12** **** 8440;SLOVNAFT-SK11909 ,Sabinov ,SK ;19.01.2024 17:14:24 ;CashBack:0 EUR",,Marta Čurajová
+3409,2024-01-20,,-6.88,"B1715797628-44544 12** **** 8440;SLOVNAFT-SK30121 ,Gelnica ,SK ;19.01.2024 20:13:08 ;CashBack:0 EUR",,Marta Čurajová
+3410,2024-01-20,,-9.4,"B1715789012-44544 12** **** 8440;SLOVNAFT-SK11901 ,Bardejov ,SK ;19.01.2024 14:40:05 ;CashBack:0 EUR",,Marta Čurajová
+3411,2024-01-20,,-9.98,"B1715781210-44544 12** **** 8440;SLOVNAFT-SK11912 ,Medzilaborce ,SK ;19.01.2024 09:15:10 ;CashBack:0 EUR",,Marta Čurajová
+3412,2024-01-20,,-35.4,"B1715648155-44544 12** **** 8440;EUROHOTEL LABOREC ,MEDZILABORCE ,SK ;18.01.2024 22:09:28 ;CashBack:0 EUR",,Marta Čurajová
+3413,2024-01-20,,-35.4,"B1715647639-44544 12** **** 8440;EUROHOTEL LABOREC ,MEDZILABORCE ,SK ;18.01.2024 22:07:55 ;CashBack:0 EUR",,Marta Čurajová
+3414,2024-01-19,,-60.0,"B1714954126-44544 12** **** 8440;MOTEL TOSCANA ,VELKE REVISTI ,SK ;17.01.2024 22:28:36 ;CashBack:0 EUR",,Marta Čurajová
+3415,2024-01-19,,-79.5,"B1714778270-44544 12** **** 8440;HOTEL CENTRUM ,KOSICE ,SK ;16.01.2024 23:55:33 ;CashBack:0 EUR",,Marta Čurajová
+3416,2024-01-19,,-100.0,"B3910416362-214544 12** **** 8440;ATM Recycler OM Gelnica ,Gelnica ,SK ;19.01.2024 22:10:43 ",,Marta Čurajová
+3417,2024-01-19,,-17.6,"B1714954156-44544 12** **** 8440;MOTEL TOSCANA ,VELKE REVISTI ,SK ;17.01.2024 22:32:47 ;CashBack:0 EUR",,Marta Čurajová
+3418,2024-01-19,,-31.98,"B1715041637-44544 12** **** 8440;Tesco Snina ,Snina ,SK ;18.01.2024 11:49:56 ;CashBack:0 EUR",,Marta Čurajová
+3419,2024-01-18,,-9.18,"B1714669966-44544 12** **** 8440;SHELL 8261 ,AMERICKA TRIE ,SK ;17.01.2024 12:54:27 ;CashBack:0 EUR",,Marta Čurajová
+3420,2024-01-18,,-30.0,"B1714669793-44544 12** **** 8440;SHELL 8261 ,AMERICKA TRIE ,SK ;17.01.2024 12:45:08 ;CashBack:0 EUR",,Marta Čurajová
+3421,2024-01-18,,-8.5,"B1714088897-44544 12** **** 8440;SUMUP *STUDENT TAXI ,KOSICE ,SK ;16.01.2024 23:49:06 ;CashBack:0 EUR",,Marta Čurajová
+3422,2024-01-17,,-7.38,"B1713523745-44544 12** **** 8440;SLOVNAFT-SK11618 ,Revuca ,SK ;16.01.2024 13:18:32 ;CashBack:0 EUR",,Marta Čurajová
+3423,2024-01-17,,-17.01,"B1713519260-44544 12** **** 8440;SLOVNAFT-SK11609 ,Poltar ,SK ;16.01.2024 09:40:35 ;CashBack:0 EUR",,Marta Čurajová
+3424,2024-01-17,,-38.0,"B1713383118-44544 12** **** 8440;PENZION ROZALIA ,KOSICE MESTSK ,SK ;16.01.2024 20:36:06 ;CashBack:0 EUR",,Marta Čurajová
+3425,2024-01-17,,-13.7,"B1713409657-44544 12** **** 8440;PLUTO ,KOSICE ,SK ;16.01.2024 17:05:15 ;CashBack:0 EUR",,Marta Čurajová
+3426,2024-01-16,,-5.83,"B1712710475-44544 12** **** 8440;SLOVNAFT-SK20406 ,Detva ,SK ;15.01.2024 13:19:26 ;CashBack:0 EUR",,Marta Čurajová
+3427,2024-01-16,,-9.38,"B1712718465-44544 12** **** 8440;SLOVNAFT-SK11606 ,Lucenec ,SK ;15.01.2024 18:45:12 ;CashBack:0 EUR",,Marta Čurajová
+3428,2024-01-16,,-39.98,"B1712710472-44544 12** **** 8440;SLOVNAFT-SK20406 ,Detva ,SK ;15.01.2024 13:18:06 ;CashBack:0 EUR",,Marta Čurajová
+3429,2024-01-16,,-92.0,"B1712568234-44544 12** **** 8440;Hotel Dumbier ,Brezno ,SK ;15.01.2024 07:15:04 ;CashBack:0 EUR",,Marta Čurajová
+3430,2024-01-15,,-10.79,"B1712060122-44544 12** **** 8440;SLOVNAFT-SK40130 ,Budca ,SK ;14.01.2024 14:42:39 ;CashBack:0 EUR",,Marta Čurajová
+3431,2024-01-15,,-2.34,"B1711853368-44544 12** **** 8440;SHELL 8255 ,LEVICE ,SK ;13.01.2024 18:28:13 ;CashBack:0 EUR",,Marta Čurajová
+3432,2024-01-14,,-9.57,"B1711275843-44544 12** **** 8440;SLOVNAFT-SK20908 ,Nove Zamky ,SK ;13.01.2024 08:54:53 ;CashBack:0 EUR",,Marta Čurajová
+3433,2024-01-14,,-29.99,"B1711275680-44544 12** **** 8440;SLOVNAFT-SK20908 ,Nove Zamky ,SK ;13.01.2024 08:51:48 ;CashBack:0 EUR",,Marta Čurajová
+3434,2024-01-14,,-3.89,"B1711276261-44544 12** **** 8440;SLOVNAFT-SK20908 ,Nove Zamky ,SK ;13.01.2024 09:16:33 ;CashBack:0 EUR",,Marta Čurajová
+3435,2024-01-14,,-10.3,"B1711369000-44544 12** **** 8440;TANTAL,NR,HVIEZD.TRIEDA ,NITRA ,SK ;13.01.2024 13:57:47 ;CashBack:0 EUR",,Marta Čurajová
+3436,2024-01-13,,-8.2,"B1710276442-44544 12** **** 8440;max gourman ,Dunajska Stre ,SK ;12.01.2024 13:54:21 ;CashBack:0 EUR",,Marta Čurajová
+3437,2024-01-13,,2.5,"B1709766465-44544 12** **** 8440;SLOVNAFT-SK40121 ,Senec ,SK ;11.01.2024 00:00:00 ",,Marta Čurajová
+3438,2024-01-13,,-11.76,"B1709766337-44544 12** **** 8440;SLOVNAFT-SK40121 ,Senec ,SK ;11.01.2024 19:24:31 ;CashBack:0 EUR",,Marta Čurajová
+3439,2024-01-13,,-30.0,"B1709766274-44544 12** **** 8440;SLOVNAFT-SK40121 ,Senec ,SK ;11.01.2024 19:20:04 ;CashBack:0 EUR",,Marta Čurajová
+3440,2024-01-13,,-19.45,"B1709509381-44544 12** **** 8440;EDO-KIN BORY MALL ,BRATISLAVA ,SK ;11.01.2024 14:16:04 ;CashBack:0 EUR",,Marta Čurajová
+3441,2024-01-11,AutoRent24 s. r. o,-990.0,Preddavková faktúra č. PF24030001 - úhrada,24030001.0,Marta Čurajová
+3442,2024-01-10,"ISPA, spol. s r.o.",-1285.2,zálohová faktúra č. 24950009 - úhrada,24950009.0,Marta Čurajová
+3443,2024-01-09,ARTON s.r.o.,-4377.6,Faktúra č. 202401241 - úhrada,202401241.0,Marta Čurajová
+3444,2024-01-09,Čurajová Marta,3000.0,F001090120248975197,,Marta Čurajová
+3445,2024-01-09,ARTON s.r.o.,-1494.0,Faktúra č. 202401242 - úhrada,202401242.0,Marta Čurajová
+3446,2024-01-07,,-6.0,"B1705685543-44544 12** **** 8440;SUMUP *MARIO KOHUT ,BRATISLAVA ,SK ;05.01.2024 14:08:32 ;CashBack:0 EUR",,Marta Čurajová
+3447,2024-01-05,"euroAWK, spol. s r.o",-5376.0,Faktúra č. 240307 - úhrada,240307.0,Marta Čurajová
+3448,2024-01-05,2ip Printing Solutions s.r.o.,-1055.0,FAKTÚRA č. 24550001 - úhrada,24550001.0,Marta Čurajová
+3449,2024-01-05,Čurajová Marta,15000.0,F001050120246299364,,Marta Čurajová
+3450,2023-12-31,,-5.0,Zverejňovanie účtu,,Marta Čurajová
+3451,2023-12-21,2ip Printing Solutions s.r.o.,-1000.0,FAKTÚRA č.23551724 - úhrada,,Marta Čurajová
+3452,2023-12-20,Čurajová Marta,1010.0,Marta Čurajová,,Marta Čurajová
+3453,2024-01-29,"EGM, s.r.o.",-2845.0,"Odoslaná platba elektronicky, Vyroba bannerov - Prezidentske volby 2024",VS: 202400012,Krisztián Forró
+3454,2024-01-24,H and K Plus s.r.o. ICO:51471965,-10848.0,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 2/2024 - Prezidentske volby 2024",VS: 30240001,Krisztián Forró
+3455,2024-01-23,Kobalt s.r.o.,-3237.6,"Odoslaná platba elektronicky, Prenajom auta pocas kampane Prezidenske volby 2024",VS: 20240008,Krisztián Forró
+3456,2024-01-22,Krisztian Forro,25000.0,"Prijatá platba, vklad",,Krisztián Forró
+3457,2024-01-19,Krisztian Forro,25000.0,"Prijatá platba, vklad",,Krisztián Forró
+3458,2024-01-25,HLAS - sociálna demokracia,250000.0,prevod Pellegrini - prezident. volby,,Peter Pellegrini
+3459,2024-01-29,KRAVEC TOMAS,1.14,NA CESTU DO RUSSKA UZ SA NEVRACAJ,,Andrej Danko
+3460,2024-01-29,STEFAN GAL,0.01,"NAJPRV SA ZRAZIL S KONOM, POTOM SO SEMAFOROM",,Andrej Danko
+3461,2024-01-29,MARIAN BELOVIC,0.07,"CO BOD IQ, TO CENT-",,Andrej Danko
+3462,2024-01-29,MARIAN BELOVIC,0.01,ABY STE AKO POLITIK AJ DALEJ MOHLI PREHLTAT,,Andrej Danko
+3463,2024-01-29,MICHAL KOLLAR,0.01,"NA TAXIK, JE TO LEPSIE AKO SOFEROVAT OZRATY",,Andrej Danko
+3464,2024-01-29,ZOLTAN TIRINDA,0.01,PRE KAPITANA NA ODCHOD Z POLITIKY V TERMENI JANUAROVOM,,Andrej Danko
+3465,2024-01-29,MATEJ TOTH,0.01,BEZUCELOVA POZICKA NA BOZKAVAM VSETKY SEMAFORY V MOSKVE,,Andrej Danko
+3466,2024-01-29,ONDREJ PACAY,0.01,NIC NEDOKAZE TAK ZRAZIT KAPITANA AKO LEN SEMAFOR DOKAZE ZRAZIT KAPITANA. NO PASARAN-,,Andrej Danko
+3467,2024-01-29,MATEJ TICHY,0.01,NA VALENTINA PRE PRVU DAMU ZSUZOVU. BOZKAVAJ JU VSADE.,,Andrej Danko
+3468,2024-01-29,PETER NIC,0.01,ZA PRERAZANIE POLITICKEJ KULTURY NA SLOVENSKU VY PLACKO,,Andrej Danko
+3469,2024-01-29,VIKTOR BANIK,0.01,NA1SMERNU LETENKU DO BALSOJ RASIJI,,Andrej Danko
+3470,2024-01-29,VIKTOR BANIK,0.01,"ZA 15HODINOVE UTRPENIE BEZ ALKOHOLU,VTEDY BY NENAFUKAL UZ ANI JUCK NORIS",,Andrej Danko
+3471,2024-01-29,MARTIN UHLIR,0.01,NA ZACIATOK STANDUP COMEDY DRAHY PO SKONCENI TEJ POLITICKEJ,,Andrej Danko
+3472,2024-01-29,KAROL SVITLER,0.01,"NA LOGOPEDA, TY TRAGED.",,Andrej Danko
+3473,2024-01-29,PETER STRENK,0.01,ZA TU BANDU V PARLAMENTE NA JEDNOSMERNU LETENKU DO RUSSKA,,Andrej Danko
+3474,2024-01-29,JOZEF BENDIK,0.01,PRE PLAGIATORA ABY ODISIEL Z POLITIKY A RADSEJ SA DAL NA STAND UP,,Andrej Danko
+3475,2024-01-29,JAROSLAV KYSEL,0.01,TY HANBA SLOVENSKA. TY RUDY BOLSEVICKY NOK,,Andrej Danko
+3476,2024-01-29,MAREK SKRIVANEK,0.01,NA PREKLADATELA DO ZNAKOVEJ RECI A NA CHIRURGA CO MU BUDE SADROVAT ZLAMANE RUKY,,Andrej Danko
+3477,2024-01-29,PETER PETKO,0.01,"SI HANBA SLOVENSKA, ZBAL SA DO RUSKA",,Andrej Danko
+3478,2024-01-29,MICHAL FLORIAN,0.01,ANDREJ UZ TO NECHAJ TAK. TAKU HANBU SME TU UZ DLHO NEMALI.,,Andrej Danko
+3479,2024-01-29,JAN NEMCIK,0.01,NA LETENKU DO MOSKVY,,Andrej Danko
+3480,2024-01-29,Hlincik Milan,0.01,Na new auto ktore ma detekciu na semafor.,,Andrej Danko
+3481,2024-01-29,JOZEF KRAMAR,0.01,POJEBAL TA STLP,26644063.0,Andrej Danko
+3482,2024-01-29,Blcha Miroslav,0.1,"posielam v termeni januarovom,teda v juni a bozkavam vsade",,Andrej Danko
+3483,2024-01-29,KATUNSKY JAROSLAV,0.01,Na vymenu moto oleja v termeni JUnovom.,,Andrej Danko
+3484,2024-01-29,MICHAL MURIN,0.01,SNS A ZIVOT NS SU -RAKOVINASLOVENSKA---,,Andrej Danko
+3485,2024-01-29,MIROSLAV ZAUJEC,0.01,KUPTE SI KVALITNY CHLAST KONECNE.,,Andrej Danko
+3486,2024-01-29,PETER MIKLIAN,0.01,"PENIAZKY VYBERTE A UZITE SI ZA NE DOCHODOK NIEKDE V RUSKU, NENICTE NAM KRASNE SLOVENSKO",,Andrej Danko
+3487,2024-01-29,SARKA BREZANYOVA,0.01,BOZKAVAM VAS VSADE A UPRIMNE JE MI Z TOHO ZLE A BUDEM MAT NOCNE MORY,,Andrej Danko
+3488,2024-01-29,MAREK MORAVEC,0.01,"SICE IBA JEDNA KOPEJK.... PARDON HALIER, ALE SKUS SA ZA NEHO POJEBAT",,Andrej Danko
+3489,2024-01-29,BRANISLAV GAZO,0.01,NA OSTROUHLY STOL,,Andrej Danko
+3490,2024-01-29,MILOS LAPAR,0.01,"AK BY TUPOST NADNASALA, TAK SEMAFOR NETRAFIS, LEBO BY SI HO PRELETEL. TO VSAK PRE OZRATYCH TUPCOV NEPLATI",,Andrej Danko
+3491,2024-01-29,MAREK BATKA,0.01,CLOVEK S CHRBTOVOU KOSTOU JAK SEMAFOR PO STRETE S KPT. SLOPALOM,,Andrej Danko
+3492,2024-01-29,MARIAN TARDA,0.01,KONECNE NORMALNY INTELIGENTNY PREZIDENT :),,Andrej Danko
+3493,2024-01-29,MIROSLAV FILIPEK,0.01,NA ODBORNE VYSETRENIE,,Andrej Danko
+3494,2024-01-29,PETER VALACH,0.1,PRISPIEVAM NA SEMAFOR,,Andrej Danko
+3495,2024-01-29,JOZEF HANULIAK,0.01,"CHSKYYYYM??? NIEJA SOMS, JA VOBEC, JA NAOZAJ PROBLEM AJ VIZUALNE...",,Andrej Danko
+3496,2024-01-29,LUBOMIR KUCHAR,0.01,"PRE KPT. KKTVICA SEMAFORA OD ZUBKOVEJ VILY ZA TERMEN JANUAROVY. BOZKAVAM VSADE, AJ VYLOZKY",,Andrej Danko
+3497,2024-01-29,BOHDANA TISCHLEROVA,0.01,"VIETE CO, STE TAK PLYTKY NIEKEDY",,Andrej Danko
+3498,2024-01-29,BOHDANA TISCHLEROVA,0.01,DANKO-UZITOCNY PRORUSSKY IDIOT,,Andrej Danko
+3499,2024-01-29,BORIS BRUNNER,0.01,NAJVACSIEMU SLOVENSKEMU INTELEKTUALNEMU ATLETOVI KPT. DANKOVI,,Andrej Danko
+3500,2024-01-29,JAN BUZAK,0.01,PRISPEVOK NA JEDNOSMERNU LETENKU SMER MOSKVA,,Andrej Danko
+3501,2024-01-29,MARCELA VENCURIKOVA,0.01,NA CESTU DO FICOVEJ RITI,,Andrej Danko
+3502,2024-01-29,DANIEL CICH,0.02,"JEDEN CENT NA OPRAVU SEMAFORA,A TEN DRUHY PRE ZUBARA NA OPRAVU VYLOMENEHO ZUBA :)",,Andrej Danko
+3503,2024-01-29,STANISLAV MAGDA,0.01,"BOZTEK OD ZSUZSOVEJ TO NIE JE, ALE VERIM ZE AJ CENTIK ZAHREJE..SEBAREFLEXIU NEMAS ALE NA PRACHY SI",,Andrej Danko
+3504,2024-01-29,TOMAS PAPAJ,0.01,"PRE KPT A JEHO MARTINKU NA LISTOK SMER SLOVANSKA MOSKVA, POZDRAVTE DEDUSKU VOLODU",,Andrej Danko
+3505,2024-01-29,MATEJ KOVALIK,0.01,MENTALNE DAVIDLO,,Andrej Danko
+3506,2024-01-29,DANA RETOVA,0.01,PREPOSIELAM PROSTRIEDKY OD P. SOROSA.,,Andrej Danko
+3507,2024-01-29,MILAN ORGON,0.01,"NA LOGOPEDA, NA MOSKVIC, NA SEMAFOR, NA LETENKU, NA STETKU, LEN NIE NA KAMPAN",,Andrej Danko
+3508,2024-01-29,SAMUEL GELETKA,0.01,"PAN KAPITAN, POSIELAM NEJAKE PENIAZKY NA ZUBKY, KTORE STE VYLOMILI, TEDA NEVYLOMILI, TEDA VYLOMILI CI AKO",,Andrej Danko
+3509,2024-01-29,JAN PAPULAK,0.01,NA ROMANTICKU VECERU S VLADIMIROM VLADIMIROVICOM,,Andrej Danko
+3510,2024-01-29,PETER RENDEK,0.01,NAJLACNEJSI STAND UP KOMIK V HRE,,Andrej Danko
+3511,2024-01-29,PAVOL PAVLOVSKY,0.01,NASKRABKAME NA SEMAFOR,,Andrej Danko
+3512,2024-01-29,ANDREJ FILANDA,0.01,NA ISKRU PO OPICI,,Andrej Danko
+3513,2024-01-29,JAKUB KOLEK,0.01,NA OPRAVU SEMAFORU,,Andrej Danko
+3514,2024-01-29,MICHAL ULACKY,0.01,LUDIA OTUPJEVJAJU,,Andrej Danko
+3515,2024-01-29,JAN PAULOVIC,0.01,NA STUDIUM SLOVENSKEHO JAZYKA A SYNTAXE. PREZIDENT MUSI VEDIET VYSLOVIT AJ SUVETIE,,Andrej Danko
+3516,2024-01-29,ERIK MIHALCIN,0.01,NA UCITELA SLOVENCINY,,Andrej Danko
+3517,2024-01-29,MICHAL BROSKA,0.01,NA HYCKANIE A OPATERU...SEMAFORA,,Andrej Danko
+3518,2024-01-29,MICHAL PACKA,0.01,DR.DROBA POVEDAL NAJSILNEJSIM PUDOM JE SEXUALITA. ASPOM SOM POCHOPIL NOMINACIU SIMKOVICOVEJ A TARABU,,Andrej Danko
+3519,2024-01-29,MICHAL PACKA,0.01,SLAVA UKRAJINI,,Andrej Danko
+3520,2024-01-29,LUBOMIR HAVRAN,0.02,POSIELAM PDVA CENTY NA MAREC ZA KALENDARNY MESIAC JANUAR PRE NAJLEPSI STAND UP SLOVENSKY,,Andrej Danko
+3521,2024-01-29,MARIA STRUHAROVA,0.01,"PRE PELLEHO, ZOBERTE HO ZO SEBOU DO PEKLA",,Andrej Danko
+3522,2024-01-29,DANIEL HUMAJ,0.01,"NA JEDNOSMERNU CESTU DO RUSKA, ZOBERTE SO SEBOU AJ BLAHU",,Andrej Danko
+3523,2024-01-29,ROBERT FRIC,0.01,PRISPEVOK NA METLU DO DUBRAVKY. POZAMETAJ NAJPRV VO SVOJEJ HLAVE. TY FALOSNY KAPITAN A MENTALNY AKROBAT YURY KKTOVIC DANKO.,,Andrej Danko
+3524,2024-01-29,RADOVAN ONDAS,0.01,"POSIELAM RUBEL NA LOPATU, KED BUDES KOPAT ZEMLANKU-",,Andrej Danko
+3525,2024-01-29,JURAJ BERTA,0.01,NA SPOKOJNY ZIVOT POD PUTINOVOU PREDKOZKOU,,Andrej Danko
+3526,2024-01-29,KATARINA GRIGAROVA,0.01,NA TERAPIU: AKO SI ZVYSIT SEBAVEDOMIE A NESPRAVIT SI PRI TOM HANBU V CELEJ KRAJINE.,,Andrej Danko
+3527,2024-01-29,TOMAS PONCAK,0.01,DANKO JE IDIOT,,Andrej Danko
+3528,2024-01-29,STEFAN PORHINCAK,0.01,NA LIECENIE KEKETA V MOSKOVSKEJ NEMOCNICI,,Andrej Danko
+3529,2024-01-29,DUSAN MICEK,0.01,NEBOLO BY POLDECI DAT SI JEDNO ODVECI A POPROSIM ODSTUPIT LEBO BUDES HANBOU SLOVENSKA A CELEJ EU.,,Andrej Danko
+3530,2024-01-29,MICHAL DRNDAS,0.01,PREDPLATNE NA DALSI MESIAC PRE NAJLEPSIEHO ZABAVACA,,Andrej Danko
+3531,2024-01-29,JAN STANKOVIANSKY,0.01,PLATBA PRE NAJLEPSIEHO HUMORISTU KAPITANA SEMAFORU,,Andrej Danko
+3532,2024-01-29,VLADIMIR OZOGAR,0.01,COREGA ANI VIZUALNE,,Andrej Danko
+3533,2024-01-29,MATUS ULICNY,0.01,SUDRUHOVI DANKOVI NA JEDNOSMERNY LISTOK DO RUSKA ABY MOHOL VSADE BOZKAVAT SUDRUHA PUTINA,,Andrej Danko
+3534,2024-01-29,IVAN MEDO,0.01,NA LETENKU DO MOSKVY,,Andrej Danko
+3535,2024-01-29,TOMAS SYKORA,0.01,TAKUTO SLOVNU NAKLADACKU BUDES DOSTAVAT POCAS CELEHO MANDATU. NA SLOVENSKU MOZES UZ LEN PO KANALOCH.,666.0,Andrej Danko
+3536,2024-01-29,MICHAL KACMAR,0.01,NA JEDNOSMERNY LISTOK DO RUSKA,,Andrej Danko
+3537,2024-01-29,SONA KYSILKOVA,0.01,NA OPRAVU SEMAFORU KAPITANE-,,Andrej Danko
+3538,2024-01-29,LADISLAV KILIAN,0.01,KONECNE MOZU KANDIDOVAT AJ NEANDERTALCI,,Andrej Danko
+3539,2024-01-29,JOZEF HUMAJ,0.01,NA TRANSPLANTACIU...,,Andrej Danko
+3540,2024-01-29,Mrazkova Alexandra,0.01,Od zubkovej vily na novy zubok,,Andrej Danko
+3541,2024-01-29,Andrej Martinec,0.01,Prispevok na vykup celeho online priestoru.,,Andrej Danko
+3542,2024-01-29,ANDREJ DOBRIK,0.01,"SLOVENSKEMU NARODNEMU IDIOTOVI, BOZKAVAM VSADE VAS",,Andrej Danko
+3543,2024-01-29,MATEJKOVIC MIROSLAV,0.01,dementovi na kondOm aby sa uZ nerozmnoZoval,,Andrej Danko
+3544,2024-01-29,MICHAL BEDNARIK,0.01,na skory koniec sUdruh.,,Andrej Danko
+3545,2024-01-29,Haramia Viktor,0.01,27871404,,Andrej Danko
+3546,2024-01-29,KOPCEK PATRIK,0.01,Narodnemu chujovi na kampan,,Andrej Danko
+3547,2024-01-29,HOLCIK MICHAL,0.01,"Bozkavam vas vsade, aj na semafor",,Andrej Danko
+3548,2024-01-29,MELICHER MATEJ,0.01,NA PSYCHIATRA A PROTIALKOHOLICKE LIECENIE PANOVI KAPITANOVI,,Andrej Danko
+3549,2024-01-29,KRIZEK GABRIEL,0.01,Ty tupelo sproste,,Andrej Danko
+3550,2024-01-29,GONDA RICHARD,0.01,"Ale beda, ak sa nepodelite aj s Martinkou na jej novy kozuch z rakuskeho hranostaja",,Andrej Danko
+3551,2024-01-29,VARGA MAREK,0.01,ALL FOR SEMAFOR,,Andrej Danko
+3552,2024-01-29,ZALMAN PETER,0.01,Posielam cent cloveku ako dat len clovek cloveku vie. V termeni junovom vyplatny januar,,Andrej Danko
+3553,2024-01-29,TRUSIK MARIAN,0.2,"Posielam vam s chladom v hlave na udrzbu narodneho semafora, pripadnenovy drager",,Andrej Danko
+3554,2024-01-29,KURUC MATEJ,0.01,v termeni na ostruhly julnovom stol,,Andrej Danko
+3555,2024-01-29,CERTIK STEFAN,0.01,Na letenku do Ruska,,Andrej Danko
+3556,2024-01-29,OSINA DANIEL,0.01,Na kurz sebareflexie a politicky dochodok..,0.0,Andrej Danko
+3557,2024-01-29,LANG TOMAS,0.1,na semafor,,Andrej Danko
+3558,2024-01-29,VITOVSKY ERIK,0.01,For semafor,,Andrej Danko
+3559,2024-01-29,DURIK MARIAN,0.01,"Prispel som sa velmi. Si karikatura sameho seba, fo vyplatnom termeni.",0.0,Andrej Danko
+3560,2024-01-29,BERTOVA DANICA,0.01,"Mily pan Danko pite len Granko.Semafory obidte,zubky si setrite",,Andrej Danko
+3561,2024-01-29,RIDZON MILAN,0.01,Putin Ti Zehnaj Andrej.,,Andrej Danko
+3562,2024-01-29,Steso Milan,0.01,Pre najv(csieho blbca co sa narodil na Uzemi SR,,Andrej Danko
+3563,2024-01-29,Lubos Hornak,0.02,"Bozkavam Vas vsade, moj milasek. Alenka Z.",,Andrej Danko
+3564,2024-01-29,GEJDOS PETER,0.01,LUDIA OTUPEJEVJAJU,,Andrej Danko
+3565,2024-01-29,Benčo Jakub,0.01,"Kup si nieco pekne na seba, a na ceste domov netraf stlp. Abstinovat ked soferujes urcite pomoze",,Andrej Danko
+3566,2024-01-29,Nagy Adrián,0.01,"Na novú EČV, ktorú ste stratili: UA SLAVA",666.0,Andrej Danko
+3567,2024-01-29,"Bezák Pavel, Ing.",0.01,Na predplatne casopisu Zjem aj vlek,,Andrej Danko
+3568,2024-01-29,"ARTON, s.r.o.",-12600.0,reklamne plochy,240014.0,Andrej Danko
+3569,2024-01-29,"ARTON, s.r.o.",-1260.0,reklamne plochy tlac,240015.0,Andrej Danko
+3570,2024-01-29,Daniela Cervena,0.01,"A prosim ta, chod zametat tu Dubravku, ale do konca zivota",,Andrej Danko
+3571,2024-01-29,1/SONA GABRIS                      2/DUBRAVCICKA 3,1.08,"Ref.banky platiteľa:3ZV24A117500|Banka platiteľa:REVOLT21|EUR1.08|HUF430,00|Popl.zahr.banky:HUF0,|Poplatok:SHA|RUSSKE RUBLE NEMALI, BOZKAVAM )|695",,Andrej Danko
+3572,2024-01-29,Lubos Matlach,0.01,ruskemu zmetkovi a smesnemu kapitan ovi.,,Andrej Danko
+3573,2024-01-29,Peter Mojzes,0.01,Prispevok kapitanovi Semaforu Semaf orovicovi Dankovi na jednosmernu le tenku do Ruska,,Andrej Danko
+3574,2024-01-29,Kristina Kozarikova,0.01,27870398,,Andrej Danko
+3575,2024-01-29,1/BENJAMIN STEVULIAK               2/15 DOWNSWAY  ,1.14,"Ref.banky platiteľa:20240129SWI00941|Banka platiteľa:REVOGB21|EUR1.14|GBP1,|Popl.zahr.banky:GBP0,|Poplatok:SHA|SEMAFOR SENDS THEIR REGARDS|695",,Andrej Danko
+3576,2024-01-29,Michalík Matej,0.01,na karieru :) xdd,,Andrej Danko
+3577,2024-01-29,Martina Pastorekova,0.03,aby blesky isli do teba,,Andrej Danko
+3578,2024-01-29,Pajor Peter,0.01,"Cicerovi z RevUcej, nech nas zabava dalej.",,Andrej Danko
+3579,2024-01-29,LUBOMIR BATA,0.01,"od zubkovej vily, bozkava vas vsade",,Andrej Danko
+3580,2024-01-29,PETER SITAR,0.02,Dotacia na protiSEMAFORicke liecenie plus na zUbok,,Andrej Danko
+3581,2024-01-29,Hudec Lukas,0.01,Na jednosmerny vylet do Moskalska.,,Andrej Danko
+3582,2024-01-29,COMOREK JOZEF,0.1,ruskemu potkanovi na zuby,,Andrej Danko
+3583,2024-01-29,KOSTAN MICHAL,0.01,davam bolsevikovi rok tfuj,,Andrej Danko
+3584,2024-01-29,STROMKO LUBOS,0.01,Na jednosmerny listok do moskvy. Putler ta uz caka. Nezabudni indulonu,0.0,Andrej Danko
+3585,2024-01-29,BLAZICEK MAREK,0.01,na letenku do Moskvy...najlepsie jednosmernu...,,Andrej Danko
+3586,2024-01-29,Miroslav Krasnan,0.01,Neni vojak jako vojak. Ludia osprostievavaju.,,Andrej Danko
+3587,2024-01-29,Ing.Peter Passak,0.01,"SNS - strana, kde na vstup vyzaduju negativny IQ test. Na jednosmernylistok do Ruska pre cely kolektiv.",,Andrej Danko
+3588,2024-01-29,James Goulding,0.01,Pre homofoba a ozrana. Prosim umrialebo sa odstahuj do RUSKA,,Andrej Danko
+3589,2024-01-29,Ondrej Jombik,0.01,"Ze ta to bavi, robit zo seba corazjvacieho trageda a hlupaka ty bezcharakterny ozran",,Andrej Danko
+3590,2024-01-29,Ing.Vladimir Podoba,0.01,"Hrdo, odborne a slusne posielam poprepocte 1 rubel.",,Andrej Danko
+3591,2024-01-29,Jiri Sykora,0.01,"Tolko lasky, ako clovek cloveku dat len dokaze.",,Andrej Danko
+3592,2024-01-29,Ing.Rastislav Manovsky,0.01,Drz sa Andrej Revuca je na teba hrda,,Andrej Danko
+3593,2024-01-29,Robert Zavadsky,0.01,"na logopeda, ty kolaborantska spina",,Andrej Danko
+3594,2024-01-29,Mgr.Miroslav Berzedy,0.01,"na vlozky, ee vylozky, a co zvysi na cestu na Sibir",,Andrej Danko
+3595,2024-01-29,Lubomir Smidek,0.01,Hrad na Danka,,Andrej Danko
+3596,2024-01-29,Ing.Ivan Matusik,0.01,Prispevok na prvu sluzobnu cestu po zvoleni na Krym/ Sevastopol,,Andrej Danko
+3597,2024-01-29,Peter Norulak,0.02,na autoskolu a zubara.,,Andrej Danko
+3598,2024-01-29,Michal Drotovan,0.01,"Drzim palec, nech predbehnete Pelleho a ste v druhom kole. To bude jazda. Nazdravie.",,Andrej Danko
+3599,2024-01-29,Marek Ostrochovsky,0.01,"neexistuje, som ti povedau....",,Andrej Danko
+3600,2024-01-29,Ondrej Cernay,0.01,"Tato platba bola zaslana omylom, prosim vratit odosielatelovi. Bozkavam vas vsade.",,Andrej Danko
+3601,2024-01-29,Matej Brezan,0.01,prajem vam pan danko co nahjorsi uspech vo volbach lebo toto ak vyhrate to bude strasna hanba pre nas,,Andrej Danko
+3602,2024-01-29,Martin Mlynar,0.01,"na jednosmerny listok vlakom do RuZZka pre kpt.kkt.Danka, aka Putlerovsky analny kolik",,Andrej Danko
+3603,2024-01-29,Ing.Martin Sojka,0.01,"Ziaden clovek nedokaze dat cent cloveku, ako dokaze dat len clovek cloveku.",,Andrej Danko
+3604,2024-01-29,Maria Pribickova,0.02,Zasluzis si hyckanie a opateru .,,Andrej Danko
+3605,2024-01-29,Ing.Eduard Toth,0.01,"Na zdravie kapitan, napi sa. Nech mas aspon nieco v hlave. Vieme ze vtedy si chytrejsi semafora.",,Andrej Danko
+3606,2024-01-29,OZIMY MARIAN,0.01,27871463,,Andrej Danko
+3607,2024-01-29,HODOROVIC PETER,0.01,na rozum,,Andrej Danko
+3608,2024-01-29,HUCKOVA MARIA,0.01,pre kapitana a Simkovicovu na jednosmerny listok do Ruska,0.0,Andrej Danko
+3609,2024-01-29,FILIP FERDINAND,0.01,na snuru,,Andrej Danko
+3610,2024-01-29,MACIK MAREK,0.05,za zachranu semaforov,,Andrej Danko
+3611,2024-01-29,PALENIK MARTIN,0.01,na osobneho asistenta pre osobu s mentalnym znevyhodnenim,0.0,Andrej Danko
+3612,2024-01-29,KATONA EDWIN,0.01,fuj si jeden odpad spolocnosti a ty to dobre vies kapitan bozkavam,,Andrej Danko
+3613,2024-01-29,BANIK ROBERT,0.01,Prispevok od nasej rodiny na protialkoholicke liecenie....,,Andrej Danko
+3614,2024-01-29,ZAZRIVEC MARTIN,0.01,Aby si nikto nerobil SLANDU z Cicera z Revucej.,,Andrej Danko
+3615,2024-01-29,Martin Rausa,0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidiprispevok na jedsosmernu cestu,,Andrej Danko
+3616,2024-01-29,BATHOOVA JARMILA,0.01,Boskavam Vas Vsade. Vasa Zubkova vila,,Andrej Danko
+3617,2024-01-29,STRUHAR MARTIN,0.01,na cestu na detektor lzii,,Andrej Danko
+3618,2024-01-29,Vladimir Kybl,0.01,"Lebo ?ziaden clovek nedokaze dat tolko lasky cloveku, ako dokaze dat len clovek cloveku?",25012024.0,Andrej Danko
+3619,2024-01-29,"ABC KOMINARSTVO, spol. s r.o.",0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidiprispevok na jedsosmernu cestu,,Andrej Danko
+3620,2024-01-29,KominyRausa.sk s. r. o.,0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidiprispevok na jedsosmernu cestu,,Andrej Danko
+3621,2024-01-29,"NAJLEPSIE KOMINARSTVO, s.r.o.",0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidiprispevok na jedsosmernu cestu,,Andrej Danko
+3622,2024-01-29,NerezoveKominy.sk s. r. o.,0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidiprispevok na jedsosmernu cestu,,Andrej Danko
+3623,2024-01-29,MICHAL PACKA,0.1,"NA CESTU DO INEJ GALAXIE TAM URCITE AKO PREZIDENT USPEJETE, KED ZOBERIETE SIMKOVICOVU DAM +0,1",,Andrej Danko
+3624,2024-01-29,Mgr.Tatiana Novakova,0.01,"Na opravu zuba, schskym schcim, slepidlom. A boskavam vas vsade captain Andrew",,Andrej Danko
+3625,2024-01-29,JAKUB STURC,0.01,"FICO, DANKO, PELE, BEZTE DO ... RUSKA",,Andrej Danko
+3626,2024-01-29,Peter Bednár,0.01,Zdegenerovanemu dezolatovi na za uralsky pobyt,,Andrej Danko
+3627,2024-01-29,Roman Entner,0.01,"Na jednosmernu cestu do Moskvy. Vlastizradca, ruSSky svab.",,Andrej Danko
+3628,2024-01-29,Michal Janík,0.01,plutvopici ta bozkavaju vsade pan kapitan naDrANKO,,Andrej Danko
+3629,2024-01-29,Silvia Procházková,0.01,prispievam na vysnivanu cestu do moskvy a uz sa nevracaj,,Andrej Danko
+3630,2024-01-29,Peter Emrich,0.01,Tu mas ale daj Robovi jeho polovicu. Nie ze ho domotas ako Slota.,,Andrej Danko
+3631,2024-01-29,Miroslav Šintaj,0.01,"prispevok na navstevu psychologa,logopeda,a na jednosmerny listok smer Moskva",,Andrej Danko
+3632,2024-01-29,Lukáš Petrík,0.01,"Potuzeny alkoholom, rozdal si to so semaforom. Na zdarovie kapitan.",,Andrej Danko
+3633,2024-01-29,Iveta Imreová,0.01,HRAD NA DANKA,,Andrej Danko
+3634,2024-01-29,Blasko Matej,0.01,"Menej sa poslat nedalo,ani centu nie si hoden",666.0,Andrej Danko
+3635,2024-01-29,Kuna Frederico,0.01,ANDREJ GRANKO DRZ SA. PREMIERSKY PALAC BUDE NAS,,Andrej Danko
+3636,2024-01-29,Muller Adam,0.01,Nizsie tresty pre semafory,,Andrej Danko
+3637,2024-01-29,Nozdrovicky Stefan,0.01,"Bezurocna pozicka nie dar, aj ja som to musel pozicat od Sorosa aby som vedel podporit proRuZZkeho kandidata",,Andrej Danko
+3638,2024-01-29,Korchanik Michal,0.01,Dekoduj - TmVwb21vaGxvLCBzdGFsZSBzaSB0cmFnZWQh,,Andrej Danko
+3639,2024-01-29,Fabryova Anna,0.01,"Dufam, ze naozaj veris v boha. Tesi sa na teba duhove peklo:)",,Andrej Danko
+3640,2024-01-29,Schmidt Jozef,0.01,way,,Andrej Danko
+3641,2024-01-29,Srnec Filip,0.01,Na cestu do maticky Rus.,,Andrej Danko
+3642,2024-01-29,Darani Ivan,0.01,Na fontanu pre Zuzanu Szu .,,Andrej Danko
+3643,2024-01-29,Darani Ivan,0.69,"Ludia otupujujievaju , ale prispievaju . Bozkavam vsade :)",,Andrej Danko
+3644,2024-01-29,Andrej Čajka,0.01,na letenku do Moskvy,,Andrej Danko
+3645,2024-01-29,Matúš Chromek,0.01,na jazikovy kurz Slovenskeho jazyka,,Andrej Danko
+3646,2024-01-29,TVAROZEK IGOR,0.01,Tu mas ty vyprahnuty kokot sprosty a prorusky kolaborant,,Andrej Danko
+3647,2024-01-29,Slavomír Šikuda,0.01,Na nakup jednosmernej letenky do Moskvy,,Andrej Danko
+3648,2024-01-29,PETER REPA,0.01,"bozkavam vas vsade, dobre?",,Andrej Danko
+3649,2024-01-29,HUDZIK DANIEL,0.01,na autoskolu,,Andrej Danko
+3650,2024-01-29,VALKUCAK PAVOL,0.01,v termeni marcovom,,Andrej Danko
+3651,2024-01-29,"Zorkóczy Peter, Ing.",0.01,Na novu rigoroznu pracu Verejna sprava a jej charakteristicke crty druhy pokus,,Andrej Danko
+3652,2024-01-29,MEDVEC EMIL,0.01,"Pal do pi... PardOn, pal do ruSSka...",,Andrej Danko
+3653,2024-01-29,TOth Zoltan,0.01,Na logopeda.,,Andrej Danko
+3654,2024-01-29,Smidova Slavomira,0.1,Odstup. Opicu za prezidenta nechceme.,,Andrej Danko
+3655,2024-01-29,Filip Antonin,0.01,Andrejovi na novu olejovu vanu,,Andrej Danko
+3656,2024-01-29,Ing. Roman Mackovic,0.01,Prispevok na psychiatra,,Andrej Danko
+3657,2024-01-29,Filip Kovac,1.0,nase vitazstvo je,,Andrej Danko
+3658,2024-01-29,Branislav Visnansky,0.01,Podla posolstva narodnej rozpravkySol nad zlato Vam peniaze neposlem.Namiesto toho uz Vasim smerom vyrazil voz plny soli. Dr,,Andrej Danko
+3659,2024-01-29,Ing. Veronika Hegedusova,0.01,Na pobyt na psychiatrii,,Andrej Danko
+3660,2024-01-29,Peter Svarc,0.01,"Po-da-kuj-mi, Tvoj Stefan",,Andrej Danko
+3661,2024-01-29,Roman Vajdik,0.01,Ja si to uzivam ja sa mam dobre,,Andrej Danko
+3662,2024-01-29,Mgr. Matus Balara,0.01,"Nahrada za krivdu, ze semafor odmietol spisat Spravu o nehode",,Andrej Danko
+3663,2024-01-29,Michal Pátek,0.01,Na logopeda a psychiatra,,Andrej Danko
+3664,2024-01-29,Vojtech Danko,0.01,Prispevok financny prezidentovi v termeni buducom volebnom posielam zo srdca menovec ja.,,Andrej Danko
+3665,2024-01-29,Darani Ivan,0.01,Na metlu pre zametaca Dubravky,,Andrej Danko
+3666,2024-01-29,Darani Ivan,0.01,na prezYdenSKe kreslo - do spalne,,Andrej Danko
+3667,2024-01-29,Darani Ivan,0.01,Az raz budem prezidentom budem davat same brepticky .,,Andrej Danko
+3668,2024-01-29,Jasso Igor,0.1,Ozraty v Dubaji best standup ever,,Andrej Danko
+3669,2024-01-29,Griger Tomas,0.01,vsetkym ste na smiech,,Andrej Danko
+3670,2024-01-29,Griger Tomas,0.01,Na podporu najlepsieho standup komika v dejinach celjabinska,,Andrej Danko
+3671,2024-01-29,Halasz David,0.01,"Trageda za kandidata treba, bez neho by bola slovenska politika ovela smutnejsia.",,Andrej Danko
+3672,2024-01-29,Zelenak Samuel,0.01,1 na cestu (a nevracaj sa),,Andrej Danko
+3673,2024-01-29,Trachta Norbert,0.01,Na logopeda,,Andrej Danko
+3674,2024-01-29,Griger Tomas,0.01,Na novu telku - aby ste si na nej mohli pozriet ako ste ozraty zramoval semafor. Ked to sutaj estok pusti do obehu,,Andrej Danko
+3675,2024-01-29,Pavol Sadlon,0.01,Chskym chcim,,Andrej Danko
+3676,2024-01-29,Michal Biro,0.01,Aspon raz v zivote som si chcel zaplatit stetku. Spln prave sa mi senil.,,Andrej Danko
+3677,2024-01-29,Varga Tamás,0.01,clovek cloveku,,Andrej Danko
+3678,2024-01-29,Flimelová Renáta,0.01,polib nám prdel danku,,Andrej Danko
+3679,2024-01-29,Gajarský Matúš,0.01,Bozkavam vas vsade,,Andrej Danko
+3680,2024-01-29,Nikolas Mička,0.01,Nefeť pleseň,,Andrej Danko
+3681,2024-01-29,Šimon Miroslav Cisarik,0.01,posielam na vodku a brzdu,,Andrej Danko
+3682,2024-01-29,Časnocha Michal,0.01,OO24012900010843,,Andrej Danko
+3683,2024-01-29,Kotys Vladimír,0.01,PAN danko ako vtip na 1.April ok. Asi ste sa moc udrel o ten semafor. Ste hanbou Slovenska ako clovek!,,Andrej Danko
+3684,2024-01-29,"Štrba Martin, Ing.",0.01,na transplantaciu chrbtovej kosti,,Andrej Danko
+3685,2024-01-29,MAREK PITRA,0.01,"ABY SI UZ ZACAL HOVORIT KONECNE PRAVDU,AKO NAPRIKLAD TU YOUTUBE.COM/SHORTS/7EAQKT3EUVS",,Andrej Danko
+3686,2024-01-29,Griger Tomas,0.01,Na kapitanske vylozky,,Andrej Danko
+3687,2024-01-29,Hradek Radovan,0.01,Na opateru a hyckanie v Lubjanke,,Andrej Danko
+3688,2024-01-29,Griger Tomas,0.01,Bozkavam vas vsade,,Andrej Danko
+3689,2024-01-29,Juran Ondrej,0.02,"1 cent na stoziar, 1 cent na semafor",,Andrej Danko
+3690,2024-01-29,Humaj Juraj,0.01,Boskavam vas vsade,,Andrej Danko
+3691,2024-01-29,Drobot Nikolas,0.01,Prispevajem,,Andrej Danko
+3692,2024-01-29,Fridel Miroslav,0.01,Prispevok na dreger a ine zalezitosti zaujmov narodnych,,Andrej Danko
+3693,2024-01-29,Uhlar Marek,0.01,Prispevok na 1/13 rozka,,Andrej Danko
+3694,2024-01-29,Cech Viktor,0.01,"lol, politik pre jednoduchsich ludi len s priemernym rozumovym ustrojenim",,Andrej Danko
+3695,2024-01-29,Zatko Jaroslav,0.01,"Na slov generator nahodnych, pre hrad kapitan je.",,Andrej Danko
+3696,2024-01-29,Bekenyi Jana,0.01,Na semafor,,Andrej Danko
+3697,2024-01-29,Bekenyi Jana,0.01,Na semafor,,Andrej Danko
+3698,2024-01-29,Dobias Martin,0.01,Predam lyziarky Rossignol velkost 270. Pouzivane ale vo velmi dobrom stave. Cena 50 EUR,,Andrej Danko
+3699,2024-01-29,Gese Marek,0.01,"Lebo si Andrejko, dokazal porazit semafor v sutazi Mudrejsi ustupi.",31415927.0,Andrej Danko
+3700,2024-01-29,Jesensky Vladimir,0.1,"Prispevok na hacik na miechu, aby sa Vam len tak zbytocne nehompalala",,Andrej Danko
+3701,2024-01-29,Kun Marian,0.01,S pozdravom.George Soros.,,Andrej Danko
+3702,2024-01-29,Hrivnacik Simon,0.01,"Almuznicku na cestu do ruska, aby uz tolko pan ex kapitan nemrncal ako mu tu je zle v kazdej televiznej debate",,Andrej Danko
+3703,2024-01-29,Cik Miroslav,0.01,Uzi si ten cent ty retard,,Andrej Danko
+3704,2024-01-29,Dolnak Miroslav,0.01,Na zvoncek aby mohol hned fukat,,Andrej Danko
+3705,2024-01-29,Chovanec Jan,0.01,Andrej ty si hanba Slovenska. Tahaj do svojho fasistickeho ruZka.,,Andrej Danko
+3706,2024-01-29,DANIS PAVOL,0.01,Staremu ozralovi na plastovy poldecak. Nazdravie kkt.Demendanko,0.0,Andrej Danko
+3707,2024-01-29,Klara Hajdinova,0.01,27871678,,Andrej Danko
+3708,2024-01-29,OLEKSAK JURAJ,0.01,Prispevok na novy vodicak,,Andrej Danko
+3709,2024-01-29,HALAJ MARTIN,0.01,Na letenku do ruska a uz sa nikdynevracaj,,Andrej Danko
+3710,2024-01-29,Klizan Vladimir,0.01,Na metlu na zametanie Dubravky,,Andrej Danko
+3711,2024-01-29,Mano Miroslav,0.01,"Ziaden clovek nedokaze dat tolko centoviek cloveku, ako clovek cloveku na kapitanovom transparentnom ucte. Chskym.",,Andrej Danko
+3712,2024-01-29,Mgr. IVICA AUGUSTOVICOVA,0.01,"Na nove vylozky, ked uz vam state vzali",,Andrej Danko
+3713,2024-01-29,Mgr. Peter Lenco,0.01,"Pal do Moskvy, kurwa ruska",,Andrej Danko
+3714,2024-01-29,Eva Krausova,0.1,Na jednosmerny listok do ruZZka,,Andrej Danko
+3715,2024-01-29,Samuel Godal,0.01,SNS je personalne vykradnuta ako vasa hlava,,Andrej Danko
+3716,2024-01-29,CERMAKOVA EVA,0.01,aky kandidat taky prispevok,,Andrej Danko
+3717,2024-01-29,Ing. Lukas Kmet,0.01,Na neopren a nafukovacie koleso...ale derave.,,Andrej Danko
+3718,2024-01-29,Jakub Pohl,0.01,Danko schon za boj proti cervenej na semaforoch,,Andrej Danko
+3719,2024-01-29,Ladislav Jakab,0.01,Jazikovi pobit Budapestyi,,Andrej Danko
+3720,2024-01-29,Miroslav Minich,0.01,Aby si mohol urobit Simkovicovu. Uzsa na teba urcite tesi,,Andrej Danko
+3721,2024-01-29,Miroslav Minich,0.01,Zsuzsovej na plastiku,,Andrej Danko
+3722,2024-01-29,Mgr. Katarina Skripecka,0.01,Prispevok na jednosmernu letenku podla Lubovole Blahovej,,Andrej Danko
+3723,2024-01-29,Pavol Imrich,0.01,"Andrej veru ved, Jeden rubel dam tihned, Rubel ziaden cent, Bude z teba prezident, Za velkym ostrouhlymstolom, Sedi kral pad",,Andrej Danko
+3724,2024-01-29,Martin Nema,0.01,Prispevok na novy sporak ked sa kvoli LNG pokazia horaky,,Andrej Danko
+3725,2024-01-29,Ing. Martin Fobel,0.01,Na kosak a kladivo,,Andrej Danko
+3726,2024-01-29,Matej Matusech,0.01,Nikto nedokaze pobavit slovensko ako andrej danko slovensko.,,Andrej Danko
+3727,2024-01-29,Miklas Michal,0.01,Tu mas ty trulo na semafor,,Andrej Danko
+3728,2024-01-29,NAGY GABRIEL,0.01,na nove topanky na upratovanie Dubravky,,Andrej Danko
+3729,2024-01-29,Vlastimil Valach,0.01,Ruska ambasada. Dochadzaju zdroje,,Andrej Danko
+3730,2024-01-29,ABEL MAROS,0.01,na transplantaciu mozgu,,Andrej Danko
+3731,2024-01-29,IMRICH HAMARCAK,0.01,"DAR NA OPRAVU NARODNEJ KULTURNEJ PAMIATKY, SEMAFORU, KTORY ZRAZIL KAPITANA.",20240125.0,Andrej Danko
+3732,2024-01-29,MICHAL ZAJIC,0.01,NESMRD TU. LET DO MOSKY,,Andrej Danko
+3733,2024-01-29,LUBOR KONTRA,0.01,HLUPAKOVI,,Andrej Danko
+3734,2024-01-29,Stanislav Lukac,0.01,"Neopvaz sa to prechlastat, ty socka???",,Andrej Danko
+3735,2024-01-29,Hr D Laifr,0.01,To ani v piatkove vecery v centre Amsterdamu sa ludom nepodari povalit takto semafor,,Andrej Danko
+3736,2024-01-29,Martin Pavelka,0.01,Na logopeda a alkohotester pre Kpt. Kkt. Danka,,Andrej Danko
+3737,2024-01-29,Hr D Laifr,0.01,Na kurz Slovenskeho jazyka,,Andrej Danko
+3738,2024-01-29,Roman Mrazik,0.05,27871538,,Andrej Danko
+3739,2024-01-29,Stanislav Lukac,0.01,"Tu mas na cestu do ruska, ty polo-debilny retard ... a uz sa nevracaj?",,Andrej Danko
+3740,2024-01-29,David Saro,0.01,"co bolo, to bolo... terazky som majorom",,Andrej Danko
+3741,2024-01-29,NEMECEK MARIAN,0.01,27871614,,Andrej Danko
+3742,2024-01-29,MIHALIK MICHAL,0.01,na cesu do Moskvy aby si vylizal Putlerovi ty kolab svab.slava ukraine.a nevracaj sa,666.0,Andrej Danko
+3743,2024-01-29,PAVLIK MICHAL,0.01,na jednosmernu letenku Ruska,,Andrej Danko
+3744,2024-01-29,MACEK JAN,0.01,Na jednosmernu letenku do ruSSka,,Andrej Danko
+3745,2024-01-29,PEKARCIK TIBOR,0.01,Na lobotomiu mozgu,,Andrej Danko
+3746,2024-01-29,JASENOVEC PETER,0.01,"Na jednosmernu letenku do moskalska, ty vatnik",,Andrej Danko
+3747,2024-01-29,ZELENAK JOZEF,0.01,Na lobotomologa,,Andrej Danko
+3748,2024-01-29,Libor Knapec,1.0,Otacaj ho ako keby bolo tvoje vlastne,,Andrej Danko
+3749,2024-01-29,Anna Smutna,0.01,"od Sorosa, nikto nedokaze dat tolkocentov cloveku ako clovek cloveku",,Andrej Danko
+3750,2024-01-29,Lubos Stefanec,0.01,"Komu neni s hury dano,v apatece nekoupi",,Andrej Danko
+3751,2024-01-29,BOROS MICHAL,0.01,na kapitanske vylozky,,Andrej Danko
+3752,2024-01-29,MEDVED JAKUB,0.01,Na logopeda,,Andrej Danko
+3753,2024-01-29,PENEV BORIS,0.01,"Na vreckovky, ked uz tolko plackas",,Andrej Danko
+3754,2024-01-29,LIZAK LEONTIN,0.01,"ste hanbou Slovenska, no nech sa Vam v osobnom zivote dari",0.0,Andrej Danko
+3755,2024-01-29,DUDAS IVAN,0.01,"Ohybaj ma mamko, pokial som ja Danko. Slovenske semaforove prislovie.",,Andrej Danko
+3756,2024-01-29,DECHTAROVA MIROSLAVA,0.01,Na novy zub,,Andrej Danko
+3757,2024-01-29,BEYER MICHAEL,0.01,tu mas jeden rubel ty ozraty vandal,,Andrej Danko
+3758,2024-01-29,NAGY MICHAL,0.01,Na logopeda a jednosmernu letenku do Ruska,,Andrej Danko
+3759,2024-01-29,PANIK MARCEL,0.01,hrdo si unikal 15h pred policajtami,0.0,Andrej Danko
+3760,2024-01-29,ZEMLA PETER,0.01,SLAVA UKRAINE,,Andrej Danko
+3761,2024-01-29,Juraj Erbert,0.01,Na cestu do Ruska a bacha na semafory,,Andrej Danko
+3762,2024-01-29,HERMANSKY MICHAL,0.01,Aby Ti chutove bunky v zadku narastli,,Andrej Danko
+3763,2024-01-29,KYSELA MIROSLAVA,0.01,na zrkadlo,,Andrej Danko
+3764,2024-01-29,PODOLSKY FRANTISEK,0.01,na nove zaclony v palaci,,Andrej Danko
+3765,2024-01-29,PIJAK PETER,0.01,"Chskym s panom Semaforom, nie ja som ja vobec akoze ja ani vizualne by",,Andrej Danko
+3766,2024-01-29,GALAS BORIS,0.01,na vylet do Moskvy,,Andrej Danko
+3767,2024-01-29,TOPOLI LUKAS,0.01,"Na cestu do ruska pre Andrejka. My si to uzijeme, bude nam dobre",,Andrej Danko
+3768,2024-01-29,IVANIS MIROSLAV,0.01,Ludia otupejevjaju ale ja vam bozkavam ten vas promafiansky balicek vsade,,Andrej Danko
+3769,2024-01-29,PANIK MARCEL,0.01,Nechajte toho Andreja na pokoji,0.0,Andrej Danko
+3770,2024-01-29,KRESAN MICHAL,0.01,27871632,,Andrej Danko
+3771,2024-01-29,TUHARSKY MIROSLAV,0.01,Prispevok na jednosmerny listok doMoskvy,,Andrej Danko
+3772,2024-01-29,Jozef Remen,0.01,Na listok do ruska. Alebo do pice.,,Andrej Danko
+3773,2024-01-29,MORHACOVA MICHAELA,0.01,Na letenku k ostrouhlemu stolu v Kremli,,Andrej Danko
+3774,2024-01-29,Andrej Melchiory,0.01,...na nove auto,,Andrej Danko
+3775,2024-01-29,Mgr. Petra Villemova,0.01,"Zober knihu, nie alkohol a uc sa skovencinu",,Andrej Danko
+3776,2024-01-29,Alexandra Kupecka,0.01,"Aka je vasa oblubena farba? Cervena, oranzova alebo zelena?",,Andrej Danko
+3777,2024-01-29,Ing. Peter Catlos,0.69,Pray for semafor,,Andrej Danko
+3778,2024-01-29,CARSKY IVAN,0.01,"Andrej, co to tu??? Same centy??? Tusim ludia otupjevavaju. Alebo zebychyba inde bola niekde?",,Andrej Danko
+3779,2024-01-29,OSVALD PETER,0.01,27871632,,Andrej Danko
+3780,2024-01-29,Eva Saturova,0.01,27871632,,Andrej Danko
+3781,2024-01-29,ZVERKOVA ZUZANA,0.01,"Ziaden clovek nedokaze poslat 1 cent cloveku, ako len clovek cloveku",,Andrej Danko
+3782,2024-01-29,NIKOLINI ALEXANDRA,0.01,Posielam podporu od Sorosa. TAJNU.Bozkavam vsade.,,Andrej Danko
+3783,2024-01-29,TAZKA KRISTINA,0.01,"na lobotomiu, ty potomok privatizera, co naletel Kocnerovej volavke",,Andrej Danko
+3784,2024-01-29,Pokorný Ivan,0.01,Trulo Slovakia,,Andrej Danko
+3785,2024-01-29,KLEIN PETER,0.01,Na nove vylozky a trvaly pobyt v maticke Rusy. P.S: Zbohom ostavajte.,,Andrej Danko
+3786,2024-01-29,SPIESZOVA LYDIA,0.01,"Andrej, chod prosim do dubravskeholesa na turu, strat sa tam tak dobre, ze ta uz nikto nikdy nenajde.",,Andrej Danko
+3787,2024-01-29,LABUDOVA MARIA,0.01,Na kurz slusneho spravania,,Andrej Danko
+3788,2024-01-28,"Perger Marián, Ing.",0.1,Na fyzioterapeutov pre tlmocnikov do znakovej reci.,,Andrej Danko
+3789,2024-01-28,Kako Patrik,0.01,"Kupte si listok do Kyjeva pozrite sa ako klamete, potom si nastudujtenejaku knihu ako byt dobrym clovekom a na zaver si kupte slabikar.",,Andrej Danko
+3790,2024-01-28,Peter Dubovsky,0.01,Posiela stryko Soros za vzorne hajenie ruskych zaujmov,,Andrej Danko
+3791,2024-01-28,Klvač Martin,0.01,OO24012800002738,,Andrej Danko
+3792,2024-01-28,Kolman Roman,0.01,Na privatne liecenie,,Andrej Danko
+3793,2024-01-28,Širillová Martina,0.01,Najtupejsej tuske,,Andrej Danko
+3794,2024-01-28,Martinmaros Monsberger,0.01,na logopediu,,Andrej Danko
+3795,2024-01-28,Mojmir-Jan Kriska,0.01,"Prispevok na cestu z politiky, Vas papalasizmus nepatri do vlady",,Andrej Danko
+3796,2024-01-28,Guľaš Kristián,0.01,Hdbdbsjjsueiflxbwmwn - však ty to určite pochopíš Andrej.,,Andrej Danko
+3797,2024-01-28,Sivčo Jozef,0.01,Menej sa uz neda,,Andrej Danko
+3798,2024-01-28,Sladek Jaroslav,0.01,all for prasident,,Andrej Danko
+3799,2024-01-28,Štefanka Simon,0.01,"Na TAXI aby si nejazdil rozbitý našalát, keď zistíš, že NOC JE MLADÁ. A Alenka posiela božteky všade. Áno aj tam.",,Andrej Danko
+3800,2024-01-28,Drobňák Dávid,0.02,"Andrejko posielame ti 0,01 na logopéda a 0,01 na psychiatra pre toho logopéda s pozdravom Dávid & Zuzana",,Andrej Danko
+3801,2024-01-28,Zelina Martin,0.18,aby si mal Lavrovovi na Valentína :*,,Andrej Danko
+3802,2024-01-28,Janov Jozef,0.33,Prispevok na liecebny pobyt Predna Hora,,Andrej Danko
+3803,2024-01-28,Uko Miroslav,0.01,naj ci padnu na užitok. hlupák,2226669999.0,Andrej Danko
+3804,2024-01-28,Wiesler Michal,0.01,"Stand-up komik dobry, tak smelo dotoho, budes bavit cely svet. To saneda naucit, to sa taky musis narodit.",,Andrej Danko
+3805,2024-01-28,Miková Iveta,0.01,F001280120245627675,,Andrej Danko
+3806,2024-01-28,"NAJLEPŠIE KOMINÁRSTVO, s.r.o.",6.66,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidi prispevok na jedsosmernu cestu do Moskvy od kominara z BanskejBystrice,910964696.0,Andrej Danko
+3807,2024-01-28,"ABC KOMINÁRSTVO, spol. s r.o.",0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidi prispevok na jedsosmernu cestu do Moskvy od kominara z BanskejBystrice,910964696.0,Andrej Danko
+3808,2024-01-28,Ulincová Katarína,0.01,Hrad na Danka,,Andrej Danko
+3809,2024-01-28,Hatala Martin,0.01,1. cent na vodicak,,Andrej Danko
+3810,2024-01-28,Král Martin,0.01,Jeden cent na sofera. #ALLFORSEMAFOR,,Andrej Danko
+3811,2024-01-28,Martina Pokopcova,0.01,na Infadolan. mast zmiernuje opuchy a zehli modriny po urazoch. pre SNS vsetko aj po polnoci,,Andrej Danko
+3812,2024-01-28,Rastislav Jakal,0.01,"Kapitan,chvalil si sa,ze ako pravnik si zarobil 8 mil,tak aby ti znich nechybalo aj ja ti prispejem 1 cent...",,Andrej Danko
+3813,2024-01-28,"Šefčíková Simona, Mgr.",0.01,Prispevok na logopeda v termeni januarovom a v hodnote vasho charakteru.,,Andrej Danko
+3814,2024-01-28,Libo Igor,0.01,Najtupsiemu politikovi v historii SR z lasky:-),,Andrej Danko
+3815,2024-01-28,"Gálik Rastislav, Ing.",0.01,"Kapitaaaan, bozkavam ta vsade, ak uz konecne zmiznes naveky",,Andrej Danko
+3816,2024-01-28,Sarnovský Kristián,0.1,"Ahoj Andy, to som ja - zubkova vila! Prinasam Ti drobne, za tvoj vylomeny zubok!",,Andrej Danko
+3817,2024-01-28,Talafa Martin,0.01,Žiaden človek nedokáže dať toĺko centov človeku ako iba človek človeku...,,Andrej Danko
+3818,2024-01-28,Rudolf Lach,0.01,"Ja mám veľkú ženu k úcte, ale radšej by som tam videl 7 ročného kapitána Andreja Danka.",,Andrej Danko
+3819,2024-01-28,"Dúhová Zuzana,Dúha Branislav",0.1,"Booóže, svätá (s)prostoto, Andrej,že Ťa hanba nefackuje.",,Andrej Danko
+3820,2024-01-28,Horváthová Dorota,0.01,Na vyplatu pre prezidenta v termeni za kalendarny mesiac maja,,Andrej Danko
+3821,2024-01-28,Filip Bulla,0.01,"Chskym? Nieja soms ja vobec ja naozaj Danka akoze absolutne vobec hej? Ale chcel by som povedat, ze ako inac vam to mam povedat, ako som...",,Andrej Danko
+3822,2024-01-28,Horňák Patrik,0.01,,,Andrej Danko
+3823,2024-01-28,"Pristaš Pavol, Ing.",0.01,"Do Ruska, a nikdy naspat! Stastnu cestu!",,Andrej Danko
+3824,2024-01-28,Vargaeštok Karol,0.01,Bozkavam Vas vsade.,,Andrej Danko
+3825,2024-01-28,"Zima Rastislav, Ing.",0.01,"Priatelia myslim ze cpt. Semaphore Breaker dostal nalozene dost a uspesne tak sluzi ako stit Podrztaskinyho, ten si tiez zasluzi centiky.",,Andrej Danko
+3826,2024-01-28,Dorník Martin,0.2,Poprosím Semafór Party v Ministry of Fun,,Andrej Danko
+3827,2024-01-28,Spiššák Ivan,0.01,"Ste symbolom čestnosti a spravodlivosti, vzorom pre študentov. V NR SR ste hovoril, že si nevážite prezidentku, ale opitý ste nebol !",,Andrej Danko
+3828,2024-01-28,Jotis Fotopulos,0.01,Na to aby obrazkom nezrastali zisky,,Andrej Danko
+3829,2024-01-28,Talafová Mária,0.01,"Ja si to uzivam, ja sa citim dobre...",,Andrej Danko
+3830,2024-01-28,Ovečka Tomáš,0.01,Kapitan prezidentom? To mi nevychadza ...,,Andrej Danko
+3831,2024-01-28,Török Peter,0.01,"Snáď tento cent nedorazí v noci, nerád by som bol, ak by vyšiel nazmar. Bozkaj kolegyňu M.Š.(všade) Zdraví npor. Pítí",,Andrej Danko
+3832,2024-01-28,Peter Szekeres,0.01,"Na kindervajce,nech v nom najdete rozum tak ako v minulosti vodicak ci VS diplom...",,Andrej Danko
+3833,2024-01-28,Patrik Staník,0.01,olejova vana+logoped,,Andrej Danko
+3834,2024-01-28,Stefan Klimek,0.01,semafor,,Andrej Danko
+3835,2024-01-28,Gračko Martin,0.01,"Mesiačik zvolal do neba, vari ten semafor už netreba? Kapitán doňho bez milosti, narafal v stave opilosti.",,Andrej Danko
+3836,2024-01-28,Juran Martin,0.01,Na opravu semafóru,,Andrej Danko
+3837,2024-01-28,Švec Richard,0.01,Daj si nastrelit mozog. Prezidente.,,Andrej Danko
+3838,2024-01-28,Pavel Marian,0.01,Na alkohol. Ty sa dorazis aj sam ;),,Andrej Danko
+3839,2024-01-28,"Ondečko Peter, Ing.",0.01,na studium,,Andrej Danko
+3840,2024-01-28,Draganovský Daniel,0.01,do zvonceka,,Andrej Danko
+3841,2024-01-28,Eva Martincova,0.01,Ludia prispiejevjaju a potom otupiejevaju.,,Andrej Danko
+3842,2024-01-28,"Dibala Ján, Mgr.",0.01,vdaka tebe sa hanbim ze som slovak,,Andrej Danko
+3843,2024-01-27,Bielek Marek,0.01,"Kedze som nestihol poslat prispevok na lobotomiu, tak ti chcem prispiet aspon na vazektomiu.",,Andrej Danko
+3844,2024-01-27,Branislav Malec,0.01,"Príspevok na národné menu,bozkávamvás všade",,Andrej Danko
+3845,2024-01-27,Andrej Gazo,0.01,Na transplantaciu mozgu.,3817.0,Andrej Danko
+3846,2024-01-27,Hein Eduard,0.01,Andrej Danko hanba Ti. Toto je prispevok na jednosmernu cestu do Ruska. Tam si zi a nam na Slovensku dajpokoj.,,Andrej Danko
+3847,2024-01-27,Patrik Boroš,0.01,Podržflaška - dementor ušetri nás a ťahaj do Ruska.,,Andrej Danko
+3848,2024-01-27,Klimová Nina,0.01,"Aj ked malo, ale stale viac ako 1 russky rubel",,Andrej Danko
+3849,2024-01-27,Miroslav Zatko,0.01,skromny prispevok na jednosmernu cestu k putlerovi,,Andrej Danko
+3850,2024-01-27,Kotlárová Lucia,0.01,"Na jednosmernu letenku do Moskvy, na slabikar, na psychiatra, na metlu ked budete zametat Dubravku",,Andrej Danko
+3851,2024-01-27,Ivo Jakubik,0.01,Na skolu bezpecnej jazdy. Ale dojdi tam triezvy.,,Andrej Danko
+3852,2024-01-27,Nárožná Hana Michaela,0.02,Na ten narodny rozok s maslom,,Andrej Danko
+3853,2024-01-27,Baldovský Patrik,0.01,Proruské hovno a ktomu ešte aj retard,,Andrej Danko
+3854,2024-01-27,Sipták Miloš,0.01,www.narodnemenu.eu,,Andrej Danko
+3855,2024-01-27,Palkovič Daniel,0.01,"Su len dve miesta kde sa uchytis, komedia a semafor, boskam vsade cmuk",,Andrej Danko
+3856,2024-01-27,Pavol Demovic,0.02,Nikdy som neodmietol postihnutym pomoct,,Andrej Danko
+3857,2024-01-27,"Bořuta Dávid, Ing., MSc.",0.01,Na Horalky v bufete Pinelovej nemocnice,,Andrej Danko
+3858,2024-01-27,Matej Slovencak,0.01,na jednosmernu letenku do Moskvy,,Andrej Danko
+3859,2024-01-27,Róbert Haladej,0.01,Ja mám tiež problem semafory akozeabsolútne vôbec hej? Aj vizuálne mám problém. A aby sme sa neduplovali tak prajem krásny deň.,,Andrej Danko
+3860,2024-01-27,Gajdoš Kristián,0.02,V prvom rade na lepidlo na zuby a v druhom rade na novy semafor a hlavne na to aby bolo co chlastat.,,Andrej Danko
+3861,2024-01-27,Kubina Peter,0.02,"0,01 na dusok narodneho napoja pred jazdou a 0,01 na jednosmernu letenku do milovaneho Ruska",,Andrej Danko
+3862,2024-01-27,Šúr Samuel,0.01,Najlepsi stand-up komik. Bozkavam vas vsade.,,Andrej Danko
+3863,2024-01-27,"Marochnič Dušan, Mgr.",0.01,"Na pieskovisko za domom, postav si hrad, hlavne zostan doma..",,Andrej Danko
+3864,2024-01-27,Adriána Kalocsányi,0.01,"My si mozme dat robit, ale nesmieme si tak zabuchnut dvere, aby sme si raz neprispeli na prezidentsku kampan.",,Andrej Danko
+3865,2024-01-27,Kelle Dušan,0.01,Andrejovi Dadankovi od dadaistickej spolocnosti: Si boh!,,Andrej Danko
+3866,2024-01-27,Ivan Jakubis,0.01,Uzivaj a cit sa dobre,,Andrej Danko
+3867,2024-01-27,"Nováková Lenka, Mgr.",0.01,"Lieky na rusofiliu, homofobiu a xenofobiu su volne dostupne v kazdej kniznici.",,Andrej Danko
+3868,2024-01-27,"Petráš Miroslav, Ing.",0.01,Mafianskemu kolaborantovi Dankovi s laskou na novy chlast a motorovy olej,,Andrej Danko
+3869,2024-01-27,Končitek Michal,0.01,Na nové pelo a prajem pästnú kampaň,,Andrej Danko
+3870,2024-01-27,Boris Legutky,0.01,Rublicek na narodne menu ranajky v prezidentskom palaci+ kup si neco na sebe. Spasiba.,,Andrej Danko
+3871,2024-01-27,Chamuty Mario,0.01,"Vy sice nemate sancu uspiet, ale toto je super zabava a super reklama. Weby, appky, grafika a ziadne semafory - www.versiontwo.sk",,Andrej Danko
+3872,2024-01-27,Gobanová Anna,0.01,Uzivas si to? Citis sa dobre?,,Andrej Danko
+3873,2024-01-27,Adam Tanglmayer,0.01,Peniaze na iphone z USA a na plyn z Ruska.,,Andrej Danko
+3874,2024-01-27,Lukas Kubina,0.01,na nove zuby po nehode,11012024.0,Andrej Danko
+3875,2024-01-27,Sophia Smoradová,0.01,od Soroša pre národniara #smfr,,Andrej Danko
+3876,2024-01-27,Beňo Miroslav,0.01,"Sice to nie je 8 milionov, ale napriek tomu vieme, ze aj s tymto malom si to tu budes riadne uzivat",,Andrej Danko
+3877,2024-01-27,Koníková Veronika,0.01,"Koľko centoviek ešte treba, aby Vás osvietilo, že nemáte čo robiť v politike?",,Andrej Danko
+3878,2024-01-27,Švidroň Gregor,0.01,"Posielam 1 cent na logopedicku, aby si sa nam naucil rozpravat. Cmuk",,Andrej Danko
+3879,2024-01-27,Tomko Dalibor,0.01,"Na zalepenie zubu po ublížeňí ťažkom. Posielam v termeni januárovom, teda za kalendár mesiaca december. .",,Andrej Danko
+3880,2024-01-27,Pamula Stanislav,0.01,Na liecbu. Tvojej dutej hlavy.,,Andrej Danko
+3881,2024-01-27,Lizák Lukáš,0.01,Na Dankovu narodnu kulturnu pamiatku=Semafor Andreja Danka,,Andrej Danko
+3882,2024-01-27,Demčaková Denisa,0.01,"Cc, tu semafor",,Andrej Danko
+3883,2024-01-27,Vladimir Stempak,0.13,Na letenku nekde za ural,,Andrej Danko
+3884,2024-01-27,Chovanová Terézia,0.01,veď semafór 1500,,Andrej Danko
+3885,2024-01-27,František Kuruc,0.01,"Teba je škoda všade, takeho velikana rozumu a umu",666.0,Andrej Danko
+3886,2024-01-27,Nagy Peter,0.03,"Andrej, niesom drzgros, dam viac ako ta BA kaviarenska cvarga. Drz sa, das to!",,Andrej Danko
+3887,2024-01-27,Xhara Aurel,0.01,Kapitomtomovi posielam 1 rubel na opravu semaforu a na cestu do Moskvy,,Andrej Danko
+3888,2024-01-27,Lukáč Martin,0.01,"Sláva Slovensku, Európe a Ukrajine, beda vlastizradcom a kolaborantom. Pobozkaj ten cent všade.",,Andrej Danko
+3889,2024-01-27,"Petráš Miroslav, Ing.",0.01,Sudruhovi Dankovi na teplaky do Leopoldova,,Andrej Danko
+3890,2024-01-27,Michal Jano,0.01,Hrad na Danka,,Andrej Danko
+3891,2024-01-27,Jozef Nemec,0.05,"Pozdravujem, pekná show.",,Andrej Danko
+3892,2024-01-27,Topoľský Pavol,0.01,na spicatu capicu. aby si sa lepsie vopchal Putinovi do zadku. Trcia ti totiz z neho este nohy. Ozrate. Bozkavam ta vsade.,,Andrej Danko
+3893,2024-01-27,Švancar Peter,0.01,Bozkavam Ta vsade,,Andrej Danko
+3894,2024-01-27,Ondrášek Michal,0.01,"Pan kapitan semafor, dufam ze vyzbierate 180 000 x 0,01 ked uz peticia bola zmanipulovana :-)",,Andrej Danko
+3895,2024-01-27,Hrebeňák Peter,0.01,Volím Korčoka,,Andrej Danko
+3896,2024-01-27,Nagyová Katarína,0.01,"Na kvalitnejsie pelo, kapitan Danko ste hanbou Slovenska",,Andrej Danko
+3897,2024-01-27,Bošanská Barbora,0.01,Miesto podrztasky je uz obsadene!,,Andrej Danko
+3898,2024-01-27,Svetlík Michal,0.01,"Aj som Ti chcel nieco vtipne napisat, ale potom som si uvedomil ze asi nevies citat. A vlastne tu uz vsetko bolo povedane.",,Andrej Danko
+3899,2024-01-27,Tholt Richard,0.09,www.vytlacim.sk,,Andrej Danko
+3900,2024-01-27,Zajacová Zuzana,0.01,Uz ste odstĺpili tak už aj odstúpte,,Andrej Danko
+3901,2024-01-27,Juraj Hajek,0.01,Na logopeda.,,Andrej Danko
+3902,2024-01-27,Šebo Marek,0.01,posielam v termeni januarovon. teda januarovom,,Andrej Danko
+3903,2024-01-27,Bomba Oskar Ing.,0.01,Pravda a laska zvitazi. Ak to pochopis budes prezident.,,Andrej Danko
+3904,2024-01-27,"Janoušek Marek, Ing.",0.01,Kapitanik primitivik je celemu Slovensku LEN na smiech.,,Andrej Danko
+3905,2024-01-27,Damian Zemba,0.01,"nikto nedokaze dat tolko lasky cloveku, ako Andrej svojmu zubarovi",,Andrej Danko
+3906,2024-01-27,Zuzana Feketeová,0.01,so Slovenskou národnou srandou na večné časy a nikdy inak,,Andrej Danko
+3907,2024-01-27,Bačová Katarína,0.01,Semaforu na pamiatku,,Andrej Danko
+3908,2024-01-27,Dusan Psenak,0.01,Kapitanovi na jednosmernu letenku do Moskvi aby ich vsetkych bozkaval vsade a na novu olejovu vanu .,,Andrej Danko
+3909,2024-01-27,Marcel Pytlik,0.01,na flasu vodky,,Andrej Danko
+3910,2024-01-27,GROM MAREK,0.04,Vydržaj Pajoňer!,1968.0,Andrej Danko
+3911,2024-01-27,Šurina Juraj,0.01,nie na chľast!,,Andrej Danko
+3912,2024-01-27,Piták Anton,0.01,Na Kanagon na lepenie zubov.,123456.0,Andrej Danko
+3913,2024-01-27,Valent Adam,0.01,,,Andrej Danko
+3914,2024-01-27,Franko Samuel,0.02,"stlp si to neuzival, stlp sa necitil dobre :(",,Andrej Danko
+3915,2024-01-27,Preložník Peter,0.01,,,Andrej Danko
+3916,2024-01-27,Minárik Peter,0.01,RuSSkiy Cobaka,,Andrej Danko
+3917,2024-01-27,Hojsík Robert,0.01,"Ste idiot, rozumiete? IDIOT.",,Andrej Danko
+3918,2024-01-27,Vaníčeková Jozefína,0.01,posli 15 ak mas rad macky,,Andrej Danko
+3919,2024-01-27,"Vavro Andrej, Ing.",0.01,"Rozmyselel som si to, chod pesi. Poprosim o vratenie daru, aj s vystavenim dobropisu ...",,Andrej Danko
+3920,2024-01-27,"Vavro Andrej, Ing.",0.01,Na trolejbus ...,,Andrej Danko
+3921,2024-01-27,Michal Ulacky,1.0,"Ja si to uzivam, ja sa citim dobre",,Andrej Danko
+3922,2024-01-27,"Ferenc Marián, Ing.",0.01,#Chskym?,363.0,Andrej Danko
+3923,2024-01-27,Marton Mário,0.01,"Pôžička na vývoj národného menü a na štúdium vojny na Ukrajine. Prosím vrátiť v termene júlovom, čiže vovýplatnom termene mája.",,Andrej Danko
+3924,2024-01-27,JAKAB MICHAL,0.01,"Ludia, prestante mu posielat love chujovi! Chcete ze by bol miliardar? Je to lacne jak zoznamka cez teletext. Hoci to k nemu celkom pasuje",,Andrej Danko
+3925,2024-01-27,Leškovský Lukáš,0.69,na kurvy,,Andrej Danko
+3926,2024-01-27,"Mészáros András, Ing.",0.01,Csokolnak a Pozsonyban dolgozo magyarok!,,Andrej Danko
+3927,2024-01-27,Miček Andrej,0.01,kapitanovi na zuby,,Andrej Danko
+3928,2024-01-27,Riman Martin,0.05,Na dvojizbak v Moskve pan kapitan ale pozor tam je na semaforoch vzdy ruda,,Andrej Danko
+3929,2024-01-27,Greguška Jakub,0.01,Na poldecko bromhexinu a vodečky,,Andrej Danko
+3930,2024-01-27,Ruszó Marián,0.01,preposielam od Sorosa. Čelovek -> čeloveku. A pozdrav ďáďu Voloďu,,Andrej Danko
+3931,2024-01-27,Feketeová Anna,0.01,kurzovylistok.eu vam pan nemotorista pomoze k vysnivanemu prevodu euro na rubel... Tak ihned na www.kurzovylistok.eu a cesta bude krajsia...,,Andrej Danko
+3932,2024-01-27,Penička Igor,0.01,"Pan prezident, na nove zlate zuby, v Russku je to stale in",,Andrej Danko
+3933,2024-01-27,Žúrek Michal,0.01,Na nové výložky s červenými hviezdami,,Andrej Danko
+3934,2024-01-27,Šintaj Bohuslav,0.02,Na cestu pre kpt.semafor stoziar A.Danka do milovaneho Ruska a zivot v nom plus na zopakovanie si zakladneho a aspon stredoskolskeho studia,,Andrej Danko
+3935,2024-01-27,Černušák Drahoslav,0.01,"Najskôr začni hovoriť spisovne slovensky. Potom môžeš kandidovať, ty nekúlturne hovädo.",,Andrej Danko
+3936,2024-01-27,Vrábel Marek,0.01,"60rocny chlap nema nasporenych 500tis na zaplatenie vlastnej prezidentskej kampane!? Andrej, si velmi neveris, ked zo svojho nedas ani cent!",0.0,Andrej Danko
+3937,2024-01-27,Miroslav Droppa,0.1,Na logopeda,,Andrej Danko
+3938,2024-01-27,Lapin Peter,0.01,Aby sa Ti pozreli na zubky.,,Andrej Danko
+3939,2024-01-27,Roland Haulitusz,0.01,Prezident za Danka,,Andrej Danko
+3940,2024-01-27,Vodička Jakub,0.02,"1 cent na ustavnu liecbu, 1 cent na sterilizaciu",,Andrej Danko
+3941,2024-01-27,Pethö Pavol,0.01,F001270120245333897,,Andrej Danko
+3942,2024-01-27,Žalman Boris,0.01,Na prestahovanie do Ruska.,,Andrej Danko
+3943,2024-01-27,Trčan Dušan,0.01,Dotácia na motorový olej,,Andrej Danko
+3944,2024-01-27,"Olekšák Radoslav, Bc.",0.01,nechcem Ta vidiet uz ani len vizualne,,Andrej Danko
+3945,2024-01-27,Miroslav Taranda,0.01,Si najlepsi komik na slov. politickej scene. Aby si nas dalej bavil.,,Andrej Danko
+3946,2024-01-27,Berinster Peter,0.02,"Vdaka Danky, vychod ma este vela semaforov",,Andrej Danko
+3947,2024-01-27,Hliničan Peter,0.01,"Ziadny clovek nedokaze dat tak cent cloveku, ako dokaze dat cent len clovek cloveku. Dufam ze prvou damou bude Zsuzsova",,Andrej Danko
+3948,2024-01-27,"Rozvadský Branislav, Ing.",0.01,Na novy vodicak pre kapitana Danka,,Andrej Danko
+3949,2024-01-27,Tomas Bielcik,0.01,2402750000002218,,Andrej Danko
+3950,2024-01-27,Jozef Pastier,0.1,Na jednosmernu letenku do Moskvy po volbach pre Andreja,,Andrej Danko
+3951,2024-01-27,Honysz Vilem,0.01,"Danko na Hrad! Ale jako verejneprospesny prAcant, ktery bude zametat vsechnu tu hanbu a aroganci moci, kterou Slovakum dela doma i v zahrani",,Andrej Danko
+3952,2024-01-27,Šimon Zoller,0.01,"Dejte to pryč, mně se z toho dělá mdlo !",,Andrej Danko
+3953,2024-01-27,"Molnár Slavomír, Ing.",0.01,"Kto je vinny, nech hodi kamenom",,Andrej Danko
+3954,2024-01-27,Polák Tomáš,0.01,Som vinny a preto chodim kamenom a aj centom,,Andrej Danko
+3955,2024-01-27,Chudý Filip,0.01,"nikdo neda tolko centov cloveku ako clovek cloveku, a daj si na mna za jeden a sadni ptm za volant",,Andrej Danko
+3956,2024-01-27,Kocáková Zuzana,0.1,na skolenie pre tlmocnika,,Andrej Danko
+3957,2024-01-27,Petrík Jozef,0.1,"Na logopeda co ti pomoze s recou, aby sme ti aj rozumeli co nam chcespovedat",,Andrej Danko
+3958,2024-01-27,Šafek Martin,0.01,na ustnu vodu ked budete bozkavat moskovsku prostitutku z ministerstva kultury vsade,,Andrej Danko
+3959,2024-01-27,Janák Marek,0.09,podpira na prezitie a na rozky,,Andrej Danko
+3960,2024-01-27,Lodererová  Andrea,0.01,na ortopeda pri bolestiach chrbtice kvoli stalemu predklonu pred ficom a putinom plus novu chrbtovu kost,,Andrej Danko
+3961,2024-01-27,Mihálik Branislav,0.01,OO24012700001419,,Andrej Danko
+3962,2024-01-27,Lauko Matej,0.01,Na steblo do topanky nech konecne poriadne reprezentujes Danculko...,,Andrej Danko
+3963,2024-01-27,Paninár Juraj,0.01,"Na vyťazstvo vo voľbách, v kategórii zabávač roka",,Andrej Danko
+3964,2024-01-27,"Koreň Pavol, Ing.",0.01,televiznemu poplatkovi ani vizualne,,Andrej Danko
+3965,2024-01-27,Daniela Marušková,0.01,Na jednosmerny listok do Moskvy.,,Andrej Danko
+3966,2024-01-27,"Ihring Peter, Mgr.",0.01,"Posielam ti 1 cent ako prispevok na vzdelanie, pretoze si negramotny chumaj.",,Andrej Danko
+3967,2024-01-27,Martin Potoczký,0.01,Pozdravuju obyvatelia Saratovskej.,,Andrej Danko
+3968,2024-01-27,Skatulla Sabína,0.01,"prispevok na igelit, aby ti nesmrdela hlava ked pojdes k putlerovi (ten ugelit si daj na hlavu)",,Andrej Danko
+3969,2024-01-27,"Salcer Igor, Ing. arch.",0.01,1 cent na letenku do Moskvy v termeni junovom julovom vyplatnom ...,,Andrej Danko
+3970,2024-01-27,Jobusová Ľubica,0.01,"Na plienky. Neverím,že to bol olej.",,Andrej Danko
+3971,2024-01-27,"Hrubá Ľubica, Mgr.",0.01,na jednostranny lisok do Vladivostoku,,Andrej Danko
+3972,2024-01-27,Ondrej Halas,1.0,JOKA DE Cavale Andreju,,Andrej Danko
+3973,2024-01-27,"Hrivňák Roman, Ing.",0.01,protialkoholicke liecenie Velke Zaluzie,,Andrej Danko
+3974,2024-01-27,Ratkovský Tomáš,0.01,Továrišč kapitaňovi prispevok na cestu do krajiny Oz,,Andrej Danko
+3975,2024-01-27,"Vaľko Ján, Ing.",0.01,na zdravieeeeee!,,Andrej Danko
+3976,2024-01-27,Marek Kiss,0.01,"Na obrnený transportér, aby ťa nejaký semafór nemohol rozhodiť, alkoholik jeden !",,Andrej Danko
+3977,2024-01-27,Straka Martin,0.01,Polovica je pre Pellegriniho. Uzite obaja v laske a v zdravi.,,Andrej Danko
+3978,2024-01-27,"Kuric Martin, Ing.",0.01,Chudak Zuzova v base. Kedy ju budes bozkavat vsade?,,Andrej Danko
+3979,2024-01-27,"Hrušovská Lucia,Hrušovský Slavomír",0.01,Budúcemu majorovi na kampaň os zúbkovej víly.,,Andrej Danko
+3980,2024-01-27,"Straková Marcela, Ing.",0.1,na zlomeny zub,,Andrej Danko
+3981,2024-01-27,Macejková Slávka,0.01,na novy zub,,Andrej Danko
+3982,2024-01-27,Štefan Vidlár,0.01,"ju, ju, juj, sem já ale ..uj, aňi neňi ruja, robím ze sebja ..uja",,Andrej Danko
+3983,2024-01-27,Hudák Marek,0.01,pozdravujem dodu,,Andrej Danko
+3984,2024-01-27,Trančo Matej,0.01,Príspevok pre naj Slaviäna na voľbä v termeni marcovom. V termeni aprílovom kapitáň podrží podržtašku sťa kanagon zlomený zub ej bisťuch.,,Andrej Danko
+3985,2024-01-27,Kovács Barnabáš,0.01,na chrbticu a na mozog,,Andrej Danko
+3986,2024-01-27,Sabina Glonekova,0.01,"Kpt.plg.z bozi vule kazipero/kazistlp,posielam Vam 1centik uplne vsade,za mes.jun,tzn.vo vyplatnom termeni za mes.maja.A neminte to naraz:)",,Andrej Danko
+3987,2024-01-27,"Pistovčáková Romana, Ing.",0.01,"Na veniec pre semafor. Na stuhu prosim text ""bozkavam vas vsade"".",,Andrej Danko
+3988,2024-01-27,Ďurajka Branislav,0.01,Na benzín do tankoch! Na Moskvu!,1968.0,Andrej Danko
+3989,2024-01-27,"Hriadel Gabriel, Ing.",0.01,Na cervene trenky k cervenemu nosu a cervenej demagogii,,Andrej Danko
+3990,2024-01-27,Struhár Matúš,0.01,Na zubara aby vam namontovali ten chybajuci zub,,Andrej Danko
+3991,2024-01-27,"Čepiga Alexander, Mgr.",0.01,"Zub sa opravit da, ale rozum nie!",,Andrej Danko
+3992,2024-01-27,Ilavský Erik,0.01,OO24012700011856,,Andrej Danko
+3993,2024-01-27,Zápražná Ida,0.01,"na novy zub a semafor, bozkavam vas vsade",,Andrej Danko
+3994,2024-01-27,Žemla Karol Ing.,0.01,Jeden rubeľ sa rovná jeden cent. Na cestu do Moskvy.,,Andrej Danko
+3995,2024-01-27,Virágová Petra,0.1,Na výlet po kanáloch,,Andrej Danko
+3996,2024-01-27,Erik Petras,0.01,za tu fajku pri semafore,,Andrej Danko
+3997,2024-01-27,"Haluska Peter, Ing.",0.01,Aku pokutu dostal pan Prezident a na ako dlho ma zadrzany vodicak za Semafor-gate? A kedy bude tlacovka a videjko?,,Andrej Danko
+3998,2024-01-27,Šmelko Danny,0.01,na novy stlp od cleba lgbt s laskou,,Andrej Danko
+3999,2024-01-27,Kanovský Filip,0.01,Podrzflaske na poriadnu metlu a novu olejovu vanu.,,Andrej Danko
+4000,2024-01-27,Németh  Štefan,0.01,Všetkých si oslovil :-),,Andrej Danko
+4001,2024-01-27,Dzureň Rastislav,0.01,pre teba ty choromyseľné tupelo...kto je vinný nech hodí semafór...hlupák,,Andrej Danko
+4002,2024-01-27,"Kostelný Pavol, Ing.",0.01,"pls kontakt na zubara, co osetri na pockanie v noci",,Andrej Danko
+4003,2024-01-27,Vozárová Anita,0.01,Ja sa citim dobre! Ja si to uzivam! Som K a T!,,Andrej Danko
+4004,2024-01-27,"Kvaka Michal, Ing.",0.01,Prispevok na novy generator nahodnych slov,2024.0,Andrej Danko
+4005,2024-01-27,Bartošková Vlasta,0.01,Pinelová nemocnica,,Andrej Danko
+4006,2024-01-27,Klvač Martin,0.01,OO24012700018394,,Andrej Danko
+4007,2024-01-27,Alexander Sipka,0.01,Na ruske vajce pre nase ruske vajce,,Andrej Danko
+4008,2024-01-27,Peter Iring,0.01,Judasov gros,,Andrej Danko
+4009,2024-01-27,Brziaková Nina,0.01,Danko cucha lepidlo na zuby,,Andrej Danko
+4010,2024-01-27,Staňo Martin,0.01,kokotko,,Andrej Danko
+4011,2024-01-27,"Krídla Jozef, Ing.",0.01,Na liek proti skleroze,,Andrej Danko
+4012,2024-01-27,Markovič Tomáš,0.6,F001270120245537204,,Andrej Danko
+4013,2024-01-27,Ján Kluka,0.01,Berte to ako investíciu. Po voľbách očakávam niekoľkonásobné zvýšenievkladu. Získali ste si moju dôveruďakujem.,,Andrej Danko
+4014,2024-01-27,Miroslav Secany,0.01,"Debilovia vsetkych zemi, spojte sa",,Andrej Danko
+4015,2024-01-27,"Hric Marcel, Ing.",0.01,vyplatny termen marec,,Andrej Danko
+4016,2024-01-27,Lehocký Tomáš,0.01,Drzim palce pan Danko!,,Andrej Danko
+4017,2024-01-27,Benček Milan,0.1,pre sprosteho ozrana,,Andrej Danko
+4018,2024-01-27,TOVARI MICHAL,0.01,A nie že to všetko prepiješ!,,Andrej Danko
+4019,2024-01-27,Silvia Hajdinova,0.01,Na prvomajovy bozk pod opravenym semaforom,,Andrej Danko
+4020,2024-01-27,Tuleja Jakub,0.12,celorocne divadelne predplatne,,Andrej Danko
+4021,2024-01-27,Dobrík Stanislav,0.01,Dnes som ozelel nardne menu s usetrene posielam kpt. narodny semafor na jednosmrnu letenku smer Moskva.,,Andrej Danko
+4022,2024-01-27,Ivan David,0.01,Posielam Vam jeden cent ako pomoc cloveku lebo iba clovek cloveku dokaze pomoct cloveku,,Andrej Danko
+4023,2024-01-27,Kvasnicová Jana,0.01,"odmena pre zubara, pri uskromneni vystaci aj na logopéda",12024.0,Andrej Danko
+4024,2024-01-27,Michal Gal,0.01,"pre vas, naskrabkal som a bozkavam vsade",,Andrej Danko
+4025,2024-01-27,Potisk Ján,0.01,my si mozeme dat robit ale nesmieme si tak zabuchnut dvere aby sme si raz nedali kavu.,,Andrej Danko
+4026,2024-01-27,"Vološin Miloslav, Mgr.",0.01,Aj hlupak sa moze dovzdelat. Posielam zalohu na skolne.,,Andrej Danko
+4027,2024-01-27,Javor Milan,0.01,nabuduce chod MHDckou ty sofer,,Andrej Danko
+4028,2024-01-27,Maurer Roman,0.01,Kapitanovi na tlmocnika do slovenskeho jazyka,,Andrej Danko
+4029,2024-01-27,Daniel Kosik,0.01,"Najprv ste boli len na srandu, teraz ste uz len na hanbu. Je mi z Vas zle, z vasej tuposti a arogantnosti, chodte do Ruzzka a tam ostante",,Andrej Danko
+4030,2024-01-27,Gvoždiak Vladimír,0.01,ber to ako deravý groš. len toľko stojis,,Andrej Danko
+4031,2024-01-27,"Totkovič Peter, Ing.",0.01,kapitanovi semaforovi z celeho srca obdivovatel jeho slovnych ekvilibristik.,,Andrej Danko
+4032,2024-01-27,Rímeš Tomáš,0.01,"Na lubrikant, aby to velmi nebolelo",,Andrej Danko
+4033,2024-01-27,Korbaš Rafael,0.01,CARD VERIFICATION ONLYFANS LTD,,Andrej Danko
+4034,2024-01-27,Samuel Budzinak,1.0,"Podpora od Sorosa, pre najlepsieho stand-up komika, Velkkta kapitana velgenerala marsala Danka",,Andrej Danko
+4035,2024-01-27,Guttek Ján Ing.,0.01,Príspevok pre slovenského národného idiota,,Andrej Danko
+4036,2024-01-27,Matej Lukac,0.01,Zsuzsovej prispej na novu tetovacku obocia. Hrad na Danka.,,Andrej Danko
+4037,2024-01-27,Zvonár Andrej,0.01,Na mydlo do vazenia. Tam ta budu bozkavat vsade.,,Andrej Danko
+4038,2024-01-27,Kardoš Milan,0.01,"Na letenku do Moskvy, tam to dotiahnete hadam aj na generala",,Andrej Danko
+4039,2024-01-27,Šarina Patrik,0.01,"Nikto neda viac lásky kapitánovi, ako semafor kapitánovi.",,Andrej Danko
+4040,2024-01-27,Martin Tacovsky,0.01,Na translator,,Andrej Danko
+4041,2024-01-27,Ihnát Ľuboš,0.01,Aby si ubral percentá Pellemu,,Andrej Danko
+4042,2024-01-27,Peter Dubovsky,0.01,Kapitan Morgan pozdravuje kapitana z Dubravskej krizovatky,,Andrej Danko
+4043,2024-01-27,Peter Dubovsky,0.01,Nech zije Cicero z Revucej. Zdravi semafor z Dubravky,,Andrej Danko
+4044,2024-01-27,POLAK OTAKAR,0.01,za viac vaša kandidatúra nestojí,,Andrej Danko
+4045,2024-01-27,Kačmár Matúš,0.01,"skromny prispevok na logopeda. potrebujete ho, sudruh predseda",,Andrej Danko
+4046,2024-01-27,SALAY MIKULÁŠ ING.,0.01,"Nikto nemôže dať človeku to, čo môže dať len človek človeku.",666.0,Andrej Danko
+4047,2024-01-27,Peter Szoke,0.01,Velmi si ma zranil,,Andrej Danko
+4048,2024-01-27,Púbal  Marek,0.01,Jeden rublik zlatom vysivany drahypane.,,Andrej Danko
+4049,2024-01-27,Emil Sirotiak,0.01,"Pan kapitan, majte boha pri sebe a nerobte Slovakom hanbu",,Andrej Danko
+4050,2024-01-27,Peter Bezdeda,0.02,vytrel som vsetkym zrak,,Andrej Danko
+4051,2024-01-27,Mikoczi Dominik,0.01,Ty alkoholik co trci Fico z .... prajem ti neuspech vo volbach spolu s Harabinom. Katastrofa a hanba matteba v politike uz aby si skoncil.,,Andrej Danko
+4052,2024-01-27,Pavol Cerveny,0.01,Na Slabikar,,Andrej Danko
+4053,2024-01-27,Mäsiar Ivan,0.07,ziaden clovek nedokaze dat tolko financnej podpory cloveku ako dokaze dat len clovek cloveku,,Andrej Danko
+4054,2024-01-27,Polák Tomáš,0.01,Hrad na Danka !,,Andrej Danko
+4055,2024-01-27,"Danížek Zdenko, JUDr.",0.01,na vecnu pamiatku semafora,,Andrej Danko
+4056,2024-01-27,Klempa Maroš,0.01,DANKO FOR PREZIDENT (dezolatov),,Andrej Danko
+4057,2024-01-27,Polák Miroslav,0.01,Na transplantaciu mozgu,,Andrej Danko
+4058,2024-01-27,Peťovský Lukáš,0.01,a nie aby si to zas prepil!,,Andrej Danko
+4059,2024-01-27,Martin Svorada,0.1,pretoze taketo individum sa nevidi casto,,Andrej Danko
+4060,2024-01-27,Vyšná Zuzana,0.01,"Vytiahni hlavu z Robovho zadku, bežte obaja do Ruska a nevracajte sa,prosííím! P.S.Tvoj humor mi bude chýbať, Danky",,Andrej Danko
+4061,2024-01-27,Gál Vladimír,0.3,Na jednosmerny listok do RuZZka,,Andrej Danko
+4062,2024-01-27,"Turánková Soňa, Ing.",0.15,Na jednosmernu letenku do Moskvy,9999.0,Andrej Danko
+4063,2024-01-27,Roman Ujváry,0.01,Na logopeda,,Andrej Danko
+4064,2024-01-27,Schmidt Matúš,0.02,Slava kapitanovi!,,Andrej Danko
+4065,2024-01-27,Kollár Peter,0.01,Na jednosmernú letenku do Moskvy. Nevracaj sa!,,Andrej Danko
+4066,2024-01-27,LENHARTOVA LUCIA,0.01,Hrad na Danka!!!!!,,Andrej Danko
+4067,2024-01-27,"Rokošná Dorota, Mgr.",0.01,"na vyssi stoziar, nech ho vidno az z moskvy",,Andrej Danko
+4068,2024-01-27,"Jantošovič Anton, Ing.",0.01,"Posielam, no a co",,Andrej Danko
+4069,2024-01-27,Melchiory Matej,0.01,Na nový semafór aj v Prievidzi!,,Andrej Danko
+4070,2024-01-27,Vlastimil Svoboda,0.01,hlupost nie je cnost,,Andrej Danko
+4071,2024-01-27,Ďurec Samuel,0.01,semafor,,Andrej Danko
+4072,2024-01-27,Atalovič Michal,0.01,"Sláva Ukrajine, smrť okupantom a večná hanba kolaborantom",,Andrej Danko
+4073,2024-01-27,Bagin Ľubomír,0.01,Moje najvyhodenejsie peniaze. Ale ako sprepitne k narodnemu menu hadam postacia.,,Andrej Danko
+4074,2024-01-27,Ficker Miloslav,0.01,"vyska mojho prispevku sa rovna vyske tvojho IQ,,a to je ozaj minimum",,Andrej Danko
+4075,2024-01-27,Okruhlica Lukáš,0.01,#ALLFORSEMAFOR,,Andrej Danko
+4076,2024-01-27,Emil Sutor,0.01,"na taxik, ked uz nemate vodicak",,Andrej Danko
+4077,2024-01-27,Klvač Martin,0.01,OO24012700009443,,Andrej Danko
+4078,2024-01-27,Chatterjee-Bezecná,0.01,Na udrzbu stoziara.,,Andrej Danko
+4079,2024-01-27,"Hoffmann Danica, PhDr.",0.01,Unosca statu radsej bozkavajte svoju Zhuzhu v base,,Andrej Danko
+4080,2024-01-27,Lučanský Viktor,0.01,pre 8==D,,Andrej Danko
+4081,2024-01-27,Haršáni Pavol,0.01,V termeni posielam ja vám cent na lobotómiu dokončenie,,Andrej Danko
+4082,2024-01-27,Klvač Martin,0.01,OO24012700009402,,Andrej Danko
+4083,2024-01-27,Zuzana Lukacikova,0.01,SLAVA UKRAINI,,Andrej Danko
+4084,2024-01-27,Dzurilla Adam,0.01,Posielam centik na narodne menu :).,,Andrej Danko
+4085,2024-01-27,Pekár Juraj,0.01,"Taraba Vam zoberie SNS, Pele prezidenta. Posielam Vam prispevok, aby ste mohli zacat novy zivot. Bozkavam Vas vsade.",,Andrej Danko
+4086,2024-01-27,Košík Jakub,0.01,"Kto je vinny, nech hodi kamenom.",666.0,Andrej Danko
+4087,2024-01-27,Klvač Martin,0.01,OO24012700009488,,Andrej Danko
+4088,2024-01-27,Peter Petrovic,0.01,"Kapitan Kazisemafor VI , hlava vylizana a z bozi vule vul.",,Andrej Danko
+4089,2024-01-26,Dorčík Róbert,0.02,OO24012600031041,,Andrej Danko
+4090,2024-01-26,Múčková Gabriela,0.01,Na jednosmerny listok na Sibir. Oprdkavam vsade,,Andrej Danko
+4091,2024-01-26,"Klema Milan, Ing.",0.01,"Keby blbost nadnasala, tak lietas ako holubicka.",,Andrej Danko
+4092,2024-01-26,Križanová  Marcela,0.01,"S kapitánom nie je fór, položí aj semafor.",,Andrej Danko
+4093,2024-01-26,Marčák Viliam,0.01,"Prispevok na clenske v organizacii MENSA INTERNACIONAL, zdruzujucej nadpriemerne inteligentnych ludi",,Andrej Danko
+4094,2024-01-26,Böhm Martin,0.01,"Predam Skodu Favorit, garazovana, po zubarovi na dochodku. Cena dohodou",,Andrej Danko
+4095,2024-01-26,Dorčík Róbert,0.01,"nie ,ze to minies na chlast ako vo stvrtok vecer",,Andrej Danko
+4096,2024-01-26,Bohuslav Masiarcik,0.01,Na jednosmerny listok do RuSSka,,Andrej Danko
+4097,2024-01-26,Zelenák Peter,0.01,"Na tu ozratu svinu, co chovate v parlamente, p.kandidat.",,Andrej Danko
+4098,2024-01-26,"Hanuš Juraj, Ing.",0.01,"Pridam 8 nul, ak zmiznes na veky zo Slovenska a prestanes tu smrdiet",,Andrej Danko
+4099,2024-01-26,Huba Martin,0.01,"Prispevok na metlu, Dubravka je velka.",,Andrej Danko
+4100,2024-01-26,"Zelenák Jozef, Ing.",0.01,Volby kto vinny nech kamenom je na prezumciu semafora narodneho jedla kapitanskeho. 8 milionov advokat.,,Andrej Danko
+4101,2024-01-26,Víglaský Ivan,0.01,1 rubeľ,,Andrej Danko
+4102,2024-01-26,Bzdil Peter,0.01,Sudruhovi kapitanovi za vyplatny termen januarovy,,Andrej Danko
+4103,2024-01-26,Môstka Michal,0.01,"vážený prezident pan kpt. kkt. plgr. tomtom, Cicero z Revúcej, mysliteľ náhodný - ožran národný",,Andrej Danko
+4104,2024-01-26,Marko Dávid,0.01,Že toto aj môže byť na svete,,Andrej Danko
+4105,2024-01-26,Ružička Peter,0.01,Zmizni vlastizradca! Slava Ukrajine!,,Andrej Danko
+4106,2024-01-26,Böhm Martin,0.01,prispevok pre najlepsieho stand up komika na slovensku,,Andrej Danko
+4107,2024-01-26,Blaško Milan,0.01,"Neuhol Vam stlp, ani my neuhneme pan Danko",,Andrej Danko
+4108,2024-01-26,Hančuľák Radovan,0.01,"Pankapitán poprosím unblock na IG,thx :*",,Andrej Danko
+4109,2024-01-26,Lubomir Karasek,0.01,Prispevok na voperovanie sebareflexie,,Andrej Danko
+4110,2024-01-26,Bizoň Vladimír,0.01,Na semafor,,Andrej Danko
+4111,2024-01-26,Harman Martin,0.01,Na opravu semafora,,Andrej Danko
+4112,2024-01-26,Blahút Peter,0.01,"Na stuple do usi,nech nechytis prievan.Od dezolefandu.Idem kuknuc Slovan,ci uz davaju kampanvidejka za moj stedry prispevok.Cest sudruh.",,Andrej Danko
+4113,2024-01-26,"Abrhan Martin, Ing.",0.01,A4,,Andrej Danko
+4114,2024-01-26,"Gejdoš Milan, Ing.",0.01,Na vybavu pre verejnoprospesne sluzby v Dubravke,,Andrej Danko
+4115,2024-01-26,Nemec Kristián,0.01,na semafor,,Andrej Danko
+4116,2024-01-26,Jaššo Peter,0.01,Kde len môžeš tajne čítaj šlabikár,,Andrej Danko
+4117,2024-01-26,Šugar Karol,0.01,Od Lavrova za tu famoznu fajku v Moskve,,Andrej Danko
+4118,2024-01-26,Hajdín Vladimír,0.01,"Na benzín,aby si mohol zviesť aj tvoju zaostalú ministriňu",,Andrej Danko
+4119,2024-01-26,Martin Tarabus,0.01,Aby ste to vy-hral :D,,Andrej Danko
+4120,2024-01-26,Ilkovič Marek,0.01,Na školu šmyku a prešmyčiek posiela zúbková víla,,Andrej Danko
+4121,2024-01-26,Lichner Dušan,0.01,Pre zradcu vlastného národa,,Andrej Danko
+4122,2024-01-26,Čerňák Tomáš,5.0,Na olej do auta ;) Tiktok@pinkfoxman,,Andrej Danko
+4123,2024-01-26,"Gimera Marek, Ing.",0.01,Pre Danko PREZID Andrej ENTA Kamcatky Gubermatoha,,Andrej Danko
+4124,2024-01-26,Petrik Miroslav,0.01,"Keby mala tuposť, primitívnosť, prízemnosť a kolaborácia xicht, nevyzeral by inak ako ten Váš.",,Andrej Danko
+4125,2024-01-26,Gerec Ľudovít,1.0,"posielam nejaké drobné aby bolo nazuby a opravu semafora, bozkávam všade (;,;)",,Andrej Danko
+4126,2024-01-26,Novysedlák Martin,0.01,Aby bolo z coho zaplatit semafor,111111.0,Andrej Danko
+4127,2024-01-26,Stanek Timotej,0.01,"Slovenska narodna hanba. Bozkavam Vas, ale len s Vasim dovolenim, vsade.",,Andrej Danko
+4128,2024-01-26,Holeša Michal,0.01,Posielam prispevok na srdcove slipy,,Andrej Danko
+4129,2024-01-26,Michal Raffay,1.0,Na kavu aby si nezaspal za volantom nabuduce. Ziaden alkohol ...,,Andrej Danko
+4130,2024-01-26,Eva Martošová,0.01,Na sekundove lepidlo na zub,,Andrej Danko
+4131,2024-01-26,Juraj Chrastina,0.01,"Nieja soms, ja vobec, ja naozaj Danka za prezidenta akoze absolutne vobec, hej?",,Andrej Danko
+4132,2024-01-26,Kolesár  Ondrej,0.01,"Výplata za výplatný termeň júnový,júlový",,Andrej Danko
+4133,2024-01-26,Reviľak Lukáš,0.01,Posielam Vam vo vyplatnom termeni Majovom.,,Andrej Danko
+4134,2024-01-26,Hrnčár Jakub,0.03,Na vazektomiu. Uz by aj stacilo!,,Andrej Danko
+4135,2024-01-26,Pecha Miroslav,0.01,OO24012600030271,,Andrej Danko
+4136,2024-01-26,Peter Lazok,0.01,Na rozky a tresku.,,Andrej Danko
+4137,2024-01-26,Goda Tomáš,0.01,príspevok na jednosmernú letenku do RuSSka,,Andrej Danko
+4138,2024-01-26,"Galba Branislav, Ing.",0.01,na semafor...,,Andrej Danko
+4139,2024-01-26,Zemanová Pavlína,0.01,"...aj ten cent má väčšiu hodnotu ako tá sebranka, ktorú ste dotiahli do vlady a parlamentu, fuj",,Andrej Danko
+4140,2024-01-26,Belko Michal,0.01,Na letenku do Moskvy,,Andrej Danko
+4141,2024-01-26,"Hronec Erich, PaedDr.",0.01,Predplatne na divadelne predstavenie za mesiac januar.,,Andrej Danko
+4142,2024-01-26,Svrček Milan,0.01,"Nabuduce do piliera Andrej, nie do semaforu...bozaj ma, s tvojim dovolenim, vsade...",,Andrej Danko
+4143,2024-01-26,"Pjatak Pavol, Ing.",0.01,"Ako sa vola vtip o opitom kapitanovi, ktory zdemoloval na krizovatke svetelne signalizacne zariadenie a zdrhol z miesta nehody? SemaFOR",,Andrej Danko
+4144,2024-01-26,Kňaze Marek,0.02,Na pripadne dalsie zubne osetrenie,,Andrej Danko
+4145,2024-01-26,Martin Gubov,0.01,"Na jernosmernu letenku do Ruska, exkapitan semafor.",,Andrej Danko
+4146,2024-01-26,"Feranec Daniel, Mgr.",0.01,"Na zubnu kefku, ked ta konecne zavru za vlastizradu a kolaborovanie s Rusmi.",,Andrej Danko
+4147,2024-01-26,Hrubiško Lukáš,0.01,na lístok do ZSSR,,Andrej Danko
+4148,2024-01-26,"Demčaková Mihaľová Kristína, Bc.",0.01,dopice.sk/st2,,Andrej Danko
+4149,2024-01-26,Hric Damián,0.01,Pre kolaboranta kpt. plg. danka na jednosmerny do zssr ps.: ber aj ohnuty semafor,,Andrej Danko
+4150,2024-01-26,Michal Garabas,0.01,Jednosmerna do Moskvy,,Andrej Danko
+4151,2024-01-26,"Fazekaš Gabriel, Mgr.",0.01,"kktan Andrej Danko, snad z vas nabuduce ten semafor spravi narodne menu pre vasich tupovolicov",,Andrej Danko
+4152,2024-01-26,Rák Ladislav,0.01,Na alkoholtester... a aby kapitan porazil podrztasku;-),,Andrej Danko
+4153,2024-01-26,"Ondra Miloš, Ing.",0.01,Kolaborantovi Andrejovi hlave vymazanej,,Andrej Danko
+4154,2024-01-26,Viera Gašincová,0.01,Odstĺpiť!,,Andrej Danko
+4155,2024-01-26,GROM MAREK,0.03,Polib nám prdel daňku!,,Andrej Danko
+4156,2024-01-26,Nikola Ertlová,0.02,"Je na posmech, že ti ľudia posielajú po cente... Preto ti posielam 2,si môj idol. Bozkávam ťa všade",,Andrej Danko
+4157,2024-01-26,Polák Natália,0.01,Tu máš jeden chscent ty chským chshčím,,Andrej Danko
+4158,2024-01-26,Blumenfeld Viktor,0.01,na jednosmernu letenku do Moskvy ty bastard,,Andrej Danko
+4159,2024-01-26,Hlavčáková Ivana,0.01,"na jednosmernu do Ruska uz mas, ak tam ostanes prihodime ti aj na najomne :)))))))",,Andrej Danko
+4160,2024-01-26,Peter Nemedy,0.01,Nieco tak neskutocne tupe sa neda kupit ani za vsetky peniaze sorosove,,Andrej Danko
+4161,2024-01-26,"Repka Jozef, Ing.",0.01,boskavam vaz vzade,,Andrej Danko
+4162,2024-01-26,"Fodor Pavol, Ing.",0.01,Na nove vylozky fo vyplatnom termeni januarovom,,Andrej Danko
+4163,2024-01-26,Jozef Ulrich,0.01,"a vyzveme aj prezidenta SR, aby sme si nahádzali horúce gaštany zodpovednosti. držím palce nech to vyjdeAďo",,Andrej Danko
+4164,2024-01-26,Grácz Ján,0.01,"Milý Andrej milý Danko, v hlavičkemáš trocha manko. Posielam ti jeden cent, KORČOK bude prezident !!",,Andrej Danko
+4165,2024-01-26,Peter Farkas,0.03,"Jeden cent posielam na cestu do Moskvy, druhy cent na opravu semaforu a treti cent na logopedicku poradnu",,Andrej Danko
+4166,2024-01-26,Blumenfeld Viktor,0.01,na plavacie koleso,,Andrej Danko
+4167,2024-01-26,Závodný Radovan,0.01,Odstĺp!,,Andrej Danko
+4168,2024-01-26,Lubomir Dedera,0.01,Na jednosmernu letenku do Moskvy,,Andrej Danko
+4169,2024-01-26,Pankiewicz Jozef,0.01,"na ostrouhly stol, vy siamsky buk !",,Andrej Danko
+4170,2024-01-26,Peter Novak,0.01,Na jednosmerny listok do Ruskej fasistickej federacie. Stastnu cestu,,Andrej Danko
+4171,2024-01-26,Stankoviansky Michal,0.04,FCK PUTIN,,Andrej Danko
+4172,2024-01-26,Horňák Michal,0.01,Na narazovu kampan...,,Andrej Danko
+4173,2024-01-26,Michal Bakos,0.01,Posielam prispevok vo vyplatnom termeni januarovom,,Andrej Danko
+4174,2024-01-26,Lukas Septak,0.01,"Nikto nedokaze pobavit cloveka, ako len clovek cloveka.",,Andrej Danko
+4175,2024-01-26,Pfeifer Peter,0.01,"príspevok na opravu semafóru. nepoužiť na žiaden chlast, ok?",,Andrej Danko
+4176,2024-01-26,Likavčan Filip,0.01,OOO=========,,Andrej Danko
+4177,2024-01-26,Kamil Lorinc,0.01,"slava Ukrajini, kpt.kkt.plgr. pal do ruSSka",,Andrej Danko
+4178,2024-01-26,Dr. Martin Joniak,0.01,1262AIP-00I0GF09YZ5C,,Andrej Danko
+4179,2024-01-26,"Mikláš Igor, Mgr.",0.01,bozkavam Vas vsade,,Andrej Danko
+4180,2024-01-26,Suďa Michal,0.01,za Tomasa Der.,,Andrej Danko
+4181,2024-01-26,"Hlina Marek, PhDr.",0.01,Nic nie je priridzenejsie ako ozraty predseda SNS!,,Andrej Danko
+4182,2024-01-26,Ladislav Branicky,0.01,Na zubny airbag,,Andrej Danko
+4183,2024-01-26,Lutter Juraj,0.01,SeMaFor. Sedem Malych Foriem. Foriem slovenskeho nevkusu a dilentantstva.,,Andrej Danko
+4184,2024-01-26,Moravčík Jakub,0.01,Prispevok na psychiatricku liecu. Uzi v zdravi kaptn,,Andrej Danko
+4185,2024-01-26,Bizub Marián,0.01,na jednosmernu letenku do moskvy,,Andrej Danko
+4186,2024-01-26,Vyoral Matyáš,0.01,Na novy slabikar,,Andrej Danko
+4187,2024-01-26,KOSORIN STANISLAV,0.01,Orgány v činnom trestaní ho posúdia,,Andrej Danko
+4188,2024-01-26,Erik Greskovic,0.01,"Pre ozajstneho Prezidenta, Kapitana na dalsie vydavky spojene s opravou semaforu",,Andrej Danko
+4189,2024-01-26,"Ondrejka Martin, Mgr., PhD.",0.01,Na slabikar,,Andrej Danko
+4190,2024-01-26,Lubomir Nemes,0.01,na podporu kundidatury Mr.Danka,,Andrej Danko
+4191,2024-01-26,Repa Roman,0.01,Kapitáň. Na letenku do Moskvy. Zbohom a pozdravuj.,9999999999.0,Andrej Danko
+4192,2024-01-26,Kuruc Tomáš,0.01,Na boj proti liberalom,,Andrej Danko
+4193,2024-01-26,Zvara Ondrej,0.01,ach ty kohut v chorvatstine. pakuj sa po volbach do russka ku svojim kamaratom krstenym komunistom,,Andrej Danko
+4194,2024-01-26,Macho Rastislav,0.01,Na jednosmernu letenku do Ruska,,Andrej Danko
+4195,2024-01-26,"Jakubovič Ján, Ing.",0.01,"Bozkavam vas vsade, pan Putin",,Andrej Danko
+4196,2024-01-26,Lenka Filipova,0.03,Bozkavam Vas vsade,,Andrej Danko
+4197,2024-01-26,Igor Kimak,0.01,"Mi plochozemstan tesid sa, ze ty bit vyvoleny",,Andrej Danko
+4198,2024-01-26,Richard Krkoš,0.01,oneway ticket to Moscow,,Andrej Danko
+4199,2024-01-26,Šabo Ivan,0.01,štartovné na majstrovstvá Tatárskav disciplíne Spelling Bee,,Andrej Danko
+4200,2024-01-26,Kakoš Peter,0.01,"Korcok, podrztazka Meciara, Fica a Pelegriniho je zrazu kovany demokrat, nova ""prauda"" tupovolica PS/opozicie, stale cakame, kedy vypadnete!",,Andrej Danko
+4201,2024-01-26,Pavol Starek,0.01,Ludia naburjavievaju.,,Andrej Danko
+4202,2024-01-26,Batka Adam,0.01,ruble poslať nešlo..,,Andrej Danko
+4203,2024-01-26,Hrubiško Lukáš,0.01,debil danko,,Andrej Danko
+4204,2024-01-26,Kriška Peter,0.01,"Ak odides do mosky a nevratis sa, vyrazne prihodim",,Andrej Danko
+4205,2024-01-26,Matej Jediny,0.01,"Ziaden clovek nedokaze dat tolko centov cloveku, ako dokaze len clovek cloveku",,Andrej Danko
+4206,2024-01-26,Mališ Vladimír,0.01,nech uz zmiznes,,Andrej Danko
+4207,2024-01-26,Pavol Cipka,0.01,2402650000032760,,Andrej Danko
+4208,2024-01-26,Kudla Emil,0.01,Plg. Donkey na protialkoholicku liecbu a jednosmernu letenku hocikam,,Andrej Danko
+4209,2024-01-26,Jozef Ivanecky,0.01,Na poctivy vodicak. Lebo ten co mate je zjavne ako Vas titul ...,,Andrej Danko
+4210,2024-01-26,"Nágel Tomáš, Ing.",0.01,Kto je vinny nech hodi kamenom,,Andrej Danko
+4211,2024-01-26,Šulič Peter,0.01,Retardanko prezidementom,,Andrej Danko
+4212,2024-01-26,Filip Jakab,0.01,Napríklad také národné menü,,Andrej Danko
+4213,2024-01-26,Neznámy Miloslav,0.01,"Posielam podporu pre tohto nevzdelaného pána s vtipnou poruchou reči,vysokým sebavedomím a post-lobotomickým výrazom tváre. #chskym!?",,Andrej Danko
+4214,2024-01-26,Rusnák Ján,0.01,prispevok na hodiny logopedie,,Andrej Danko
+4215,2024-01-26,Trnka Ladislav,0.01,"Pan Kapitan,nech vsetkie blesky sponad Slovenska chyti stoziar",948222004.0,Andrej Danko
+4216,2024-01-26,Očenáš Jozef,0.01,pre bandu tupych hlav na emigraciu smer Moskva,,Andrej Danko
+4217,2024-01-26,"Ruman Vladislav, Ing.",0.01,"Pan redaktor, tazko vladzem, fakt som dost popil.",2024.0,Andrej Danko
+4218,2024-01-26,Matej Horsky,0.01,"ziaden clovek nedokaze dat tolko penazi cloveku,ako dokaze len clovek cloveku",77777.0,Andrej Danko
+4219,2024-01-26,Polhorský Mikuláš,0.01,"Ziaden clovek nedokaze tak zvolit prezidenta, ako len clovek prezidenta",,Andrej Danko
+4220,2024-01-26,Horňák Dušan,0.01,Na jednosmernú letenku do Moskvy,,Andrej Danko
+4221,2024-01-26,Tamás Oliver,0.01,Na deportaciu madarov do Petrzalky,,Andrej Danko
+4222,2024-01-26,Sabo Samuel,0.01,na nove tanky a po zrovnani budapesti so zemnou som ochotny prispiet na nove semafori a okuliare aby ste ten semafor videl,,Andrej Danko
+4223,2024-01-26,Spišák Martin,0.01,na horšie časy...keby predsa len Trump nevyhral voľby a Putin vojnu...,,Andrej Danko
+4224,2024-01-26,K. Butala,0.01,Aj v Holandsku sa smeju :),,Andrej Danko
+4225,2024-01-26,Minárik Miloš,0.01,prispevok na letenku do ruska . SLAVA UKRAINE !,,Andrej Danko
+4226,2024-01-26,Grafik Michal,0.01,na letenku do mordoru,,Andrej Danko
+4227,2024-01-26,Mochnacký Dušan,0.01,Na zubne lepidlo,,Andrej Danko
+4228,2024-01-26,Jozef Hrusecky,0.01,rusacky kolaborant,,Andrej Danko
+4229,2024-01-26,Gregušová Lucia,0.01,Na semafor a letenku do Moskvy,,Andrej Danko
+4230,2024-01-26,Vertaľ Matej,0.01,Na novu metlu na zametanie Dubravky,,Andrej Danko
+4231,2024-01-26,Rafay Ján,0.01,Ľudia prispiejavejejú,,Andrej Danko
+4232,2024-01-26,Dalibor Hanzel,0.01,"Na tlmocnika, aby bolo prezidentovi rozumiet",,Andrej Danko
+4233,2024-01-26,Szabo Kristián,0.01,"Na opravu semaforu, El Kapitan",,Andrej Danko
+4234,2024-01-26,Madzia Milan,0.01,na alkohol tester,,Andrej Danko
+4235,2024-01-26,Andrej Simko,0.01,"prispevok pre prezidenta vesmiru v hodnosti kapitan stlp, so zanedbatelnym resp. ziadnym IQ",,Andrej Danko
+4236,2024-01-26,"Mašláni Juraj, Ing.",0.01,od zubkovej vily,,Andrej Danko
+4237,2024-01-26,Matúš Alex,0.02,"300 koni Danko pali gumy, semafor na zem cumi, NCore",,Andrej Danko
+4238,2024-01-26,Mišiak Matej,0.01,OO24012600034175,,Andrej Danko
+4239,2024-01-26,"Gavlák Viliam, Ing.",0.01,prispevok z ruskej ambasady pre Andreja Kktovica na novu olejovu vanu,,Andrej Danko
+4240,2024-01-26,Kristina Chabadova,0.01,Ozran Danko prezident? Ani vizualne,,Andrej Danko
+4241,2024-01-26,Szulányiová Denisa,0.01,"od zúbkovej víly, bozkávam všade",,Andrej Danko
+4242,2024-01-26,Marek Buco,0.01,Na nove kapitanske vylozky,,Andrej Danko
+4243,2024-01-26,Tomas Varacka,0.01,Hromy do teba a na letenku do Mordoru,,Andrej Danko
+4244,2024-01-26,Hlavatý Roman,0.01,Dar potratovi z opici prdele,,Andrej Danko
+4245,2024-01-26,Lorinc Marián,0.01,"Jazdi bezpečne !, alkohol za volant nepatrí !",11012024.0,Andrej Danko
+4246,2024-01-26,Krenčan Oliver,0.01,prispevok na ozratemu dankovi za zniceny semafor a prezidentsku kampan,,Andrej Danko
+4247,2024-01-26,Chrenko Alexander,0.02,môjmu pánovi prezidentovi. ILJ,,Andrej Danko
+4248,2024-01-26,Ščerbanovský Viktor,0.01,Na Logopediu,,Andrej Danko
+4249,2024-01-26,"Krajči Ján, Ing.",0.01,"Dankovi panovi prezidentovi nemoze iny nikto vyhrat to, ak viac treba poslem bude",,Andrej Danko
+4250,2024-01-26,Kočiš Michal,0.01,"prispevok za termen májový, semafor na hrad!!!",,Andrej Danko
+4251,2024-01-26,Pavlík Andrej,0.01,"Semafor nasej statnosti, JUDr. Andrej Danko, kpt. kkt., nas prezidement.",,Andrej Danko
+4252,2024-01-26,Martin Jasko,0.01,Semaforkovi,,Andrej Danko
+4253,2024-01-26,Filo Martin,0.01,"Na nove zuby, pan kapitan",,Andrej Danko
+4254,2024-01-26,Gustiňák Jakub,0.01,"Adresu na lepidlo na zub by som Vas poprosil, co poslem.",,Andrej Danko
+4255,2024-01-26,Gračko Martin,0.01,CHSKYM?,,Andrej Danko
+4256,2024-01-26,Lobotka Martin,0.01,Bozkávam vás všade,,Andrej Danko
+4257,2024-01-26,Kopřiva Juraj,0.01,Rozdelte si to napoly s Harabinom.,,Andrej Danko
+4258,2024-01-26,Matúš Alex,0.05,NCore je lajf,,Andrej Danko
+4259,2024-01-26,Repa Peter,0.01,OO24012600023090,,Andrej Danko
+4260,2024-01-26,Karáčová Petra,0.01,bozkavam vas. vsade.,,Andrej Danko
+4261,2024-01-26,Marek Vašíček,0.01,Na naozajstného právnika.,,Andrej Danko
+4262,2024-01-26,"Talaj Peter, Ing.",0.01,"kkt. exkpt. stoziar semafor, plgt., bozkavam vas vsade",,Andrej Danko
+4263,2024-01-26,Hajdin Peter,0.01,Na veniec pre semafor :(,,Andrej Danko
+4264,2024-01-26,Drahomír Kollár,0.01,Na zuby,,Andrej Danko
+4265,2024-01-26,Gerbel Ondrej,0.01,"ked to premenis na ruble, tak ti to mozno aj v mordore bude stacit ...",,Andrej Danko
+4266,2024-01-26,Peter Brieda,0.02,Od Sorosa,,Andrej Danko
+4267,2024-01-26,Ruman Ján,0.01,"na listok do Moskvy, ale autobusom, nesadat za volat!",,Andrej Danko
+4268,2024-01-26,Trcka Richard,0.02,0.01 na logopeda a 0.01 na psychiatra pre logopeda,,Andrej Danko
+4269,2024-01-26,Littva Matúš,0.1,Kapitánovi na letenky do Ruska za miláčikom Vladkom.,,Andrej Danko
+4270,2024-01-26,"Jahnová Daniela, Mgr.",0.01,kto je vinny nech hodi kamenom,,Andrej Danko
+4271,2024-01-26,Ondrek Samuel,0.01,&#128678;,,Andrej Danko
+4272,2024-01-26,Ondrek Samuel,0.01,Predam 14 dnove brojlery o priemernej vahe 350g. Brojlery su zdrave a dostupne k odberu na Orave.,,Andrej Danko
+4273,2024-01-26,Jaromír Oťaheľ,0.01,vsetko najlepsie k meninam tammy,,Andrej Danko
+4274,2024-01-26,Halás Peter,0.01,Aby sa raz podarilo prilepiť naspäť aj mozog,,Andrej Danko
+4275,2024-01-26,"Jahnová Daniela, Mgr.",0.01,"strc sa ficovi do rici, pestny vecer",,Andrej Danko
+4276,2024-01-26,Marek Buco,0.01,na spolocnu chlastacku v Mordore u Putlera s Hranolom a Medvedevom,,Andrej Danko
+4277,2024-01-26,Szücs Stanislav,0.01,na masticku na herpes od Zsuzsovej,666.0,Andrej Danko
+4278,2024-01-26,"Zemko Michal, Mgr., MBA",0.01,prispevok na liecenie v protialkoholickom sanatoriu na Prednej Hore,,Andrej Danko
+4279,2024-01-26,"Hollý Pavel, Ing.",0.01,"na plukovnicke vylozky, na kurz zakona c.8/2009 zz o cestnej..., na listok do RuSSka",158112.0,Andrej Danko
+4280,2024-01-26,Šesták Matej,0.01,"Na kurzy slovenciny pan kpt. kkt. Danko, Plg.",,Andrej Danko
+4281,2024-01-26,Adriana Cimova,0.01,Na kurz sebareflexie,,Andrej Danko
+4282,2024-01-26,Robert Horvath,0.01,"Na cestu do Ruska a zabudnutia na vecne casy, hanbite sa",,Andrej Danko
+4283,2024-01-26,Kocúr Rastislav,0.01,Lupi prajem ti skore uzdravenie!,,Andrej Danko
+4284,2024-01-26,Ďurica Andrej,0.01,Na jednosmerný lístok na Kamčatku,,Andrej Danko
+4285,2024-01-26,Marek Raffay,0.01,Na malovatka aby si bol krajsi saso. hahah Trupka.,,Andrej Danko
+4286,2024-01-26,Mário Kubát,0.01,F001260120245152041,,Andrej Danko
+4287,2024-01-26,Zemko Marek,0.01,"pre Danka Kokotovica na letenku do ruska, na zub a prispevok za rozdrbany semafor, dalsi poslu aj na logopediu ty pseuodonarodovec",,Andrej Danko
+4288,2024-01-26,Marek Raffay,0.01,Na vreckovky ked budes plakat. Trupka. A ty si v politike to je vtip :D ???? Od uplneho zaciatku by som ta nevolil. Ficov sluha.,,Andrej Danko
+4289,2024-01-26,Bukva Kristián,0.01,Uz neplac a konecne skonci v politike!,,Andrej Danko
+4290,2024-01-26,MINX VLADIMIR ING,0.01,Na jednosmerný výlet do moscovie. PS nezabudni výložky bozkávať všade!,,Andrej Danko
+4291,2024-01-26,Labaj Anton,0.05,Príspevok na opravu kapoty na aute;),,Andrej Danko
+4292,2024-01-26,Juraj Chovan,0.01,"Prispevok pre organ. Ano si najvacsi, a nielen na Pobalti...",,Andrej Danko
+4293,2024-01-26,Peter Kotvan,0.01,boti roboti ta bozkavaju vsade,,Andrej Danko
+4294,2024-01-26,Martin Juras,0.01,Na opravu semaforu pan Kapitan,,Andrej Danko
+4295,2024-01-26,Popovič Viktor,0.01,Odpal do Ruska mag..re. #SALO# SLAVA UKRAJINE,,Andrej Danko
+4296,2024-01-26,Sakáč Matej,0.01,hroza pre slovensko,1111111111.0,Andrej Danko
+4297,2024-01-26,Buraj Malá Veronika,0.01,Vystup zo svojej bubliny a pozri co ti ludia pisu. Toto je tvoja realita.,,Andrej Danko
+4298,2024-01-26,Richard Dubovicky,0.01,kapitan Slovensko,,Andrej Danko
+4299,2024-01-26,Polubojarov Peter,0.01,S,,Andrej Danko
+4300,2024-01-26,Miroslav Krsak,0.01,"Chcel som podporit asi ako vy Ukrajinu , ale menej sa nedalo.",,Andrej Danko
+4301,2024-01-26,Kliman Marián,0.01,Si pol percenta mal aby v termeňimarcovom..... to ti ja zo srdca želám ty pseudonárodovec arogatný,,Andrej Danko
+4302,2024-01-26,Hajdin Juraj,0.01,OO24012600026238,,Andrej Danko
+4303,2024-01-26,Fejda Patrik,0.01,"danko prezident ? vobec, akoze absolutne vobec hej? ani vizualne",,Andrej Danko
+4304,2024-01-26,Sventek Martin,0.01,mal aby kapitan kampan na a semafor oprava zaplatit mohol aby.,,Andrej Danko
+4305,2024-01-26,"Balko Martin, MUDr.",0.03,"pre kkt. kpt. plg. na letenku do russka, byt v Moskvke a alkoholtester",,Andrej Danko
+4306,2024-01-26,Vasko Libor,0.01,prispevok andrejkovi na opravu zlomeneho zuba,,Andrej Danko
+4307,2024-01-26,Dragula Henrich,0.01,"povedal som v Moskve, ze si taky dobry chlapec",,Andrej Danko
+4308,2024-01-26,Polubojarov Peter,0.01,?,,Andrej Danko
+4309,2024-01-26,Polubojarov Peter,0.01,M,,Andrej Danko
+4310,2024-01-26,Polubojarov Peter,0.01,Y,,Andrej Danko
+4311,2024-01-26,Polubojarov Peter,0.01,K,,Andrej Danko
+4312,2024-01-26,Polubojarov Peter,0.01,H,,Andrej Danko
+4313,2024-01-26,Michal Ziaran,0.01,Ja nikdy nepouzivam oci ked posielam peniaze,,Andrej Danko
+4314,2024-01-26,Polubojarov Peter,0.01,C,,Andrej Danko
+4315,2024-01-26,Polák Matúš,0.01,"Zasluzis si hyckanie a opateru, jepko",,Andrej Danko
+4316,2024-01-26,Krendželák Martin,0.01,"Ja si to uzivam, Ja sa citim dobre. Netreba zabudnut pobozkat vylozky",,Andrej Danko
+4317,2024-01-26,Katarina Topolovska,0.01,"Na vylet do moskvy, berte aj simkovicovu a romanku, bozkavam vsade",,Andrej Danko
+4318,2024-01-26,Matus Svihra,0.01,Na okamzitu letenku do Moskvy pre pana plg. kpt.,,Andrej Danko
+4319,2024-01-26,Mako Tomáš,0.01,Aj ako prezident by ste burali semafory? Stastnu cestu do Moskvy po volbach. :),,Andrej Danko
+4320,2024-01-26,"Kontírová Silvia, PhDr.",0.01,na jednosmernu cestu na Mars,,Andrej Danko
+4321,2024-01-26,Koštialik Patrik,0.01,#prayforsemafor,,Andrej Danko
+4322,2024-01-26,Laczo Martin,0.01,"ty kok, ty tupy chuj!",,Andrej Danko
+4323,2024-01-26,Matej Šufliarsky,0.01,Na opravu semafora. ps: peniaze siprosím vrátiť ak nevyhráte voľby.,,Andrej Danko
+4324,2024-01-26,Martin Ďurian,0.01,aby sme sa mohli na Vás ďalej zabávať pán kapitáň! Bozkávam Vás všadea kto je vinný nech hodí kameňom!,,Andrej Danko
+4325,2024-01-26,SLOVENSKA NARODNA STRANA,31000.0,PREVOD PREZIDENTSKE VOLBY 2024,,Andrej Danko
+4326,2024-01-26,Michal Prusak,0.01,Na lepidlo na zlomeny zub,,Andrej Danko
+4327,2024-01-26,Zamborský Alex,0.01,Posielam prispevok na jednosmernu letenku do Moskvy,,Andrej Danko
+4328,2024-01-26,Jaššo Dušan,0.1,Poskladali sme sa na narodeninovejoslave pan prezident. Drzime palcea ste náš vzor. Vsetci ideme automdomov.,,Andrej Danko
+4329,2024-01-26,Lupták Patrik,0.01,"príspevok na tvorbu sérií videí, ktoré budú zachytávať Vaše najvtipnejšie vyjadrenia a brebty. Váš humor je jedinečný a originálny :-)))",321321321.0,Andrej Danko
+4330,2024-01-26,Jakub Malik,0.01,Nikto nedokaze dat tolko centov cloveku ako dokaze dat len clovek cloveku,,Andrej Danko
+4331,2024-01-26,Ilavský Martin,0.01,Na dalsiu flasu,,Andrej Danko
+4332,2024-01-26,Roháček Michal,0.01,"Keby general Stefanik vstal z mrtvych tak ta tak vyfacka, že ta ani Alenka nespozna. Ani vizualne... A aj vylozky odtrhne!!!",,Andrej Danko
+4333,2024-01-26,"Schwarcz Róbert, Mgr.",0.01,Na voltaren na krize ked sa budes opat klanat putinovi az po zem,,Andrej Danko
+4334,2024-01-26,Muranský Michal,0.01,Posielam jeden rubel kryty zlatom,,Andrej Danko
+4335,2024-01-26,Jambrichová Soňa,0.01,PODRŽFĽAŠKA,,Andrej Danko
+4336,2024-01-26,Jakub Malik,0.01,Opity blazon,,Andrej Danko
+4337,2024-01-26,Schwarzová Jana,0.01,"kazdemu kolko si zasluzi, aj ked Kpt. Andrej si ani ten centik nezasluzi. Ale za te protest to stoji.",,Andrej Danko
+4338,2024-01-26,Miroslav Pienčak,0.01,1 zlaty rubel na vodku,,Andrej Danko
+4339,2024-01-26,"Glézl Peter, Ing.",0.01,aby si nemusel FETIT PLESEN,,Andrej Danko
+4340,2024-01-26,Šmál Frederik,0.01,"Bozkávam Vás ale iba s vaším dovolením, všade!",,Andrej Danko
+4341,2024-01-26,"Kráľová Martina, Mgr.",0.01,dakujeme za kus dobrej roboty ako ludovy zabavac v tazkych casoch,,Andrej Danko
+4342,2024-01-26,Roman Hromnik,0.01,"Pre kapitana vsetkych chujov na jednosmernu letenku do ruSSkeho Mordoru: Bol si retard, si retard a ostanes retard. Slava Ukrajine",,Andrej Danko
+4343,2024-01-26,Jakub Malik,0.01,https:bitly.ws/3aVDZ Predam Pc,,Andrej Danko
+4344,2024-01-26,Jurovic Martin,0.01,Odkaz putinovi ze smrdi,,Andrej Danko
+4345,2024-01-26,Mráz Lukáš,0.01,Na metlu. Aby sa Vam lepsie upratovala Dubravka.,,Andrej Danko
+4346,2024-01-26,"Hvalčák Petr, Mgr.",0.01,"na jednosmernu letenku do Ruska. odporucame Tolmachevo, Novosibirsk.",,Andrej Danko
+4347,2024-01-26,Plajdicsková Petra,0.01,"na listok na autobus do prace, z dubravky to je daleko",,Andrej Danko
+4348,2024-01-26,Jakub Sarlina,0.01,Na zubara,,Andrej Danko
+4349,2024-01-26,Plachotňuk Andrej,0.01,"Šlabikár , prispevok pre logopéda, alkohol test , iQ test , ked ti nieco ostane posli Chujilovi, ked nie vráť rodičom",,Andrej Danko
+4350,2024-01-26,Daniel Fatara,0.01,"Drahy kapitan, posielame ti prispevok vo vyske tvojho IQ.",,Andrej Danko
+4351,2024-01-26,"Lukačko Pavol, MUDr.",0.01,Prispevok na novy vodicsky preukaz,,Andrej Danko
+4352,2024-01-26,Jakub Malik,0.01,Prispevok na YT s breptami Kapitana Danka,,Andrej Danko
+4353,2024-01-26,Jakub Malik,0.01,"Prispevok na absolvovanie IQ testu, vysledky ziadam zverejnit",,Andrej Danko
+4354,2024-01-26,"Jirků Juraj, Ing., PhD.",0.01,"Prispevok na jednosmernu letenku do Moskvy (ak bude chybat, rad doplatim zbytok)",,Andrej Danko
+4355,2024-01-26,Viliam Trnka,0.01,"Andrej,posielam ti jeden rubeľ.Keďpočkáš, budú to ruble dva.",,Andrej Danko
+4356,2024-01-26,Vráblová Alexandra,0.01,"chrbtova kost nie je ako rigorozna praca, ze si ju zaplatis a mas",,Andrej Danko
+4357,2024-01-26,Andrej Straka,0.01,Na sterilizaciu,,Andrej Danko
+4358,2024-01-26,Žažo Dominik,0.01,"Bozkom zradený, ruským trolom znásilnený, stĺp nevinný.",,Andrej Danko
+4359,2024-01-26,Mach Jaroslav,0.01,OO24012600037514,,Andrej Danko
+4360,2024-01-26,Marian Bronis,1.0,Aliancia Jokers,,Andrej Danko
+4361,2024-01-26,Ježíková Jana,0.1,Na kvalitneho psychologa pre kvalitneho psychopata,,Andrej Danko
+4362,2024-01-26,Jaroslav Bajus,0.01,2402650000048643,,Andrej Danko
+4363,2024-01-26,"Cáfal Ján, JUDr.",0.01,"Nech sa Vam uz nikdy nepostavi........, zly stlp do cesty",,Andrej Danko
+4364,2024-01-26,Martin Rausa,0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidi prispevok na jedsosmernu cestu do Moskvy od kominara z BanskejBystric,,Andrej Danko
+4365,2024-01-26,Bulejko Dominik,0.01,Sláva Ukrajine,,Andrej Danko
+4366,2024-01-26,Mutňanský Roman,0.01,na kapitansku letenku do maticky rus,,Andrej Danko
+4367,2024-01-26,Gašpárek Tomáš,0.01,"doplnenie nových slov, do generátora náhodných slov",,Andrej Danko
+4368,2024-01-26,Aneta Imrichová,0.01,F001260120245237145,,Andrej Danko
+4369,2024-01-26,"Hupcej Matúš, Ing.",0.01,Pre retardanka na jednosmernu letenku do moskvy. Bozkavam ta vsade ty vozralo vozralej,,Andrej Danko
+4370,2024-01-26,Michaela Manová,0.17,Ty to vyhraš Andrej!!!,,Andrej Danko
+4371,2024-01-26,Nagy  Matej,0.01,Na novy zub,,Andrej Danko
+4372,2024-01-26,Vojtek Matúš,0.01,"Cipsy aj s kofolou, rakvy aj s mrtvolou. Bud pozehnan od vsetkych svatych kompotov.",,Andrej Danko
+4373,2024-01-26,Jakub Malik,0.1,Predam miniPc DELL Optiplex 7050,,Andrej Danko
+4374,2024-01-26,Habrun Richard,0.01,"Žiaden človek nedokáže dať toľko lásky človeku, ako dokáže dať len človek človeku. Kandiduj v Ruzzku.",,Andrej Danko
+4375,2024-01-26,Rusnák  Adam,0.01,"Žiaden človek nedokáže prispieť nanový zub človeku, ako dokáže len človek človeku.",,Andrej Danko
+4376,2024-01-26,Sula  Silvia,0.01,Letenka môžeš jednoSMERnicová ísť Moskva navždy...,,Andrej Danko
+4377,2024-01-26,Karman Matúš,0.1,"Na protest sa pridávam aj ja. Kúp si prezidentské kreslo. Na, tu máš.Pfuj.",,Andrej Danko
+4378,2024-01-26,Simonides Peter,0.01,"1 rubeľ rovná sa 1 eurocent, kedy rakúska národniarka Šimkovičová a SNS zakáže digitálne euro a satanistickú euro hotovosť :-D :-D :-D",,Andrej Danko
+4379,2024-01-26,Benkovič Szabolcs,0.01,Dankovi na chrbtovu kost,,Andrej Danko
+4380,2024-01-26,"Rádik Pavol, Ing.",0.01,Na nove vylozky,,Andrej Danko
+4381,2024-01-26,Adam Nagy,0.01,"Kacapskemu kolaborantovi na letenku do moskvy, Slava Ukrajine ty kkt!",,Andrej Danko
+4382,2024-01-26,Vlkovič Zdenko,0.01,"Mama vzdy hovorila : Postihnutym treba pomahat , bozkavam Vas vsade aj v Rusku",,Andrej Danko
+4383,2024-01-26,"Karaková Vanesa, Mgr.",0.01,na corgona s borkou. bozkavam vsade. pozor na semafor je nevinny nehodil kamenom. mier,,Andrej Danko
+4384,2024-01-26,Vladimír Kiebel,0.01,Príspevok na opravu semafora. Mama,,Andrej Danko
+4385,2024-01-26,Zárišová Miroslava,0.1,Prispevok na horuce gastany zodpovednosti,,Andrej Danko
+4386,2024-01-26,Lenďák Fedor,0.01,Na kondicne jazdy alebo skolu smyku,,Andrej Danko
+4387,2024-01-26,Chrenko Marek,0.01,ozranovi na cestu do ruska za smradlavym putinom,,Andrej Danko
+4388,2024-01-26,"Vrábel Erik, Ing.",0.01,"chrbtova kost nie je zub, neda sa nalepit",,Andrej Danko
+4389,2024-01-26,Ivaniš Tomáš,0.13,,,Andrej Danko
+4390,2024-01-26,Czocher Mikuláš,0.01,VLASTIZRADCA RuSSký šváb,,Andrej Danko
+4391,2024-01-26,Pajdučák Vladimír,0.01,na jednosmernú cestu do Moskvy,,Andrej Danko
+4392,2024-01-26,Feketeová Anna,0.01,Cestou na vychod pan kapitan navstivte stranky www.kurzovnilistek.eu a www.kurzovylistok.eu pre aktualne kurzy mien.,,Andrej Danko
+4393,2024-01-26,Veronika Majtanova,0.01,"Vas ako prezidenta ani vizualne. Hanba Dankovi, slava Ukrajine",,Andrej Danko
+4394,2024-01-26,Jakub Malik,0.01,Nesadaj za volant ked chlastas.,,Andrej Danko
+4395,2024-01-26,Ondrej Valér,0.01,Na nove nemocnicusi,,Andrej Danko
+4396,2024-01-26,Hladík Lukáš,0.01,Príspevok na doučovanie slovenského jazyka.,,Andrej Danko
+4397,2024-01-26,Šmál Frederik,0.01,Happy Pride! Láska nepozná sociálny konštrukt! Ňuňu,,Andrej Danko
+4398,2024-01-26,Barteková Andrea,0.1,prispevok na navstevu logopedicky,,Andrej Danko
+4399,2024-01-26,Martin Celko,0.01,"posielam v termeni januarovom,teda v juni a bozkavam vsade",,Andrej Danko
+4400,2024-01-26,Korčák Martin,0.01,Posielam hodnotu tvojho charakteru. Minus sa poslat neda!,,Andrej Danko
+4401,2024-01-26,Ema Pokorna,0.01,Centik na podrobny navod ako obsluhovat pero. Zelam pastny vecer.,,Andrej Danko
+4402,2024-01-26,Kalafusová Zuzana,0.01,...A Vy ste gdooo? Vy ste gdooo??,,Andrej Danko
+4403,2024-01-26,Feketeová Anna,0.01,"Nie je dôležité nafúkať, ale nefúkať. Pozdravujem aktuality.sk",,Andrej Danko
+4404,2024-01-26,Peter Rajcak,0.01,Ludia prispevjevavaju,,Andrej Danko
+4405,2024-01-26,"Oslovič Dávid, Bc.",0.01,dignityindying.co.uk ; just a suggestion,,Andrej Danko
+4406,2024-01-26,Sabo Lukáš,0.01,Hrad na danka!,6660000666.0,Andrej Danko
+4407,2024-01-26,Hoffmann Tomáš Alexander Lawrence,0.01,"Vas velky obdivovatel, urcene na novu ucebnicu slovenciny",,Andrej Danko
+4408,2024-01-26,Gustav Krchnavy,0.01,ALL FOR SEMAFOR,,Andrej Danko
+4409,2024-01-26,Magurský Peter,0.02,"Jeden cent za to, ako nas roky zabavate. Druhy na to, aby to uz dalej nebolo z pozicie politika.",,Andrej Danko
+4410,2024-01-26,Bôrik Marek,0.1,"Na jednu 10 centovú točku, možno padne bonus a bude na flašu Capitanapre kapitána, jaj",,Andrej Danko
+4411,2024-01-26,Vallo Michal,0.01,Nie aby si to minul na hluposti,,Andrej Danko
+4412,2024-01-26,"Vysudil Marcel, Ing.",0.01,Na udrzbu Husakovho hrobu.,,Andrej Danko
+4413,2024-01-26,Bojko Patrik,0.01,"nie je hanba ako hanba, kapitan",,Andrej Danko
+4414,2024-01-26,Baránková Katarína,0.01,Na horalku. Hrad na Danka.,,Andrej Danko
+4415,2024-01-26,Lučanský  Nikolas,0.01,Uz si luskol Martinu? Kamarat sa pyta #FAFO #DildoOfConsequence,,Andrej Danko
+4416,2024-01-26,Backo Anton,0.01,"Na dreger, aby ste vedel že za volant treba sadať triezvy",,Andrej Danko
+4417,2024-01-26,Miroslav Svrcek,0.01,"Revucky retard, choj do ..... Moskvy.",,Andrej Danko
+4418,2024-01-26,"Gerši Ivan, Ing.",0.01,Andrejka smer vychod... sup sup sup uz nech si tam. A posli potom pohladnicu.,1020304050.0,Andrej Danko
+4419,2024-01-26,Stefan Lacko,0.01,Prispevok na pobyt v liecebni pre dusevne ...,,Andrej Danko
+4420,2024-01-26,Riecka Romana,0.01,"Na letenku, pobozkat Putinovi nohy! A na logopeda",,Andrej Danko
+4421,2024-01-26,Kudláčová Katarína,0.01,"Mission Demolition 2024, cast druha na Hrade, v hlavnych ulohach : kapt. Semafor",,Andrej Danko
+4422,2024-01-26,Zelko Marián,0.01,"Na jednosmernu letenku do Moskvy amhd na policiu, kde odovzdá vodicsky preukaz",,Andrej Danko
+4423,2024-01-26,Marek Encinger,0.01,Nech ťa parom skare špinavcu,,Andrej Danko
+4424,2024-01-26,Šturdík Dávid,0.01,https://youtu.be/KpVwywhs7B8?si=G6ihO8bkB9jg5b3M,,Andrej Danko
+4425,2024-01-26,Imre Pavol,0.01,"p.Kapitan Semafor, vy mikrobusar, odtiahnite s tym inteligencnym vykvetom. ď",,Andrej Danko
+4426,2024-01-26,Alexander Bori,0.01,Na ucitela slovenciny,,Andrej Danko
+4427,2024-01-26,"Gazdíková Katarína, Mgr.",0.01,na metlu na zametanie Dubravky a sasovsky nos,666.0,Andrej Danko
+4428,2024-01-26,Kubovčík Ivan,0.01,Este ze ste mali po ruke lepidlo na zuby,,Andrej Danko
+4429,2024-01-26,Pál Sebastián,0.01,Vy kazisemafor siesty z Bozej vole Kapitan mocny kerovnik a hlava pomazana Posielam na alkotester a tej jazde zdar,,Andrej Danko
+4430,2024-01-26,Jakub Trnka,0.14,koľko IQ toľko centov,,Andrej Danko
+4431,2024-01-26,Kramplová Barbora,0.1,"Ty si taky primitiv, ze ani nevies aky si primitiv.. tesim sa na stretnutie, sanujem si mrmel obzvlast pre teba ty egres",,Andrej Danko
+4432,2024-01-26,Sluková Michaela,0.01,Na lubrikant. Nech sa ľahšie strkádo ruskej riti.,,Andrej Danko
+4433,2024-01-26,"Luknár Dagmar, Mgr.",0.01,menim na zelen,,Andrej Danko
+4434,2024-01-26,Bajzová Nikola,0.01,Príspevok na Slovenský Národný Stĺp,,Andrej Danko
+4435,2024-01-26,Utlák Adrián,0.01,kpt Dankovi na opravu semafora.,,Andrej Danko
+4436,2024-01-26,Rástocký Martin,0.01,public class DankoIQ { public static void main(String[] args) { } } ale s kazdym prispevkom verime v IQ++ ale bude IQ--,,Andrej Danko
+4437,2024-01-26,Ivan Ciglan,0.01,Na vazektomiu lebo lobotomiu si uz zjavne absolvoval,,Andrej Danko
+4438,2024-01-26,Dolniková Martina,0.01,Semafory nie su fory tri farebne gombicky... pozna ich aj malicky,,Andrej Danko
+4439,2024-01-26,"Huska Ernest, Ing.",0.01,"Spolocne zastavime blazna, staci tohoto jedneho.",,Andrej Danko
+4440,2024-01-26,Branislav Bukva,0.01,Smrdis liberalom,,Andrej Danko
+4441,2024-01-26,Mikulas Tirpak,0.01,Na sekundove lepidlo aby ste si mohli prilepit zub priamo na mieste nehody,,Andrej Danko
+4442,2024-01-26,Frlajs Lukáš,0.01,Bozkavam vas po celej dlzke semafora,,Andrej Danko
+4443,2024-01-26,Richard Vadkerty,0.01,"Bozkavam Vas vsade JUDr. kpt. Andrej Danko, SmFr., kto je vinny nech hodi euro na transparentny ucet",,Andrej Danko
+4444,2024-01-26,Jenčo Martin,0.01,Chskym?,,Andrej Danko
+4445,2024-01-26,Mišina Juraj,0.01,The dildo of consequences rarely comes lubed,,Andrej Danko
+4446,2024-01-26,Gburová Alexandra,0.01,Ja by nemuh spac s domnenim ze nepodporim tak nadejneho kandidata pretento vychodny blok,,Andrej Danko
+4447,2024-01-26,Kišac Dalibor,0.02,2 kopejky.Jedna pre Keptuna druha pre Vladka - zadavte sa s nimi.Bozkavajte ma v r*t.,,Andrej Danko
+4448,2024-01-26,Frey Zuzana,0.05,5 rublikov. Vela stastia!,,Andrej Danko
+4449,2024-01-26,Zigo Martin,0.01,Bozkávam ťa všade Banderas,,Andrej Danko
+4450,2024-01-26,"Martinec Michal, Mgr.",0.01,prispievam na jednosmernu cestu do zaslubenej krajiny ZSSR,2024.0,Andrej Danko
+4451,2024-01-26,Marián Petrík,0.01,Slovenskému komikovi za nevyčerpatelnú studnicu blbosti.,,Andrej Danko
+4452,2024-01-26,Dominika Samsonova,0.01,POLIB NAM PRDEL DANKU,,Andrej Danko
+4453,2024-01-26,Šalgo Peter,0.01,kto jebe z viny nech prvy hodi centom. make slovakia great morava again,,Andrej Danko
+4454,2024-01-26,Čachó Adam,0.01,Posielam americké krvavé doláre. Sláva semafórom,,Andrej Danko
+4455,2024-01-26,Varga Martin,0.01,"Andrej, ze ta hanba nefackuje.Cely narod sa z teba smeje.Priznaj farbu so semaforom a zmizni na smetisko politickych dejin.Bozkavame Fšade!",20230111.0,Andrej Danko
+4456,2024-01-26,Bednár Ján,0.01,Na transplantaciu mozgu,,Andrej Danko
+4457,2024-01-26,Sýkora Daniel,0.01,Na jednosmernu letenku do Moskvy.,,Andrej Danko
+4458,2024-01-26,Kollár Jaroslav,0.01,Na lepidlo,,Andrej Danko
+4459,2024-01-26,Stejskal Samuel,0.01,na jednosmernu letenku do moskvy,,Andrej Danko
+4460,2024-01-26,Bekényi Štefan,0.01,"Žiaden človek nedokáže dať toľko peňazí na kampaň človeku, ako dokážedať len človek človeku.",,Andrej Danko
+4461,2024-01-26,Michal Bubnar,0.01,1 cent aspon na pol kvapky benzinu,,Andrej Danko
+4462,2024-01-26,Tomas Marcisin,0.02,"prajem tolko percent vo volbach, aka je vyska mojho prispevku",,Andrej Danko
+4463,2024-01-26,Slezák Jozef,0.01,na novú metlu pri zametaní Dúbravky,20240126.0,Andrej Danko
+4464,2024-01-26,Radoslav Bača,0.02,bozkávam vás všade pán predseda a posielam pozvánku na zápis do 1. ročníka základnej školy.. potrebujeteto veľmi,,Andrej Danko
+4465,2024-01-26,Martin Srna,1.0,Duhove sekely od zahranicnych mimovladok na jednosmerny let do Moskvy,,Andrej Danko
+4466,2024-01-26,Rusnák Radovan,0.02,"Posielam 1 centik za ukazkovy predklon Putinovi, za vydretu rigoroznupracu a za boj proti semaforom. Dalsi centik je od Sorosa.",,Andrej Danko
+4467,2024-01-26,Čechvala Tomáš,0.01,Viac takých odvážnych semaforov,,Andrej Danko
+4468,2024-01-26,Lenka Sulovcova,0.01,Hrad na Danka,,Andrej Danko
+4469,2024-01-26,Michalov Ján,0.01,jeden rubeľ pre kpt.plg ako vreckové do Ruska,,Andrej Danko
+4470,2024-01-26,Pavol Kassay,0.01,na liečbu zbabelosti,,Andrej Danko
+4471,2024-01-26,"Bednár Marián, Ing.",0.01,na nove vylozky a pakuj sa uz do Ruska ty chudak popleteny,,Andrej Danko
+4472,2024-01-26,Martina Marekova,0.01,Povedzte prosim navyrukavickovanejsia rukavicka,,Andrej Danko
+4473,2024-01-26,Hrúzová Helena,0.01,"Na ru Vasu kampan, za viac to nestoji",,Andrej Danko
+4474,2024-01-26,Ladislav Krencan,0.01,Buducemu majorovi na vylozky a na logopedov,,Andrej Danko
+4475,2024-01-26,Schelling Žaneta,0.01,Splnil sa mi sen a musím meniť celkové svoje žitie,,Andrej Danko
+4476,2024-01-26,Daniel Divinec,0.01,na 1.testovaci let na Mars,,Andrej Danko
+4477,2024-01-26,Andrej Straka,0.01,Najhlupejsiemu buranovi,,Andrej Danko
+4478,2024-01-26,Rausa Martin,0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidi prispevok na jedsosmernu cestu do Moskvy od kominara z BanskejBystrice,,Andrej Danko
+4479,2024-01-26,Radoslav Sladek,0.01,"Drzim palce pan Prezident, snad Vam tento prispevok pomoze porazit caputovu v nohavicach",,Andrej Danko
+4480,2024-01-26,Andrea Gajdosova,0.01,na jazdu bez nehody,,Andrej Danko
+4481,2024-01-26,Marcel Zodl,0.01,nech ziju postsedliaci,,Andrej Danko
+4482,2024-01-26,Matej Hanšut,0.01,"Danko,čo má rodičov súrodencov",,Andrej Danko
+4483,2024-01-26,Trepáčová Dagmar,0.02,Na rychlik do gubernie dla vlastneho vyberu,20240126.0,Andrej Danko
+4484,2024-01-26,Barbara Szabova,1.0,<3. (Sent from Revolut),,Andrej Danko
+4485,2024-01-26,Dodok Adam,0.01,Bozkávam Ťa všade Danky,,Andrej Danko
+4486,2024-01-26,Bednár Michal,0.01,"Drahý Andrej,dúfam že vyhraš voľbya prídeš ma pozrieť do Moskvy už ako hlava štátu. Tvoj priateľ Sergej.",,Andrej Danko
+4487,2024-01-26,Teťák Radoslav,100.0,F001260120245205576,,Andrej Danko
+4488,2024-01-26,Michal Matušák,0.01,na lístok do električky ty dementor z borovičky okotený,,Andrej Danko
+4489,2024-01-26,"Dzurenda Tomáš, Ing.",0.01,vazeny pan Kapitan,,Andrej Danko
+4490,2024-01-26,Bibiana Kudziova,0.01,Rakuske Euro z duhovej Viedne. Posielam boztek.,,Andrej Danko
+4491,2024-01-26,Vargová Sofia,0.01,"Huncutovi na nove zuby, bozkavam vas vsade",,Andrej Danko
+4492,2024-01-26,Branislav Pestun,0.01,"Odporucam radsej prihlasit sa do sutaze .l. storocia. Budete druhy, lebo ste taky .l. ze aj to pokazite",,Andrej Danko
+4493,2024-01-26,Valková Zdenka,0.01,"Na nové kapitánske výložky, nech máte čo bozkávať všade, keď vám už tú Zsuzsovú zabásli.",,Andrej Danko
+4494,2024-01-26,"Ženiš Peter, Ing.",0.01,"Presne o 1 cent viac, ako si zasluzis.",,Andrej Danko
+4495,2024-01-26,Simonides Peter,0.01,"putinov otrok, naspäť by som prosil 0.02 eura za náklady a čas",,Andrej Danko
+4496,2024-01-26,Milan Padych,0.01,"Chcel som poslat slnecnicove semienka do vrecka a poslat ta na Ukrainu, ale zevraj nejdes. Tak aspon posielam 100 Rublou.",,Andrej Danko
+4497,2024-01-26,Juráš Peter,0.01,Plesnem sa po vrecku a posielam sumu vo vyske zhodnej s IQ prijimatela.,,Andrej Danko
+4498,2024-01-26,Chudý Adam,0.01,1 rubel pre Ožratého Kapitána Danka. Bozkávam všade.,,Andrej Danko
+4499,2024-01-26,Škorňa Adam,0.01,Posielam petrosekely z Ameriky. Soros,666.0,Andrej Danko
+4500,2024-01-26,Michal Hoblik,0.01,"Na nove zuby, semafor a kurz slovenciny ty betar",,Andrej Danko
+4501,2024-01-26,Urban Samuel,0.01,Aby si si mohol kúpiť lepidlo na zuby vždy keď budeš citiť národne ajnahodne,,Andrej Danko
+4502,2024-01-26,Tomas Scherer,0.03,Do moskvy na cestu posielam ti,,Andrej Danko
+4503,2024-01-26,Bartolomej Balogh,0.01,"Na logopéda, a lubrikant na pretrkanie sa na prezidentske kreslo.",,Andrej Danko
+4504,2024-01-26,Volánek Peter,0.01,Rusky sasek na hrad.,,Andrej Danko
+4505,2024-01-26,Štora Miroslav,0.01,pre lasku boziu,,Andrej Danko
+4506,2024-01-26,Tomas Kukucka,0.01,"Ticho, teplo, tekutiny, tisenie bolesti, transport..",,Andrej Danko
+4507,2024-01-26,Šulák Martin,0.01,"Skoda, ze rozum sa neda prilepit ako ten tvoj zub.",2024.0,Andrej Danko
+4508,2024-01-26,Bianca Colonova,0.01,"Pan president, bozkavam vas vsade aj na semafore.",,Andrej Danko
+4509,2024-01-26,Ilaš Samuel,0.01,Na novy semafor,,Andrej Danko
+4510,2024-01-26,Samuel Masnica,0.01,"Na opravu semaforu, metlu a podporu k prezidentskym volbam",,Andrej Danko
+4511,2024-01-26,Borka Róbert,0.01,"DON Kapitanos Dankos, na logopeda neminat nic, to nema zmysel. Ked bude treba na jednosmernu letenku do Moskvy este rad prispejem.",,Andrej Danko
+4512,2024-01-26,Hybben Branislav,0.01,Na vylet za Bombicom,,Andrej Danko
+4513,2024-01-26,Eva Svarcova,0.01,coconut,,Andrej Danko
+4514,2024-01-26,Mihálik Peter,0.01,"Nakolkom si Vam vazim, posielam prispevok.",,Andrej Danko
+4515,2024-01-26,"Martina Kozlikova, Rastislav Kozlik",0.01,Na jednosmernu letenku do Putleristanu ty kapitan chuj,,Andrej Danko
+4516,2024-01-26,Zátorský Dávid,0.01,"Dobry den,tu je rusky agent,poslal som ti fakturu za tie bludy co Vladovi v Kremli hovorim.Opatruj sa sudruh poldeci. S pozdravom chskym",,Andrej Danko
+4517,2024-01-26,Pytel Samuel,0.01,boh nas chran pred kapitanom,,Andrej Danko
+4518,2024-01-26,Janto Peter,0.01,Na ostrouhly stol,,Andrej Danko
+4519,2024-01-26,Pytel Samuel,0.01,"hanba Slovenskej republiky, nas kapitan",,Andrej Danko
+4520,2024-01-26,Haviar Martin Ing.,0.01,"Na cestu do Moskvy, aby si mohol ujst pred tou hanbou...Bozkavam ta, ved vies...",,Andrej Danko
+4521,2024-01-26,Repka Tomáš,0.01,"A nezabúdaj, Cyril a Metod stoja v tomtom prezidentskom boji pri tebe.",,Andrej Danko
+4522,2024-01-26,Pastorková Eva,0.01,Nech si volici urobia uzaver sami,,Andrej Danko
+4523,2024-01-26,Martiš Pavol,0.01,"danko- ty si pánko, nenafúkaš ránko. Tomtom jeden schčent posielam všade",,Andrej Danko
+4524,2024-01-26,Dugovičová Janka,0.01,"Ja si ťa chcem užiť ako prezidenta, chcem aby si sa citíľ s výložkami dobre",,Andrej Danko
+4525,2024-01-26,Púpala Ľubomír,0.01,Prispevok na Slovensku narodnu stravu pri ostrouhlom stole,,Andrej Danko
+4526,2024-01-26,"ABC KOMINÁRSTVO, spol. s r.o.",0.01,OO24012600037268,,Andrej Danko
+4527,2024-01-26,Mališ Andrej,0.01,Jeden zlaty rubel pre kapitana na jednosmernu letenku do moskvy,,Andrej Danko
+4528,2024-01-26,Legal services group s.r.o.,1.0,Príspevok na opravu semafóru,,Andrej Danko
+4529,2024-01-26,Petra Matejova,0.01,Nazdravie,,Andrej Danko
+4530,2024-01-26,"NAJLEPŠIE KOMINÁRSTVO, s.r.o.",0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidi prispevok na jedsosmernu cestu do Moskvy od kominara z BanskejBystrice,,Andrej Danko
+4531,2024-01-26,"Magát Jozef, Ing.",0.01,Na listok jednosmerny do Moskvy v termeni januarovom,,Andrej Danko
+4532,2024-01-26,Dominik Martin,0.02,0.01 prispevok na roz..olejovany semafor a 0.01 na jednosmernu letenku znova pobozkat krvave bagandze masovemu vrahovi putlerovi,,Andrej Danko
+4533,2024-01-26,Rausa Martin,0.01,Pre retardovaneho kapitana ktory ked je na mol tak ani semafor nevidi prispevok na jedsosmernu cestu do Moskvy od kominara z BanskejBystrice,,Andrej Danko
+4534,2024-01-26,Oravkin Matúš,0.01,bozaj ma andrej,,Andrej Danko
+4535,2024-01-26,"Wagner Radovan, Ing.",0.01,"Kedze lobotomiu uz, evidentne, mas, prispievam na prezidentsku vazektomiu, aby si sa nemnozil, Ty nevkusny pottlerov kolaborant.",,Andrej Danko
+4536,2024-01-26,Weiss Jana,0.01,na rozok s maslom,,Andrej Danko
+4537,2024-01-26,"Šáriczki Peter, Ing.",0.01,Pesiak na A4,,Andrej Danko
+4538,2024-01-26,"Vargočko Štefan, Mgr.",0.01,Uz sa na teba tesim. Tvoj Milovany Soros,,Andrej Danko
+4539,2024-01-26,Adamec Peter,0.1,Serus Andy. Posielam ti centik. Kup si vodicak. Cmucik,,Andrej Danko
+4540,2024-01-26,Boška Andrej,0.01,"Za co ludia, za co? Za rebro, za rebro!!!",,Andrej Danko
+4541,2024-01-26,Slavomir Sikuda,0.01,"Jeden na letenku som ti uz poslal, tu mas este jeden pre Simkovicovu a odpalte do pekla. Viac vam nedam, by ste to len prechlastali.",,Andrej Danko
+4542,2024-01-26,"Farkaš Matej, Ing.",0.1,"Kapitan, tu mas na jednosmernu letenku do russka aby si mohol bozkavat putina vsade. Chskym?!",,Andrej Danko
+4543,2024-01-26,Daniš Patrik,0.1,russkemu Judasovi ktory nam Slovakom pomohol ako ten drat co oko vypichne,,Andrej Danko
+4544,2024-01-26,Jana Uskrtova,0.01,"Andrej Danko to je kral, vozi ho len taxikar, zubky on ma krasne biele, kanagonom prilepene, prezidentom chcel by byt, semafory odstranit",,Andrej Danko
+4545,2024-01-26,Mihálek Michal,0.01,Na jednosmernu letenku do Mordoru,,Andrej Danko
+4546,2024-01-26,Sivec Lukáš,0.01,"Zdemoluj vsetke semafory ty troll. Dufam ze aspon po prezidentskych volbach dostanes nejaku sebareflexiu. Bozkavam ta vsade ty ""Narodniar""",,Andrej Danko
+4547,2024-01-26,Kočner Michal,0.01,Andrejovi na logopeda,,Andrej Danko
+4548,2024-01-26,Jozef Breznicky,10.0,Nasmu Prezidentovi od Borisa Breznickeho,,Andrej Danko
+4549,2024-01-26,Erika Kubincova,0.01,"Ujo, ved vy len hanbu robite",,Andrej Danko
+4550,2024-01-26,"Šeba Peter, Mgr.",0.01,od neziskovky Za krajsiu Dubravku,,Andrej Danko
+4551,2024-01-26,Landl Jakub,0.01,Moj prvy rusky prezident :*,,Andrej Danko
+4552,2024-01-26,Dirga Ľuboš,0.01,"Na poriadne auto, aby ste nemuseli burat v skodovke",,Andrej Danko
+4553,2024-01-26,"Vysudil Marcel, Ing.",0.01,na kurz ako sa stat vaecsim kokotom,,Andrej Danko
+4554,2024-01-26,KOBZA MARTIN,0.01,"Na stožiar, semafor, Putina a ostatné falické predmety",,Andrej Danko
+4555,2024-01-26,Anna Cechvalova,0.01,Na zubara.,,Andrej Danko
+4556,2024-01-26,Pavlik Peter,0.03,Kolektiv zo Zahradnej,,Andrej Danko
+4557,2024-01-26,Zubo Daniel,0.01,"Posielam 1 rubel, snadsa zíde. Bolí ma to veľmi...",,Andrej Danko
+4558,2024-01-26,Godor Patrik,0.01,na kandidaturnu prezidenturu,,Andrej Danko
+4559,2024-01-26,Lukas Gbur,1.0,"Pan Denko, v Rassiji je patorka jednotkou, chapete??? 99 centikov posielam Sunkovicovej a jej kanalu TV Slopan...",,Andrej Danko
+4560,2024-01-26,Kandráč Jozef,0.01,"Na vylet do Moskvy. Ale by dobre bolo, ak by si tam ostal",,Andrej Danko
+4561,2024-01-26,Mária Krejčírová,0.02,Príspevok na jednosmernú letenku,12345.0,Andrej Danko
+4562,2024-01-26,Ivanič Leon,0.01,Aby bolo na nalepenie dalsich zubov pri buducich nehodach,,Andrej Danko
+4563,2024-01-26,Vaško Martin,0.01,"Pane, ste jedna bezodna narodna hanba. Fuj.",,Andrej Danko
+4564,2024-01-26,Hörik Tomáš,0.01,Na narodne menu,,Andrej Danko
+4565,2024-01-25,Macurák Milan,0.01,Kapitáňovi Andrejovi z Revúcej na nový semafor a prístroj na meranie alkoholu,1111111111.0,Andrej Danko
