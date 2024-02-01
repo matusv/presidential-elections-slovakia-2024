@@ -1,0 +1,31 @@
+index,date,amount,tx_type,account_name,message,ks,vs,ss,note
+0,2024-02-01,500.0,Bezhotovostný príjem,Marian Bednár,/DO2024-01-31/SPdar,0558,550308,,Marian Bednár
+1,2024-01-31,-30.01,Transakcia kartou,,"Nákup: OMV 2305, Bratislava, SK, dne 30.1.2024, částka  30.01 EUR",,0354,,"Nákup: OMV 2305, Bratislava, SK, dne 30.1.2024, částka  30.01 EUR"
+2,2024-01-30,-40.05,Transakcia kartou,,"Nákup: OMV 2314, Nitra, SK, dne 29.1.2024, částka  40.05 EUR",,0354,,"Nákup: OMV 2314, Nitra, SK, dne 29.1.2024, částka  40.05 EUR"
+3,2024-01-30,-390.0,Výber v hotovosti,,,0558,,,úhrada nákladov na volebnú kampaň
+4,2024-01-30,500.0,Bezhotovostný príjem,"Straňák Peter, MUDr.","/DO2024-01-29/SPPeter Stranak, Slnecna 166, Namestovo - Dar",0558,2024002,,"Straňák Peter, MUDr."
+5,2024-01-30,25.0,Bezhotovostný príjem,Pavol Skýpala,"/DO2024-01-29/SPPavol Skýpala, Fučíkova 636/11, 98701, Poltár, DAR",,,,Pavol Skýpala
+6,2024-01-29,10.0,Bezhotovostný príjem,Juraj Tököly,"/DO2024-01-26/SP Juraj Tokoly, Risnovce 557, dar",,,,Juraj Tököly
+7,2024-01-29,30.0,Bezhotovostný príjem,Jozef Capak,"/DO2024-01-26/SPJozef Capak, Puchov, dar",,,,Jozef Capak
+8,2024-01-29,10.0,Platba prevodom v rámci banky,"Szénasiová, Alžbeta","Alzbeta Szenasiova, Levice 93401, Polna 4,Dar",,,,"Alzbeta Szenasiova, Levice 93401, Polna 4,Dar"
+9,2024-01-26,30.0,Bezhotovostný príjem,Bronislava Minjariko,"/DO2024-01-25/SPBronislava Minjariková, Pribišova 2, 841 05 Bratis lava, dar",,,,Bronislava Minjariko
+10,2024-01-24,-460.0,Výber v hotovosti,,,0558,,,uhrada nákladov na volebnu kampan
+11,2024-01-24,30.0,Bezhotovostný príjem,Miroslav Pozník,"/DO2024-01-23/SPMiroslav Pozník ,Rozkvet 2064/139 ,01701 ,Považská Bystrica , dar",,,,Miroslav Pozník
+12,2024-01-23,100.0,Bezhotovostný príjem,Richard Šimčák,/DO2024-01-22/SPRichard Šimčák. Železiarenská 52 Košice Šaca 04015 . Dar.,,,,Richard Šimčák
+13,2024-01-23,48.0,Bezhotovostný príjem,TOMAS HABANIK,"Tomas Habanik, Dubovecka 45, Tr. Tepla, dar",,,,TOMAS HABANIK
+14,2024-01-22,24.0,Bezhotovostný príjem,Mária Štybrichová,"/DO2024-01-22/SP Maria Stybrichova, Krcava, dar",,,,Mária Štybrichová
+15,2024-01-22,30.0,Bezhotovostný príjem,Milan Minjarik,"/DO2024-01-19/SPMilan Minjarik, Rovníková 14, 821 02 Bratislava, d ar",,,,Milan Minjarik
+16,2024-01-18,50.0,Bezhotovostný príjem,Marek Lesík,/DO2024-01-18/SP Marek Lesik Culenova 5 Bratislava 811 09 DAR,,,,Marek Lesík
+17,2024-01-17,24.0,Bezhotovostný príjem,DUSAN FRATRIC,"/DO2024-01-16/SPDUSAN FRATRIC, POD ZECAKOM 47, BRATISLAVA, DAR",,,,DUSAN FRATRIC
+18,2024-01-15,-800.0,Výber v hotovosti,,,0558,,,úhrada nákladov na volebnú kampaň
+19,2024-01-15,25.0,Bezhotovostný príjem,Michal Kozák,"/DO2024-01-12/SPMichal Kozak, Jaltská 17, Košice, DAR",,,,Michal Kozák
+20,2024-01-15,1000.0,Bezhotovostný príjem,"Straňák Peter, MUDr.","/DO2024-01-12/SPPeter Stranak, Slnecna 166/24, Namestovo - Dar",0558,2024001,,"Straňák Peter, MUDr."
+21,2024-01-11,5.0,Platba prevodom v rámci banky,"Hrobárik, Martin",Martin Hrobarik Kolarovice 734 dar,,,,Martin Hrobarik Kolarovice 734 dar
+22,2024-01-10,20.0,Bezhotovostný príjem,Ivana Horváthová,"/DO2024-01-09/SP Ivana Horvathova, Dolna 54/31, Kremnica, dar",,,,Ivana Horváthová
+23,2024-01-09,10.0,Bezhotovostný príjem,"Maras Ladislav, JUDr",/DO2024-01-08/SPMaras Ladislav Presov Dar,0558,321963,,"Maras Ladislav, JUDr"
+24,2024-01-09,24.0,Bezhotovostný príjem,MATUSIK VLADIMIR,/DO2024-01-08/SPVladimir Matusik Upohlav 552 01801 Udica dar,,,,MATUSIK VLADIMIR
+25,2024-01-08,-340.0,Výber v hotovosti,,,0558,,,úhrada nákladov na volebnú kampaň
+26,2024-01-08,200.0,Bezhotovostný príjem,KOVALCIK MICHAL,/DO2024-01-07/SPMichal Kovalcik Slovenska Ves 387 Dar,,,,KOVALCIK MICHAL
+27,2024-01-08,100.0,Bezhotovostný príjem,Richard Székely,"/DO2024-01-05/SPAlexander Székely, Košice olivová 2 04001. DAR",,,,Richard Székely
+28,2024-01-08,20.0,Bezhotovostný príjem,Marián Chudý,/DO2024-01-06/SPMarian Chudy Emila Skákalu 1761/10Leopoldov 92041 DAR,,,,Marián Chudý
+29,2024-01-05,50.0,Bezhotovostný príjem,Pavol Skýpala,"/DO2024-01-04/SPPavol Skýpala, Fučíkova 636/11, 98701, Poltár, DAR",,,,Pavol Skýpala

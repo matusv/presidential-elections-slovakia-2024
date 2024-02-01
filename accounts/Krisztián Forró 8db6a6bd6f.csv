@@ -1,6 +1,28 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-01-29,-2845,EUR,"EGM, s.r.o.","Odoslaná platba elektronicky, Vyroba bannerov - Prezidentske volby 2024",VS: 202400012
-1,2024-01-24,-10848,EUR,H and K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 2/2024 - Prezidentske volby 2024",VS: 30240001
-2,2024-01-23,-3237.6,EUR,Kobalt s.r.o.,"Odoslaná platba elektronicky, Prenajom auta pocas kampane Prezidenske volby 2024",VS: 20240008
-3,2024-01-22,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
-4,2024-01-19,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
+0,2024-01-31,-10,EUR,Service Fees,"Za vedenie účtu, výpisy a transakcie, od 01.01.2024 do 31.01.2024, Za vedenie účtu/balíka služieb a výpisy: 10,00, Za transakcie: 0,00, 2 x prijaté platby: 0,00, 3 x debet - elektronicky: 0,00",
+1,2024-01-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.01.2024","VS: 497000030
+ŠS: 1138357340
+KS: 6898"
+2,2024-01-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.01.2024","VS: 497000030
+ŠS: 1138357340
+KS: 6898"
+3,2024-01-31,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 29.01.2024","VS: 497000030
+ŠS: 1138357340
+KS: 6898"
+4,2024-01-31,-10.8,EUR,,"Transakcia platobnou kartou, Suma: 10,8 EUR 29.01.2024 Miesto: FACEBK 384S5YPZK2 fb.me/ads","VS: 405000030
+ŠS: 1138357340
+KS: 0608"
+5,2024-01-31,-10.8,EUR,,"Transakcia platobnou kartou, Suma: 10,8 EUR 29.01.2024 Miesto: FACEBK NLU28ZXZK2 fb.me/ads","VS: 405000030
+ŠS: 1138357340
+KS: 0608"
+6,2024-01-31,-10.8,EUR,,"Transakcia platobnou kartou, Suma: 10,8 EUR 29.01.2024 Miesto: FACEBK 3EMKNYTZK2 fb.me/ads","VS: 405000030
+ŠS: 1138357340
+KS: 0608"
+7,2024-01-31,-3,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 30.01.2024","VS: 495000030
+ŠS: 1138357340
+KS: 6898"
+8,2024-01-29,-2845,EUR,"EGM, s.r.o.","Odoslaná platba elektronicky, Vyroba bannerov - Prezidentske volby 2024",VS: 202400012
+9,2024-01-24,-10848,EUR,H and K Plus s.r.o. ICO:51471965,"Odoslaná platba elektronicky, Prenajom a tlac billboardov na 2/2024 - Prezidentske volby 2024",VS: 30240001
+10,2024-01-23,-3237.6,EUR,Kobalt s.r.o.,"Odoslaná platba elektronicky, Prenajom auta pocas kampane Prezidenske volby 2024",VS: 20240008
+11,2024-01-22,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
+12,2024-01-19,25000,EUR,Krisztian Forro,"Prijatá platba, vklad",
