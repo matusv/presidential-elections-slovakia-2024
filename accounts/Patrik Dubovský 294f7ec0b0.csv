@@ -1,12 +1,13 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-03-06,43,EUR,Patrik Dubovsky PhD.,"Prijatá platba, ",
-1,2024-03-06,100,EUR,Ing. Lubomira Kakalikova PhD.,"Prijatá platba, Patrik dobre si sa rozhodol. Luba Kakalikova s rodinou","VS: 2024
+0,2024-03-12,100,EUR,"Holik Peter, Ing.","Prijatá platba, ",
+1,2024-03-06,43,EUR,Patrik Dubovsky PhD.,"Prijatá platba, ",
+2,2024-03-06,100,EUR,Ing. Lubomira Kakalikova PhD.,"Prijatá platba, Patrik dobre si sa rozhodol. Luba Kakalikova s rodinou","VS: 2024
 ŠS: 23
 KS: 3"
-2,2024-02-29,-3,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.02.2024","VS: 495000059
+3,2024-02-29,-3,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.02.2024","VS: 495000059
 ŠS: 1138119419
 KS: 6898"
-3,2024-02-26,10,EUR,GUNCAGA JAN,"Prijatá platba, prispevok na kampan",
-4,2024-02-20,50,EUR,LALIK JURAJ,"Prijatá platba, prispevok PV 2024",
-5,2024-02-19,100,EUR,Jozef Hegedus,"Prijatá platba, ",
-6,2024-02-05,30,EUR,KAMIL KOVER,"Prijatá platba, KAMIL KOVER PRISPEVOK NA VOLEBNU KAMPAN",VS: 0000195222
+4,2024-02-26,10,EUR,GUNCAGA JAN,"Prijatá platba, prispevok na kampan",
+5,2024-02-20,50,EUR,LALIK JURAJ,"Prijatá platba, prispevok PV 2024",
+6,2024-02-19,100,EUR,Jozef Hegedus,"Prijatá platba, ",
+7,2024-02-05,30,EUR,KAMIL KOVER,"Prijatá platba, KAMIL KOVER PRISPEVOK NA VOLEBNU KAMPAN",VS: 0000195222
