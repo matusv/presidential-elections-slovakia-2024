@@ -1,13 +1,20 @@
 index,date,amount,currency,account_name,message,vs
-0,2024-03-12,100,EUR,"Holik Peter, Ing.","Prijatá platba, ",
-1,2024-03-06,43,EUR,Patrik Dubovsky PhD.,"Prijatá platba, ",
-2,2024-03-06,100,EUR,Ing. Lubomira Kakalikova PhD.,"Prijatá platba, Patrik dobre si sa rozhodol. Luba Kakalikova s rodinou","VS: 2024
-ŠS: 23
-KS: 3"
-3,2024-02-29,-3,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.02.2024","VS: 495000059
+0,2024-03-15,-0.2,EUR,,"Poplatok platobné karty, Miesto: Transakcny poplatok Suma: 0 EUR 14.03.2024","VS: 497000075
 ŠS: 1138119419
 KS: 6898"
-4,2024-02-26,10,EUR,GUNCAGA JAN,"Prijatá platba, prispevok na kampan",
-5,2024-02-20,50,EUR,LALIK JURAJ,"Prijatá platba, prispevok PV 2024",
-6,2024-02-19,100,EUR,Jozef Hegedus,"Prijatá platba, ",
-7,2024-02-05,30,EUR,KAMIL KOVER,"Prijatá platba, KAMIL KOVER PRISPEVOK NA VOLEBNU KAMPAN",VS: 0000195222
+1,2024-03-15,-150,EUR,,"Výber hotovosti kartou, Suma: 150 EUR 14.03.2024 Miesto: CSOB Dunajska Streda Dunajska Stre","VS: 401000075
+ŠS: 1138119419
+KS: 0608"
+2,2024-03-15,150,EUR,Patrik Dubovsky PhD.,"Prijatá platba, ",
+3,2024-03-12,100,EUR,"Holik Peter, Ing.","Prijatá platba, ",
+4,2024-03-06,43,EUR,Patrik Dubovsky PhD.,"Prijatá platba, ",
+5,2024-03-06,100,EUR,Ing. Lubomira Kakalikova PhD.,"Prijatá platba, Patrik dobre si sa rozhodol. Luba Kakalikova s rodinou","VS: 2024
+ŠS: 23
+KS: 3"
+6,2024-02-29,-3,EUR,,"Poplatok platobné karty, Miesto: VISA CLASSIC DEB. CL Suma: 3 EUR 28.02.2024","VS: 495000059
+ŠS: 1138119419
+KS: 6898"
+7,2024-02-26,10,EUR,GUNCAGA JAN,"Prijatá platba, prispevok na kampan",
+8,2024-02-20,50,EUR,LALIK JURAJ,"Prijatá platba, prispevok PV 2024",
+9,2024-02-19,100,EUR,Jozef Hegedus,"Prijatá platba, ",
+10,2024-02-05,30,EUR,KAMIL KOVER,"Prijatá platba, KAMIL KOVER PRISPEVOK NA VOLEBNU KAMPAN",VS: 0000195222
