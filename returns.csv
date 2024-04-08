@@ -1359,83 +1359,91 @@ index,index,date,amount,account_name,message,vs,name
 1357,1680,2024-01-27,0.01,Boris Legutky,Rublicek na narodne menu ranajky v prezidentskom palaci+ kup si neco na sebe. Spasiba.,,Andrej Danko
 1358,745,2024-02-15,-0.01,Ivan Jakubis,Vratenie platby podla zakona zo dna 27.01.2024,,Andrej Danko
 1359,1676,2024-01-27,0.01,Ivan Jakubis,Uzivaj a cit sa dobre,,Andrej Danko
-1360,27,2024-02-29,-0.01,Mokrýš Denis,vrátenie daru,,Marian Kotleba
-1361,92,2024-02-06,0.01,Mokrýš Denis,"Volam sa M.Kotleba, pre koktavych len Magian!",1234567.0,Marian Kotleba
-1362,28,2024-02-29,-1.0,Petr Chmelik,vrátenie daru,,Marian Kotleba
-1363,91,2024-02-06,1.0,Petr Chmelik,"Sorosova mimovladka, Reptilianom zdar",,Marian Kotleba
-1364,29,2024-02-29,-0.01,MATUS ULICNY,vrátenie daru,,Marian Kotleba
-1365,90,2024-02-07,0.01,MATUS ULICNY,"MAJKOVI NA LOBOTOMIU MOZGU. CENTIK KU CENTIKU, EURICKO K EURICKU. SPOLU TO PRE MAJKA DOKAZEME.",1488.0,Marian Kotleba
-1366,30,2024-02-29,-0.01,Mališ Vladimír,vrátenie daru,,Marian Kotleba
-1367,89,2024-02-07,0.01,Mališ Vladimír,pre nacka,,Marian Kotleba
-1368,34,2024-02-29,-0.01,FLIMEL LUKAS,vrátenie daru,,Marian Kotleba
-1369,85,2024-02-08,0.01,FLIMEL LUKAS,Na nove hrable,,Marian Kotleba
-1370,32,2024-02-29,-0.01,Rychtárik Martin,vrátenie daru,,Marian Kotleba
-1371,87,2024-02-07,0.01,Rychtárik Martin,Na lestidlo na kanady ty nacisticke tupelo.,,Marian Kotleba
-1372,33,2024-02-29,-0.01,Ivanič Peter,vrátenie daru,,Marian Kotleba
-1373,86,2024-02-07,0.01,Ivanič Peter,Nasleduj svoj vzor Adolfa a prezen si hlavou gulku ty nacisticka svina,,Marian Kotleba
-1374,26,2024-02-29,-0.01,Peter Dubovsky,vrátenie daru,,Marian Kotleba
-1375,93,2024-02-06,0.01,Peter Dubovsky,Nazi raus,,Marian Kotleba
-1376,31,2024-02-29,-0.01,"Kužela Martin, Ing.",vrátenie daru,,Marian Kotleba
-1377,88,2024-02-07,0.01,"Kužela Martin, Ing.",no ty si ale riadny k...,,Marian Kotleba
-1378,25,2024-02-29,-0.01,Michal Prusak,vrátenie daru,,Marian Kotleba
-1379,94,2024-02-06,0.01,Michal Prusak,Na alobalovu ciapku na ochranu pred jastermi. Nenechame sa ocipovat.,,Marian Kotleba
-1380,18,2024-02-29,-0.01,Laco Vladimír,vrátenie daru,,Marian Kotleba
-1381,101,2024-02-05,0.01,Laco Vladimír,aby sa ti lepsie hajlovalo,,Marian Kotleba
-1382,23,2024-02-29,-0.01,Bielek Marek,vrátenie daru,,Marian Kotleba
-1383,96,2024-02-05,0.01,Bielek Marek,Na novu podprsenku,,Marian Kotleba
-1384,22,2024-02-29,-0.01,Augustín Jozef,vrátenie daru,,Marian Kotleba
-1385,97,2024-02-05,0.01,Augustín Jozef,Prispevok na kampan od Sorosa.,,Marian Kotleba
-1386,21,2024-02-29,-0.01,Pelák Martin,vrátenie daru,,Marian Kotleba
-1387,98,2024-02-05,0.01,Pelák Martin,"ZALEZ DO KANÁLU, TY DEZOLÁT ŠPINAVÝ",,Marian Kotleba
-1388,20,2024-02-29,-0.01,Petra Selepcova,vrátenie daru,,Marian Kotleba
-1389,99,2024-02-05,0.01,Petra Selepcova,Magian pgezident nebudes,,Marian Kotleba
-1390,19,2024-02-29,-0.01,Ihnát Ľuboš,vrátenie daru,,Marian Kotleba
-1391,100,2024-02-05,0.01,Ihnát Ľuboš,To je zbierka na bager?,,Marian Kotleba
-1392,17,2024-02-29,-0.14,Zrubec Ivan,vrátenie daru,,Marian Kotleba
-1393,102,2024-02-05,0.14,Zrubec Ivan,Na vodku a bromhexin,,Marian Kotleba
-1394,24,2024-02-29,-0.01,Peter Iring,vrátenie daru,,Marian Kotleba
-1395,95,2024-02-05,0.01,Peter Iring,Sprostredkovanie platby od Sorosa a americkej ambasady.,,Marian Kotleba
-1396,35,2024-02-29,-0.01,Sokol Richard,vrátenie daru,,Marian Kotleba
-1397,84,2024-02-09,0.01,Sokol Richard,Sledujte radšej @debylko ako tohtonacka,,Marian Kotleba
-1398,51,2024-02-29,-0.01,Kubek Michal,vrátenie daru,,Marian Kotleba
-1399,68,2024-02-16,0.01,Kubek Michal,na kgtkovu togtu,,Marian Kotleba
-1400,37,2024-02-29,-0.01,Adam Krížek,vrátenie daru,,Marian Kotleba
-1401,82,2024-02-09,0.01,Adam Krížek,Na letenku do Ruska.,,Marian Kotleba
-1402,56,2024-02-29,-0.02,PAULINY RASTISLAV,vrátenie daru,,Marian Kotleba
-1403,63,2024-02-19,0.02,PAULINY RASTISLAV,Na Bromhexin a vodku.,,Marian Kotleba
-1404,55,2024-02-29,-0.01,"Martinec Michal, Mgr.",vrátenie daru,,Marian Kotleba
-1405,64,2024-02-17,0.01,"Martinec Michal, Mgr.",na logopeda.,,Marian Kotleba
-1406,36,2024-02-29,-0.02,Gurčík Filip,vrátenie daru,,Marian Kotleba
-1407,83,2024-02-09,0.02,Gurčík Filip,Se pojeb ty chuju,,Marian Kotleba
-1408,53,2024-02-29,-0.01,Marek Ostrochovsky,vrátenie daru,,Marian Kotleba
-1409,66,2024-02-16,0.01,Marek Ostrochovsky,isiel nacek do Egypta a ako dopadol? :-D,,Marian Kotleba
-1410,52,2024-02-29,-0.01,MICHAL RYBAR,vrátenie daru,,Marian Kotleba
-1411,67,2024-02-16,0.01,MICHAL RYBAR,NA KADERNIKA,,Marian Kotleba
-1412,50,2024-02-29,-0.01,Hrubiško Lukáš,vrátenie daru,,Marian Kotleba
-1413,69,2024-02-15,0.01,Hrubiško Lukáš,,,Marian Kotleba
-1414,49,2024-02-29,-0.01,Kišac Dalibor,vrátenie daru,,Marian Kotleba
-1415,70,2024-02-15,0.01,Kišac Dalibor,Plesatemu nackovi na kebab.,,Marian Kotleba
-1416,48,2024-02-29,-0.01,SOKOLOVA SOFIA,vrátenie daru,,Marian Kotleba
-1417,71,2024-02-13,0.01,SOKOLOVA SOFIA,na kolozvarsku,,Marian Kotleba
-1418,47,2024-02-29,-0.01,"Hnatič Erik, Ing.",vrátenie daru,,Marian Kotleba
-1419,72,2024-02-13,0.01,"Hnatič Erik, Ing.",ako sa vola oblubena Marianova TV show? Sudna sien. lebo tam vidi svojich kamosov,,Marian Kotleba
-1420,54,2024-02-29,-0.01,Jaššo Peter,vrátenie daru,,Marian Kotleba
-1421,65,2024-02-16,0.01,Jaššo Peter,na bager,,Marian Kotleba
-1422,45,2024-02-29,-0.01,Jakub Čano,vrátenie daru,,Marian Kotleba
-1423,74,2024-02-13,0.01,Jakub Čano,Pre nácka,,Marian Kotleba
-1424,44,2024-02-29,-0.14,Kuruc Tomáš,vrátenie daru,,Marian Kotleba
-1425,75,2024-02-12,0.14,Kuruc Tomáš,"Sorry, v tej platbe predtym som sa sekol, malo tam byt 88. Samozrejme nahoda.",,Marian Kotleba
-1426,43,2024-02-29,-0.82,Kuruc Tomáš,vrátenie daru,,Marian Kotleba
-1427,76,2024-02-12,0.82,Kuruc Tomáš,OO24021200044917,,Marian Kotleba
-1428,46,2024-02-29,-0.01,ROMAN ROVENSKY,vrátenie daru,,Marian Kotleba
-1429,73,2024-02-13,0.01,ROMAN ROVENSKY,1CENT S VYOBRAZENIM AKO DIABOL VCHADZA BRANOU,,Marian Kotleba
-1430,42,2024-02-29,-0.01,František Szabo,vrátenie daru,,Marian Kotleba
-1431,77,2024-02-12,0.01,František Szabo,odškodné za tú podmienku čo si dostal,,Marian Kotleba
-1432,41,2024-02-29,-0.01,Horná Denisa,vrátenie daru,,Marian Kotleba
-1433,78,2024-02-12,0.01,Horná Denisa,"aby mu zahrali Ave Mariu, ostatné na doučovanie histórie",,Marian Kotleba
-1434,40,2024-02-29,-0.01,Muráň Sebastián,vrátenie daru,,Marian Kotleba
-1435,79,2024-02-12,0.01,Muráň Sebastián,F001120220246370754,,Marian Kotleba
-1436,39,2024-02-29,-0.01,Žalman Boris,vrátenie daru,,Marian Kotleba
-1437,80,2024-02-11,0.01,Žalman Boris,na logopeda,,Marian Kotleba
-1438,38,2024-02-29,-0.66,Radoslav Pilat,vrátenie daru,,Marian Kotleba
-1439,81,2024-02-09,0.66,Radoslav Pilat,Za Miska Anicku M...,,Marian Kotleba
+1360,31,2024-02-29,-0.01,Mokrýš Denis,vrátenie daru,,Marian Kotleba
+1361,96,2024-02-06,0.01,Mokrýš Denis,"Volam sa M.Kotleba, pre koktavych len Magian!",1234567.0,Marian Kotleba
+1362,32,2024-02-29,-1.0,Petr Chmelik,vrátenie daru,,Marian Kotleba
+1363,95,2024-02-06,1.0,Petr Chmelik,"Sorosova mimovladka, Reptilianom zdar",,Marian Kotleba
+1364,33,2024-02-29,-0.01,MATUS ULICNY,vrátenie daru,,Marian Kotleba
+1365,94,2024-02-07,0.01,MATUS ULICNY,"MAJKOVI NA LOBOTOMIU MOZGU. CENTIK KU CENTIKU, EURICKO K EURICKU. SPOLU TO PRE MAJKA DOKAZEME.",1488.0,Marian Kotleba
+1366,34,2024-02-29,-0.01,Mališ Vladimír,vrátenie daru,,Marian Kotleba
+1367,93,2024-02-07,0.01,Mališ Vladimír,pre nacka,,Marian Kotleba
+1368,38,2024-02-29,-0.01,FLIMEL LUKAS,vrátenie daru,,Marian Kotleba
+1369,89,2024-02-08,0.01,FLIMEL LUKAS,Na nove hrable,,Marian Kotleba
+1370,36,2024-02-29,-0.01,Rychtárik Martin,vrátenie daru,,Marian Kotleba
+1371,91,2024-02-07,0.01,Rychtárik Martin,Na lestidlo na kanady ty nacisticke tupelo.,,Marian Kotleba
+1372,37,2024-02-29,-0.01,Ivanič Peter,vrátenie daru,,Marian Kotleba
+1373,90,2024-02-07,0.01,Ivanič Peter,Nasleduj svoj vzor Adolfa a prezen si hlavou gulku ty nacisticka svina,,Marian Kotleba
+1374,30,2024-02-29,-0.01,Peter Dubovsky,vrátenie daru,,Marian Kotleba
+1375,97,2024-02-06,0.01,Peter Dubovsky,Nazi raus,,Marian Kotleba
+1376,35,2024-02-29,-0.01,"Kužela Martin, Ing.",vrátenie daru,,Marian Kotleba
+1377,92,2024-02-07,0.01,"Kužela Martin, Ing.",no ty si ale riadny k...,,Marian Kotleba
+1378,29,2024-02-29,-0.01,Michal Prusak,vrátenie daru,,Marian Kotleba
+1379,98,2024-02-06,0.01,Michal Prusak,Na alobalovu ciapku na ochranu pred jastermi. Nenechame sa ocipovat.,,Marian Kotleba
+1380,22,2024-02-29,-0.01,Laco Vladimír,vrátenie daru,,Marian Kotleba
+1381,105,2024-02-05,0.01,Laco Vladimír,aby sa ti lepsie hajlovalo,,Marian Kotleba
+1382,27,2024-02-29,-0.01,Bielek Marek,vrátenie daru,,Marian Kotleba
+1383,100,2024-02-05,0.01,Bielek Marek,Na novu podprsenku,,Marian Kotleba
+1384,26,2024-02-29,-0.01,Augustín Jozef,vrátenie daru,,Marian Kotleba
+1385,101,2024-02-05,0.01,Augustín Jozef,Prispevok na kampan od Sorosa.,,Marian Kotleba
+1386,25,2024-02-29,-0.01,Pelák Martin,vrátenie daru,,Marian Kotleba
+1387,102,2024-02-05,0.01,Pelák Martin,"ZALEZ DO KANÁLU, TY DEZOLÁT ŠPINAVÝ",,Marian Kotleba
+1388,24,2024-02-29,-0.01,Petra Selepcova,vrátenie daru,,Marian Kotleba
+1389,103,2024-02-05,0.01,Petra Selepcova,Magian pgezident nebudes,,Marian Kotleba
+1390,23,2024-02-29,-0.01,Ihnát Ľuboš,vrátenie daru,,Marian Kotleba
+1391,104,2024-02-05,0.01,Ihnát Ľuboš,To je zbierka na bager?,,Marian Kotleba
+1392,21,2024-02-29,-0.14,Zrubec Ivan,vrátenie daru,,Marian Kotleba
+1393,106,2024-02-05,0.14,Zrubec Ivan,Na vodku a bromhexin,,Marian Kotleba
+1394,28,2024-02-29,-0.01,Peter Iring,vrátenie daru,,Marian Kotleba
+1395,99,2024-02-05,0.01,Peter Iring,Sprostredkovanie platby od Sorosa a americkej ambasady.,,Marian Kotleba
+1396,39,2024-02-29,-0.01,Sokol Richard,vrátenie daru,,Marian Kotleba
+1397,88,2024-02-09,0.01,Sokol Richard,Sledujte radšej @debylko ako tohtonacka,,Marian Kotleba
+1398,53,2024-02-29,-0.01,Kišac Dalibor,vrátenie daru,,Marian Kotleba
+1399,74,2024-02-15,0.01,Kišac Dalibor,Plesatemu nackovi na kebab.,,Marian Kotleba
+1400,41,2024-02-29,-0.01,Adam Krížek,vrátenie daru,,Marian Kotleba
+1401,86,2024-02-09,0.01,Adam Krížek,Na letenku do Ruska.,,Marian Kotleba
+1402,40,2024-02-29,-0.02,Gurčík Filip,vrátenie daru,,Marian Kotleba
+1403,87,2024-02-09,0.02,Gurčík Filip,Se pojeb ty chuju,,Marian Kotleba
+1404,59,2024-02-29,-0.01,"Martinec Michal, Mgr.",vrátenie daru,,Marian Kotleba
+1405,68,2024-02-17,0.01,"Martinec Michal, Mgr.",na logopeda.,,Marian Kotleba
+1406,58,2024-02-29,-0.01,Jaššo Peter,vrátenie daru,,Marian Kotleba
+1407,69,2024-02-16,0.01,Jaššo Peter,na bager,,Marian Kotleba
+1408,57,2024-02-29,-0.01,Marek Ostrochovsky,vrátenie daru,,Marian Kotleba
+1409,70,2024-02-16,0.01,Marek Ostrochovsky,isiel nacek do Egypta a ako dopadol? :-D,,Marian Kotleba
+1410,56,2024-02-29,-0.01,MICHAL RYBAR,vrátenie daru,,Marian Kotleba
+1411,71,2024-02-16,0.01,MICHAL RYBAR,NA KADERNIKA,,Marian Kotleba
+1412,55,2024-02-29,-0.01,Kubek Michal,vrátenie daru,,Marian Kotleba
+1413,72,2024-02-16,0.01,Kubek Michal,na kgtkovu togtu,,Marian Kotleba
+1414,54,2024-02-29,-0.01,Hrubiško Lukáš,vrátenie daru,,Marian Kotleba
+1415,73,2024-02-15,0.01,Hrubiško Lukáš,,,Marian Kotleba
+1416,52,2024-02-29,-0.01,SOKOLOVA SOFIA,vrátenie daru,,Marian Kotleba
+1417,75,2024-02-13,0.01,SOKOLOVA SOFIA,na kolozvarsku,,Marian Kotleba
+1418,51,2024-02-29,-0.01,"Hnatič Erik, Ing.",vrátenie daru,,Marian Kotleba
+1419,76,2024-02-13,0.01,"Hnatič Erik, Ing.",ako sa vola oblubena Marianova TV show? Sudna sien. lebo tam vidi svojich kamosov,,Marian Kotleba
+1420,60,2024-02-29,-0.02,PAULINY RASTISLAV,vrátenie daru,,Marian Kotleba
+1421,67,2024-02-19,0.02,PAULINY RASTISLAV,Na Bromhexin a vodku.,,Marian Kotleba
+1422,49,2024-02-29,-0.01,Jakub Čano,vrátenie daru,,Marian Kotleba
+1423,78,2024-02-13,0.01,Jakub Čano,Pre nácka,,Marian Kotleba
+1424,50,2024-02-29,-0.01,ROMAN ROVENSKY,vrátenie daru,,Marian Kotleba
+1425,77,2024-02-13,0.01,ROMAN ROVENSKY,1CENT S VYOBRAZENIM AKO DIABOL VCHADZA BRANOU,,Marian Kotleba
+1426,48,2024-02-29,-0.14,Kuruc Tomáš,vrátenie daru,,Marian Kotleba
+1427,79,2024-02-12,0.14,Kuruc Tomáš,"Sorry, v tej platbe predtym som sa sekol, malo tam byt 88. Samozrejme nahoda.",,Marian Kotleba
+1428,47,2024-02-29,-0.82,Kuruc Tomáš,vrátenie daru,,Marian Kotleba
+1429,80,2024-02-12,0.82,Kuruc Tomáš,OO24021200044917,,Marian Kotleba
+1430,46,2024-02-29,-0.01,František Szabo,vrátenie daru,,Marian Kotleba
+1431,81,2024-02-12,0.01,František Szabo,odškodné za tú podmienku čo si dostal,,Marian Kotleba
+1432,45,2024-02-29,-0.01,Horná Denisa,vrátenie daru,,Marian Kotleba
+1433,82,2024-02-12,0.01,Horná Denisa,"aby mu zahrali Ave Mariu, ostatné na doučovanie histórie",,Marian Kotleba
+1434,44,2024-02-29,-0.01,Muráň Sebastián,vrátenie daru,,Marian Kotleba
+1435,83,2024-02-12,0.01,Muráň Sebastián,F001120220246370754,,Marian Kotleba
+1436,43,2024-02-29,-0.01,Žalman Boris,vrátenie daru,,Marian Kotleba
+1437,84,2024-02-11,0.01,Žalman Boris,na logopeda,,Marian Kotleba
+1438,42,2024-02-29,-0.66,Radoslav Pilat,vrátenie daru,,Marian Kotleba
+1439,85,2024-02-09,0.66,Radoslav Pilat,Za Miska Anicku M...,,Marian Kotleba
+1440,3,2024-04-08,-0.01,Jakub Lóška,vrátanie daru,,Marian Kotleba
+1441,18,2024-03-04,0.01,Jakub Lóška,Magiankovi na logopeda aby uz spgavne hovogil to g,,Marian Kotleba
+1442,2,2024-04-08,-0.01,Simon Szomszéd,vrátenie daru,,Marian Kotleba
+1443,17,2024-03-05,0.01,Simon Szomszéd,Pánovi Magianovi na bgomhexín a vodku.,,Marian Kotleba
+1444,1,2024-04-08,-0.02,TOMAS JASUREK,vrátenie daru,,Marian Kotleba
+1445,16,2024-03-08,0.02,TOMAS JASUREK,Polib mi nacek,,Marian Kotleba
+1446,0,2024-04-08,-0.01,Ing.Martin Skovran,vrátenie daru,,Marian Kotleba
+1447,15,2024-03-12,0.01,Ing.Martin Skovran,Posielam Mariankovi na nove zelenetrenirky,,Marian Kotleba
